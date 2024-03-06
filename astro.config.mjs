@@ -5,20 +5,28 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'Понаехали!',
+			title: 'Понаехали в Испанию',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/luvs/ponaehali.es',
 			},
 			sidebar: [
+				{ label: 'FAQ', link: 'guides/faq' },
 				{
-					label: 'Guides',
+					label: 'Гайды',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', link: '/guides/example/' },
+						{ 
+              label: 'Налоги', 
+              items: [
+                { label: "Intro", link: '/guides/taxes/' },
+                { label: "chapter1", link: '/guides/taxes/chapter1' },
+              ],
+            },
+						{ label: 'Соцстрах', link: '/guides/example/' },
+						{ label: 'Aутономо (ИП)', link: '/guides/example/' },
 					],
 				},
 				{
-					label: 'Reference',
+					label: 'Города',
 					autogenerate: { directory: 'reference' },
 				},
 			],
