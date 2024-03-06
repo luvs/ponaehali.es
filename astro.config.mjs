@@ -6,6 +6,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Понаехали в Испанию',
+			favicon: '/images/favicon.ico',
 			social: {
 				github: 'https://github.com/luvs/ponaehali.es',
 			},
