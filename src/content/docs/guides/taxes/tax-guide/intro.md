@@ -1,6 +1,6 @@
 ---
-title: CHAPTER1
-description: A guide in my new Starlight docs site.
+title: Про налоговый путеводитель
+description: Про налоговый гайд
 sidebar:
   order: 10
 ---
