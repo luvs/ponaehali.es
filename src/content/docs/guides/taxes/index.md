@@ -1,13 +1,28 @@
 ---
-title: TAX
-description: A guide in my new Starlight docs site.
-sidebar:
-  order: 1
+title: Налоги в Испании
+description: Налоги в Испании
 ---
 
-Guides lead a user through a specific task they want to accomplish, often with a sequence of steps.
-Writing a good guide requires thinking about what your users are trying to do.
+Этот сайт представляет собой набор ссылок, гайдов и путеводителей для всех кто понаехал в Испанию. Надеюсь вам будет полезно.
 
-## Further reading
+:::tip[Контакты]
 
-- Read [about how-to guides](https://diataxis.fr/how-to-guides/) in the Diátaxis framework
+Вопросы, пожелания и дополнения можно писать в [телеграм](https://t.me/luvsandugar). Так же заходите в [канал](https://t.me/luvsnotes).
+
+:::
+
+## Как добавить контент
+
+Если умеете, сделайте pull request в [github](https://github.com/luvs/ponaehali.es), если не умеете, можете написать мне в [телеграм](https://t.me/luvsandugar).
+
+## Сказать спасибо
+
+Желающие сказать спасибо, могут купить мне кофе [тут](https://www.buymeacoffee.com/luvsandugar) :)
+
+**Или так:** 
+
+```
+btc: bc1qayuqdapqghgzhc0380qh50x898xumwd6fvm8jx
+eth: 0x2EA949F0499aC3893f8a1C8a1269c7Bb76420Fa9
+usdt (eth): 0x2EA949F0499aC3893f8a1C8a1269c7Bb76420Fa9
+```
