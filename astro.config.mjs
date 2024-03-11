@@ -68,6 +68,8 @@ export default defineConfig({
               items: [
                 { label: 'Введение', link: '/guides/taxes/cef-tax-guide' },
                 { label: 'Глава 1. Введение в налогообложение', link: '/guides/taxes/cef-tax-guide/chapter-01' },
+                { label: "Глава 2. Налоги и налоговые процедуры", link: '/guides/taxes/cef-tax-guide/chapter-02' },
+                { label: "Глава 3. Подоходный налог с физических лиц (IRPF)", link: '/guides/taxes/cef-tax-guide/chapter-03' },
               ]
             },
             {
