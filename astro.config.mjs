@@ -54,6 +54,7 @@ export default defineConfig({
           label: 'Налоги в Испании', 
           items: [
             { label: "Гайды, ссылки, чаты", link: '/guides/taxes/' },
+            { label: "Калькулятор", link: '/guides/taxes/calculator' },
             { label: 'Глоссарий', link: '/guides/taxes/glossary' },
             { label: 'Законы', link: '/guides/taxes/laws' },
             {
