@@ -100,11 +100,13 @@ export default defineConfig({
 				{
 					label: 'Города',
           items: [
-            { label: "Мадрид", link: "/guides/cities/madrid" },
-            { label: "Барселона", link: "/guides/cities/barcelona" },
-            { label: "Валенсия", link: "/guides/cities/valencia" },
-            { label: "Бильбао", link: "/guides/cities/bilbao" },
-            { label: "Овьедо", link: "/guides/cities/oviedo" },
+            {
+              label: "Страна Басков",
+              items: [
+                { label: 'О стране Басков', link: '/guides/regions/basque-country' },
+                { label: 'Бильбао', link: '/guides/regions/basque-country/bilbao' },
+              ]
+            },
           ]
 				},
 			],

@@ -1913,8 +1913,738 @@ Cuota íntegra estatal = Cuota íntegra general estatal + Cuota íntegra del aho
 
 :::
 
-## 14. Дифференцированное налоговое обязательство
+## 14. Дифференцированное налоговое обязательство (квота)
+
+Разница в налоговой квоте будет результатом уменьшения общей налоговой квоты (государственной и региональной) на следующие пункты:
+
+- Чистая налоговая квота (Cuota líquida)
+  - (-) Вычет за двойное налогообложение за рубежом
+  - (-) Авансовые платежи
+- Разница в налоговой квоте (Cuota  diferencial)
+  - (-) Вычет за материнство
+  - (-) Вычет за многодетные семьи и лица с инвалидностью на иждивении
+- = Итоговая сумма налоговой декларации
+
+### 14.1. Вычет за двойное налогообложение за рубежом ([ст. 80 LIRPF](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a80))
+
+Если в доходах налогоплательщика есть доходы или капитальная прибыль, полученные и облагаемые налогом за границей, вычитается меньшая из следующих сумм:
+
+- Фактическая сумма уплаченного за границей налога аналогичного или похожего на IRPF или налог на доходы нерезидентов по этим доходам или капитальной прибыли.
+- Результат применения средней налоговой ставки к части налогооблагаемой базы, облагаемой за рубежом.
+
+### 14.2. Авансовые платежи
+
+Будут уменьшаться удержания, авансовые платежи, произведенные самим налогоплательщиком, и предварительные платежи, произведенные им, если он осуществляет экономическую деятельность.
+
+### 14.3. Вычет за материнство
+
+Этот вычет могут применять женщины, которые одновременно соответствуют двум критериям:
+
+- Имеют детей младше трех лет, имеющих право на применение минимума по потомству.
+- В момент рождения ребенка получают страховые выплаты или помощь по безработице, или в этот момент или позднее зарегистрированы в соответствующем режиме социального обеспечения или взаимного общества с минимальным периодом в последнем случае в 30 дней.
+
+Вычет составляет 100 евро за каждого ребенка и за каждый месяц, когда:
+
+- Дети младше трех лет в последний день месяца.
+- В эти месяцы ни один из родителей не получает дополнение к помощи на детей, предусмотренное в Законе 19/2021 от 20 декабря, устанавливающем минимальный доход. Если имеется право на вычет в отношении этого потомства после регистрации в социальном обеспечении или взаимном обществе после рождения ребенка, соответствующий вычет за месяц, в котором достигается период в 30 дней, увеличивается на 150 евро.
+
+Сумма вычета, указанного в предыдущем пункте, может быть увеличена на 1 000 евро, если налогоплательщик, имеющий право на него, понес расходы на содержание ребенка младше трех лет в детских садах или авторизованных дошкольных учреждениях в налоговый период.
+
+В налоговом периоде, когда ребенок достигает трех лет, увеличение, предусмотренное в этом пункте, может быть применено к расходам, понесенным после достижения этого возраста до месяца, предшествующего началу второго цикла дошкольного образования.
+
+Наконец, устанавливается возможность запросить у AEAT авансовый платеж этого вычета (не включая часть, относящуюся к расходам на детский сад) для налогоплательщиков, уплачивающих минимальные взносы, установленные нормативно (взносы в общий режим социального обеспечения как минимум 15 дней каждого месяца). Заявка подается (почтой, через телекоммуникации или по телефону) с использованием «модели 140» с момента, когда, выполнив требования, выбирается авансовый платеж. В этих случаях налоговая квота не уменьшается.
+
+### 14.4. Вычет за многодетные семьи или лиц с инвалидностью на иждивении
+
+Налогоплательщики, осуществляющие деятельность на свой счет или за счет других, за которую они зарегистрированы в соответствующем режиме социального обеспечения или взаимного общества, могут уменьшить налоговую квоту на следующие вычеты:
+
+- За каждого ребенка с инвалидностью, имеющего право на применение минимума по потомству, до 1 200 евро в год.
+- За каждого родственника с инвалидностью, имеющего право на применение минимума по предкам, до 1 200 евро в год.
+- За одного родителя или брата/сестру-сироту по отцу и матери, являющихся частью многодетной семьи, или за одного родителя, официально разведенного или не состоящего в браке, с двумя детьми без права на получение алиментов и имеющих право на полное применение минимума по потомству, до 1 200 евро в год.
+- Для многодетных семей особой категории этот вычет увеличивается на 100%.
+- Сумма вычета увеличивается на 600 евро в год за каждого ребенка, входящего в состав многодетной семьи, который превышает минимальное количество детей, необходимое для того, чтобы эта семья приобрела статус многодетной семьи общей или особой категории, соответственно.
+- За супруга, не разведенного официально и имеющего инвалидность, при условии, что он не имеет годовой доход, исключая освобожденные от налога, более 8 000 евро и не порождает право на вычеты, предусмотренные в предыдущих пунктах, до 1 200 евро в год.
+
+Также налоговую квоту можно уменьшить на вышеуказанные вычеты для налогоплательщиков, получающих страховые выплаты и помощь по безработице, пенсии, выплачиваемые по общему режиму и специальным режимам социального обеспечения или по режиму пассивного класса государства, а также для налогоплательщиков, получающих аналогичные выплаты, признанные для специалистов, не входящих в специальный режим социального обеспечения самозанятых работников по взаимным обществам социального обеспечения, действующим как альтернатива упомянутому специальному режиму социального обеспечения, при условии, что это выплаты за ситуации, идентичные предусмотренным для соответствующих пенсий социального обеспечения.
+
+Когда двое или более налогоплательщиков имеют право на применение одного из вышеуказанных вычетов в отношении одного и того же ребенка, родственника или многодетной семьи, их сумма делится между ними поровну.
+
+Наконец, устанавливается возможность запросить у AEAT авансовый платеж этого вычета.
 
 ## 15. Пример из практики
 
-## Приложение. Удержания и выплаты по НДФЛ в 2023 год
+**Задача**
+
+Дон Франсиско (67 лет), женат на донье Тересе (51 год, с инвалидностью 35%) и не имеет детей, предоставляют следующие данные для декларации по подоходному налогу с физических лиц (IRPF) за 2023 год:
+
+- Доходы от трудовой деятельности Тересы:
+  - Денежные валовые доходы: 85 000 евро.
+  - Взносы в социальное страхование: 2 500 евро.
+  - Удержания IRPF (32%): 27 200 евро.
+  - Компания выплачивает 800 евро в год за страхование здоровья, страховыми получателями являются дона Тереса и дон Франсиско.
+  - Компания предоставляет дона Тересе бесплатное пользование автомобилем. Ежегодная сумма, которую компания выплачивает за аренду этого транспортного средства, составляет 20 000 евро. Стоимость нового автомобиля составляет 78 000 евро плюс 16 380 евро НДС, и он не считается энергоэффективным. Можно доказать использование автомобиля для работы дона Тересы на 40%.
+  - Налог удерживается из зарплаты работников.
+- Профессиональная деятельность Франсиско. Из книги доходов и профессиональных расходов вычитаются следующие суммы (определение чистого дохода в упрощённой прямой оценке):
+  - Валовые доходы: 95 000 евро.
+  - Прибыль от продажи сканера: 1 500 евро.
+  - Взносы в RETA: 1 200 евро.
+  - Расходы на персонал: 19 000 евро.
+  - Взносы в социальное страхование персонала: 3 280 евро.
+  - Телефон, свет и вода: 3 000 евро.
+  - Книги и канцелярские товары: 2 000 евро.
+  - Амортизация<sup><a href="#sup1">1</a></sup>: 3 000 евро.
+  - Удержания в профессиональной деятельности составили 7 500 евро, были сделаны предоплаты на сумму 14 630 евро.
+- Супруги владеют различными банковскими счетами и депозитами на определенный срок, которые принесли им полные доходы в размере 6 000 евро, из них было удержано 1 140 евро. Они также владеют портфелем ценных бумаг, который в течение года принес дивиденды в размере 5 000 евро, из них было удержано 950 евро. Финансовые учреждения взимали с них комиссию в размере 30 евро за обслуживание депозитов на определенный срок и 50 евро за управление портфелем ценных бумаг.
+- Они также получили 18 000 евро от погашения облигаций, выпущенных Валенсийским сообществом, которые были приобретены в 2013 году за 17 250 евро. Удержанные налоги составили 142,5 евро.
+- Супруги владеют недвижимостью, расположенной в Арганда-дель-Рей (Мадрид), которая была их основным местом жительства до 10 октября 2023 года, когда она была продана за 270 000 евро. Покупка была совершена 15 июня 2000 года за 160 000 евро. За продажу было уплачено 28 000 евро налога на увеличение стоимости городских земель (IIVTNU). 15 ноября 2023 года супруги подписали договор купли-продажи другого жилья, которое станет их новым местом жительства, и выплатили на месте 242 000 евро. В тот же момент они подписали договор ипотечного кредита на оставшиеся 100 000 евро от стоимости приобретения нового жилья.
+- Супруги владеют апартаментами, которые они сдают в аренду своему племяннику, 42 лет, за 5 000 евро в год. Оправданные расходы на апартаменты (налог на недвижимость, коммунальные платежи, страховка) в этом году составили 1 000 евро. Стоимость их приобретения составляла 200 000 евро, а пересмотренная кадастровая стоимость - 120 000 евро (50% земля).
+- Супруги продали доли в инвестиционном фонде за 130 000 евро. Эти доли были приобретены в 1994 году за 156 000 евро, а их стоимость на момент оценки налога на имущество (IP) 2005 года составляла 160 000 евро. Это первая и единственная продажа актива, приобретенного до 31 декабря 1994 года, совершенная с 1 января 2015 года.
+- В этом году они выиграли приз в Национальной лотерее, получив 150 000 евро на руки.
+- Они сделали пожертвование в размере 3 000 евро в некоммерческую организацию своего района (организация не соответствует закону 49/2002).
+- В этом году дона Тереса внесла 1 000 евро в свой пенсионный план, а дон Франсиско является владельцем страхового плана прогнозирования, в который он внес 1 500 евро.
+
+**Требуется**:
+
+Рассчитать самостоятельное уплату IRPF за 2023 год с совместным налогообложением (не учитывая возможные автономные вычеты и предполагая, что общая тарифная шкала автономного сообщества, где проживает супружеская пара, равна государственной тарифной шкале).
+
+**Решение**
+
+1. Доход от труда Тересы
+
+    <table width="100%">
+        <tbody>
+            <tr>
+                <td colspan="2">Полный доход</td>
+                <td>&nbsp;</td>
+                <td><p>96.325,60</p></td>
+            </tr>
+            <tr>
+                <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                <td>Денежные</td>
+                <td><p>85.000,00</p></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>Медицинская страховка (800)</td>
+                <td><p>–</p></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>
+                    Автомобиль
+                    <span>
+                        <br />
+                        Стоимость: 78.000 + 16.380 = 94.380<br />
+                        60% × 20% × 94.380 = 11.325,60<br />
+                    </span>
+                </td>
+                <td>
+                    <div><p>11.325,60</p></div>
+                </td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td colspan="2">Расходы (социальное страхование)</td>
+                <td>&nbsp;</td>
+                <td><p>(2.500,00)</p></td>
+            </tr>
+            <tr>
+                <td colspan="2">Чистый доход</td>
+                <td>&nbsp;</td>
+                <td><p>93.825,60</p></td>
+            </tr>
+            <tr>
+                <td colspan="2">Другие расходы</td>
+                <td>&nbsp;</td>
+                <td><p>(2.000,00)</p></td>
+            </tr>
+            <tr>
+                <td colspan="2">За инвалидность</td>
+                <td>&nbsp;</td>
+                <td><p>(3.500,00)</p></td>
+            </tr>
+            <tr>
+                <td colspan="2">Уменьшенный чистый доход</td>
+                <td>&nbsp;</td>
+                <td><p>88.325,60</p></td>
+            </tr>
+        </tbody>
+    </table>
+
+2. Доход от экономической деятельности Франсиско
+
+    <table>
+        <tbody>
+            <tr>
+                <td>Полный доход</td>
+                <td>&nbsp;</td>
+                <td><p>95.000</p></td>
+            </tr>
+            <tr>
+                <td>Расходы</td>
+                <td>&nbsp;</td>
+                <td><p>(31.320)</p></td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Взносы RETA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                <td><p>1.200</p></td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Персонал</td>
+                <td><p>19.000</p></td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Социальное страхование персонала</td>
+                <td><p>3.280</p></td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Коммунальные услуги</td>
+                <td><p>3.000</p></td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Материалы</td>
+                <td><p>2.000</p></td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Амортизация
+                    <span>
+                        <sup><a href="#sup2">2</a></sup>
+                    </span>
+                </td>
+                <td><p>2.840</p></td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>
+                    Чистый доход 1 <span>(7% × 63.680 = 4.457,6)</span><br />
+                </td>
+                <td>&nbsp;</td>
+                <td><p>63.680</p></td>
+            </tr>
+            <tr>
+                <td>Макс.</td>
+                <td>&nbsp;</td>
+                <td><p>(2.000)</p></td>
+            </tr>
+            <tr>
+                <td>Чистый доход</td>
+                <td>&nbsp;</td>
+                <td><p>61.680</p></td>
+            </tr>
+            <tr>
+                <td>Снижения (требования не выполняются)</td>
+                <td>&nbsp;</td>
+                <td><p>–</p></td>
+            </tr>
+            <tr>
+                <td>Уменьшенный чистый доход</td>
+                <td>&nbsp;</td>
+                <td><p>61.680</p></td>
+            </tr>
+        </tbody>
+    </table>
+
+3. Доход от капитального имущества
+
+    <table>
+        <tbody>
+            <tr>
+                <td>Полный доход</td>
+                <td>&nbsp;</td>
+                <td><p>11.750</p></td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Проценты&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                <td><p>6.000</p></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Дивиденды</td>
+                <td><p>5.000</p></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Облигации (18.000 – 17.250)</td>
+                <td><p>750</p></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Расходы</td>
+                <td>&nbsp;</td>
+                <td><p>(50)</p></td>
+            </tr>
+            <tr>
+                <td>Чистый доход</td>
+                <td>&nbsp;</td>
+                <td><p>11.700</p></td>
+            </tr>
+            <tr>
+                <td>Снижение</td>
+                <td>&nbsp;</td>
+                <td><p>–</p></td>
+            </tr>
+            <tr>
+                <td>Уменьшенный чистый доход</td>
+                <td>&nbsp;</td>
+                <td><p>11.700</p></td>
+            </tr>
+        </tbody>
+    </table>
+
+4. Доход от недвижимости
+
+    <table>
+        <tbody>
+            <tr>
+                <td>Полный доход&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                <td>&nbsp;</td>
+                <td><p>5.000</p></td>
+            </tr>
+            <tr>
+                <td>Расходы</td>
+                <td>&nbsp;</td>
+                <td><p>(4.000)</p></td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Обоснованные</td>
+                <td><p>1.000</p></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Амортизация (3% × 50% × 200.000)</td>
+                <td><p>3.000</p></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Чистый доход</td>
+                <td>&nbsp;</td>
+                <td><p>1.000</p></td>
+            </tr>
+            <tr>
+                <td>
+                    Снижение (60%)
+                </td>
+                <td>&nbsp;</td>
+                <td><p>(600)</p></td>
+            </tr>
+            <tr>
+                <td>Уменьшенный чистый доход</td>
+                 <td>&nbsp;</td>
+                <td><p>400</p></td>
+            </tr>
+            <tr>
+                <td>
+                        Минимальный чистый доход<sup><a href="#sup3">3</a></sup>
+                </td>
+                <td>&nbsp;</td>
+                <td><p>1.320</p></td>
+            </tr>
+        </tbody>
+    </table>
+    
+5. Прибыль и убытки от имущества (Жилье в Арганда-дель-Рей)
+
+    <table>
+            <tbody>
+                <tr>
+                    <td>
+                        Стоимость передачи (270.000 – 28.000)
+                    </td>
+                    <td>&nbsp;</td>
+                    <td><p>242.000</p></td>
+                </tr>
+                <tr>
+                    <td>Стоимость приобретения</td>
+                    <td>&nbsp;</td>
+                    <td><p>(160.000)</p></td>
+                </tr>
+                <tr>
+                    <td>Прибыль от имущества<br/>(освобождена от налогообложения за счет реинвестирования)</td>
+                    <td>&nbsp;</td>
+                    <td><p>82.000</p></td>
+                </tr>
+                <tr>
+                    <td>Доли в инвестиционном фонде:</td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>Стоимость передачи</td>
+                    <td></td>
+                    <td><p>130.000</p></td>
+                </tr>
+                <tr>
+                    <td>Стоимость приобретения</td>
+                    <td></td>
+                    <td><p>(156.000</p></td>
+                </tr>
+                <tr>
+                    <td>Убыток от имущества</td>
+                    <td>&nbsp;</td>
+                    <td><p>(26.000)</p></td>
+                </tr>
+                <tr>
+                    <td>Сканер</td>
+                    <td><p>1.500</p></td>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td>Прибыль от имущества</td>
+                    <td>&nbsp;</td>
+                    <td><p>1.500</p></td>
+                </tr>
+            </tbody>
+        </table>
+
+6. Самооценка
+
+    <font size="1">
+    <table>
+        <tbody>
+            <tr>
+                <td>Общая налоговая база&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>151.325,60</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Чистый доход от работы</td>
+                <td>&nbsp;</td>
+                <td>88.325,60</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Чистый доход от деятельности</td>
+                <td>&nbsp;</td>
+                <td>61.680,00</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Чистый доход от недвижимости</td>
+                <td>&nbsp;</td>
+                <td>1.320,00</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Баланс доходов и начислений</td>
+                <td>&nbsp;</td>
+                <td>151.325,60</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Доходы и убытки</td>
+                <td>&nbsp;</td>
+                <td>–</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Выигрыш в лотерею облагается специальным налогом</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>Налоговая база по сбережениям</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>8.775,00</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Доход от движимого капитала</td>
+                <td>&nbsp;</td>
+                <td>11.700,00</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Прибыль от переводов</td>
+                <td>1.500,00</td>
+                <td>&nbsp;</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Убытки от переводов</td>
+                <td>(26.000,00)</td>
+                <td>&nbsp;</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Чистый убыток</td>
+                <td>24.500,00</td>
+                <td>&nbsp;</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Максимальная компенсация (25 % × 11.700)</td>
+                <td>2.925,00</td>
+                <td>&nbsp;</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Компенсация</td>
+                <td></td>
+                <td>(2.925,00)</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Остаток (24.500 – 2.925,00)</td>
+                <td>21.575,00</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Компенсация в течение следующих четырех лет</td>
+                <td>&nbsp;</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Общий налогооблагаемый доход</td>
+                <td>&nbsp;</td>
+                <td></td>
+                <td>145.425,60</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Общая налоговая база</td>
+                <td>&nbsp;</td>
+                <td>151.325,60</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Снижение совместного налогообложения</td>
+                <td>&nbsp;</td>
+                <td>(3.400,00)</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Взносы в пенсионный план<sup><a href="#sup4">4</a></sup> </td>
+                <td>&nbsp;</td>
+                <td>(1.000,00)</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Взносы в страховой план предвидения<sup><a href="#sup5">5</a></sup> </td>
+                <td>&nbsp;</td>
+                <td>(1.500,00)</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>Налоговая база по сбережениям</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>8.775,00</td>
+            </tr>
+            <tr>
+                <td>Личный и семейный минимум</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>9.700,00</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Минимум налогоплательщика</td>
+                <td>5.550</td>
+                <td>&nbsp;</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Старше 65 лет (дон Франсиско)</td>
+                <td>1.150</td>
+                <td>&nbsp;</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Инвалидность доньи Терезы</td>
+                <td>3.000</td>
+                <td>&nbsp;</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><strong>Полная государственная квота</strong></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td> <strong>28.111,39</strong> </td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Общий полный тариф (Cuota íntegra general)</td>
+                <td>&nbsp;</td>
+                <td>28.171,51</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;До 60.000,00</td>
+                <td>8.950,75</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Остаток [(145.425,60 – 60.000,00) × 22,5 %] </td>
+                <td>19.108,26</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Минимум (9.700 × 9,5 %)</td>
+                <td>(921,50)</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Полная квота на сбережения (Cuota íntegra del ahorro)</td>
+                <td>&nbsp;</td>
+                <td>861,38</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(6.000 × 9,5 %)</td>
+                <td>570,00</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(8.775,00 – 6.000) × 10,5 %]</td>
+                <td>291,38</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td><strong>Региональный налог (Cuota íntegra autonómica)</strong></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td><strong>28.111,39</strong></td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Общий полный тариф (Cuota íntegra general)</td>
+                <td>&nbsp;</td>
+                <td>28.171,51</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;До 60.000,00</td>
+                <td>8.950,75</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Остаток [(145.425,60 – 60.000,00) × 22,5 %]</td>
+                <td>19.200,76</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Минимум (9.700 × 9,5 %)</td>
+                <td>(921,50)</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Полная квота на сбережения (Cuota íntegra del ahorro)</td>
+                <td>&nbsp;</td>
+                <td>861,38</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(6.000 × 9,5 %)</td>
+                <td>570,00</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(8.775,00 – 6.000) × 10,5 %]</td>
+                <td>291,38</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td><strong>Вычеты (Deducciones)</strong></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Пожертвования<sup><a href="#sup6">6</a></sup>(10 % × 3.000) </td>
+                <td>&nbsp;</td>
+                <td>300,00</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Государственный вычет (50% × 300)</td>
+                <td>&nbsp;</td>
+                <td>150,00</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Автономный вычет (50% × 300)</td>
+                <td>&nbsp;</td>
+                <td>150,00</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td>Государственная чистый налог (Cuota líquida estatal) (28.111,39 – 150)</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>27.961,39</td>
+            </tr>
+            <tr>
+                <td>Региональный чистый налог (Cuota líquida autonómica) (28.111,39 – 150)</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>27.961,39</td>
+            </tr>
+            <tr style="background:#cdebfd;>
+                <td><strong>Общий чистый налог (Cuota líquida total) (25.537,77 + 24.320,68)</strong></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td><strong>55.922,78</strong></td>
+            </tr>
+            <tr>
+                <td>Удержания (Retenciones) 27.000 + 7.500 + 1.140 + 950 + 142,5</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>(36.932,50)</td>
+            </tr>
+            <tr>
+                <td>Авансовые платежи (Ingresos a cuenta) 32 % × 11.325,60</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>(3.624,19)</td>
+            </tr>
+            <tr>
+                <td>Предоплата (Pagos fraccionados)</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>(14.630,00)</td>
+            </tr>
+            <tr style="background:#cdebfd;>
+                <td><strong>Дифференцированный квота (Cuota diferencial)</strong></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td><strong>(736,09)</strong></td>
+            </tr>
+        </tbody>
+    </table>
+    </font>
+
+---
+
+<sup id="sup1">1</sup> Соответствует исключительно помещению, где проводится деятельность, и компьютерному оборудованию:
+- Годовой налоговый амортизационный взнос за помещение, согласно налоговым таблицам амортизации и нормам IS, составляет 1.800 евро.
+- Компьютерное оборудование было приобретено новым 1 апреля 2018 года за 2.000 евро плюс 420 евро НДС.
+
+<sup id="sup2">2</sup> Амортизация
+- Амортизация помещения: 1.800.
+- Амортизация компьютерного оборудования: 2.000 × 26% × 2 = 1.040.
+
+<sup id="sup3">3</sup> По родственным связям (3-я степень), минимальный доход 1,10% × 120.000 = 1.320 > 400.
+
+<sup id="sup4">4</sup> Максимальное снижение: 1.000 < 30% (88.325,60).
+
+<sup id="sup5">5</sup> Максимальное снижение: 2.000 < 30% (61.680,00).
+
+<sup id="sup6">6</sup> База максимального вычета: 10% (145.425,60 + 8.775,00) > 3.000.
