@@ -61,7 +61,8 @@ export default defineConfig({
 				          label: "FAQ",
 				          items: [
 				            { label: 'Как работает прогрессивная шкала', link: '/guides/taxes/faq/progressive' },
-				            { label: 'Вычеты — какие типы бывают и как применяются', link: '/guides/taxes/faq/deductions' },
+				            { label: 'Вычеты — какие типы бывают и как применяются', link: '/guides/taxes/faq/deductions-types' },
+				            { label: 'Вычеты — список', link: '/guides/taxes/faq/deductions' },
 				          ]
 				        },
 				        {
