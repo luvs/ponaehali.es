@@ -3,8 +3,8 @@ title: Налоги в Стране Басков
 description: Налоги в Стране Басков
 ---
 
-:::danger[Работаем]
+:::danger[Нужен автор]
 
-Work in progress
+Если хотите заполнить эту страницу — [напишите мне](t.me/ponaehali_es_admin).
 
 :::

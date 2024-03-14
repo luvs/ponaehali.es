@@ -3,8 +3,8 @@ title: Бильбао
 description: Бильбао
 ---
 
-:::danger[Работаем]
+:::danger[Нужен автор]
 
-Work in progress
+Если хотите заполнить эту страницу — [напишите мне](t.me/ponaehali_es_admin).
 
 :::

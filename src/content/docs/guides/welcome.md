@@ -7,7 +7,7 @@ description: Start page.
 
 :::tip[Контакты]
 
-Вопросы, пожелания и дополнения можно писать в [телеграм](https://t.me/luvsandugar). Так же заходите в [канал](https://t.me/luvsnotes).
+Вопросы, пожелания и дополнения можно писать на [email](mailto:mail@luvsandugar.com) или в [телеграм](https://t.me/t.me/ponaehali_es_admin). Так же подписывайтесь на [канал](https://t.me/ponaehali_es), где будут публиковаться обновления. 
 
 :::
 
@@ -17,7 +17,7 @@ description: Start page.
 
 ## Сказать спасибо
 
-Желающие сказать спасибо, могут купить мне кофе [тут](https://www.buymeacoffee.com/luvsandugar) :)
+Желающие сказать спасибо, могут купить мне кофе [тут](https://www.buymeacoffee.com/luvsandugar).
 
 **Или так:** 
 

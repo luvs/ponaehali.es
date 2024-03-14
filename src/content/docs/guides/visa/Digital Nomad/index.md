@@ -7,6 +7,12 @@ sidebar:
 
 Здесь собраны ссылки на гайды и чаты, где можно найти всю информацию как получить Digital Nomad ВНЖ.
 
+:::caution[Внимание]
+
+В процессе получения внж довольно быстро все меняется, поэтому гайды могут устаревать. Актуальную информацию лучше спрашивать у помогаторов или в чатах.
+
+:::
+
 ## Гайды
 
 - [Digital Nomad Residence in Spain 2024](https://barcelona-startups-relocation.notion.site/Digital-Nomad-Residence-in-Spain-2024-97dfbe479af04e8b94d269f07bf7e0a2) — гайд по digital nomad.
