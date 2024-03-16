@@ -102,13 +102,10 @@ export default defineConfig({
 				{
 					label: 'Города',
 				      items: [
-				        {
-				          label: "Страна Басков",
-				          items: [
-				            { label: 'О стране Басков', link: '/guides/regions/basque-country' },
-				            { label: 'Бильбао', link: '/guides/regions/basque-country/bilbao' },
-				          ]
-				        },
+  				      { label: "Мадрид", link: '/guides/regions/madrid' },
+  				      { label: "Барселона", link: '/guides/regions/barcelona' },
+			          { label: "Валенсия", link: '/guides/regions/valencia' },
+  				      { label: "Страна Басков, Бильбао", link: '/guides/regions/basque-country' },
 				      ]
 				},
 				    {

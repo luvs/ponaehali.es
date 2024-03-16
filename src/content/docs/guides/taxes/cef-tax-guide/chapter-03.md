@@ -289,14 +289,39 @@ description: Глава 3. Подоходный налог с физически
 
 Налогооблагаемый доход рассчитывается по следующей схеме:
 
-```
-+ Полный доход (Rendimiento íntegro)
-- Вычеты ст. 18 (Reducciones)
-- Вычитаемые расходы (Gastos deducibles)
-= Чистая доходность (Rendimiento neto)
-- Вычеты ст. 20 (Reducciones art. 20)
-= Уменьшенная чистая доходность (Rendimiento neto reducido)
-```
+
+<table>
+    <tbody>
+        <tr>
+            <td width="45"><div align="right">(+)</div></td>
+            <td><div align="left">Полный доход (Rendimiento íntegro)</div></td>
+        </tr>
+        <tr>
+            <td width="45"><div align="right">(–)</div></td>
+            <td><div align="left">Вычеты по <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a18">статье 18 LIPRF</a> (Reducciones)</div></td>
+        </tr>
+        <tr>
+            <td width="45" class="blackLine"><div align="right">(–)</div></td>
+            <td class="blackLine"><div align="left">Вычитаемые расходы (Gastos deducibles)</div></td>
+        </tr>
+        <tr>
+            <td width="45"><div align="right">(=)</div></td>
+            <td><div align="left">Чистый доход (Rendimiento neto)</div></td>
+        </tr>
+        <tr>
+            <td width="45" class="blackLine"><div align="right">(–)</div></td>
+            <td class="blackLine"><div align="left">Вычеты по <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a20">статье 20 LIPRF</a></div></td>
+        </tr>
+        <tr>
+            <td width="45">
+                <div align="right"><strong>(=)</strong></div>
+            </td>
+            <td>
+                <div align="left"><strong>Уменьшенный чистый доход (Rendimiento neto reducido) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></div>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ### 2.1. Расчет совокупного дохода от трудовой деятельности
 
@@ -419,11 +444,82 @@ description: Глава 3. Подоходный налог с физически
 
 Г-н Хосе в начале этого года был переведен компанией, в которой он работает юристом, в другой город, за что получил 12000 евро компенсации, плюс 1 800 евро на покрытие расходов, связанных с переездом (для него и его семьи). Заработная плата брутто составляет 36000 евро, с вычетом 7 200 евро. Расходы, подлежащие оплате за год, составили: 1 200 евро на социальное обеспечение, 420 евро взносов в профсоюз, в котором он состоит, и 720 евро взносов в коллегию адвокатов. Кроме того, компания внесла 2000 евро в пенсионный план, членом которого является Хосе.
 
-<img src={require('./img/example-3-9.png').default} alt="Example banner" width="564"/>
+
 
 <font size="1">
 
-Rendimiento íntegro — полный доход, Dinerarios — деньги, Reduccion — вычет, Gastos deducibles — вычитаемые расходы, Sindicato — профсоюз, Otros gastos — прочие расходы, Rendimiento neto — чистая доходность, Rendimiento neto reducido — уменьшенная чистая доходность
+<table class="aside-table">
+  <tbody>
+    <tr>
+      <td colspan="3">Полные доходы (Rendimientos íntegros)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td width="10%" align="right">50.000</td>
+    </tr>
+    <tr>
+      <td width="7%">&nbsp;</td>
+      <td width="59%">Денежные (Dinerarios) <span style="font-size:0.8EM;">(36.000 + 12.000)</span></td>
+      <td width="10%" align="right">48.000<sup><a href="#sup2_1">1</a></sup></td>
+      <td width="10%" align="right">&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Натуральные (Especie)</td>
+      <td align="right">&nbsp;&nbsp;2.000<sup><a href="#sup2_2">2</a></sup></td>
+      <td align="right">&nbsp;</td>
+    </tr>
+    <tr>
+      <td colspan="3">Скидка (Reducción) <span style="font-size:0.8EM;">(12.000 × 30%)</span></td>
+      <td align="right">&nbsp;&nbsp;(3.600)</td>
+    </tr>
+    <tr>
+      <td colspan="3">Расходы (Gastos)</td>
+      <td align="right">&nbsp;&nbsp;(4.120)</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Социальное страхование (Seguridad Social)</td>
+      <td align="right">(1.200)</td>
+      <td align="right">&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Профсоюз (Sindicato)</td>
+      <td align="right">&nbsp;&nbsp;&nbsp;(420)</td>
+      <td align="right">&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Профессиональная ассоциация (Colegio profesional)</td>
+      <td align="right">&nbsp;&nbsp;&nbsp;(500)</td>
+      <td align="right">&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Прочие расходы (Otros gastos)</td>
+      <td align="right">&nbsp;(2.000)</td>
+      <td align="right">&nbsp;</td>
+    </tr>
+    <tr>
+      <td colspan="3">Чистый доход (Rendimiento neto)</td>
+      <td align="right">42.280</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Общая скидка (Reducción general)</td>
+      <td align="right">(–)</td>
+      <td align="right">&nbsp;</td>
+    </tr>
+    <tr>
+      <td colspan="3">Чистый доход после скидки (Rendimiento neto reducido)</td>
+      <td align="right">42.280</td>
+    </tr>
+  </tbody>
+</table>
+
+<sup id="sup2_1">1</sup> Часть, полученная для покрытия расходов на переезд, освобождается от налогообложения как суточные (ст. 9 LIPRF).
+
+<sup id="sup2_2">2</sup> Пенсионные планы не облагаются налогом.
+
+
 
 </font>
 :::
@@ -435,12 +531,43 @@ Rendimiento íntegro — полный доход, Dinerarios — деньги, R
 Данный вид дохода получают только владельцы или обладатели права пользования и распоряжения (узуфрукт, пользование и проживание и т.д.) при: сдаче в аренду сельской и городской недвижимости и учреждении или передаче (когда владелец уже является обладателем права пользования) прав или полномочий пользования или распоряжения в отношении сельской и городской недвижимости.
 
 Налогооблагаемый доход рассчитывается по следующей схеме:
-```
-+ Полный доход (Rendimiento íntegro)
-- Вычитаемые расходы (Gastos deducibles)
-- Вычеты (Reducciones)
-= Уменьшенная чистая доходность (Rendimiento neto reducido)
-```
+
+<table>
+  <tbody>
+    <tr>
+      <td width="45">
+        <div align="right">(+)</div>
+      </td>
+      <td>
+        <div align="left">Полный доход (Rendimiento íntegro)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+      </td>
+    </tr>
+    <tr>
+      <td width="45">
+        <div align="right">(–)</div>
+      </td>
+      <td>
+        <div align="left">Вычитаемые расходы (Gastos deducibles)</div>
+      </td>
+    </tr>
+    <tr>
+      <td width="45" class="blackLine">
+        <div align="right">(–)</div>
+      </td>
+      <td class="blackLine">
+        <div align="left">Сокращения (Reducciones)</div>
+      </td>
+    </tr>
+    <tr>
+      <td width="45">
+        <div align="right"><strong>(=)</strong></div>
+      </td>
+      <td>
+        <div align="left"><strong>Чистый доход после скидки (Rendimiento neto reducido)</strong></div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### 3.1. Расчет полного дохода
 
@@ -483,12 +610,74 @@ Rendimiento íntegro — полный доход, Dinerarios — деньги, R
 
 Г-н Лопес является владельцем помещений, которые он сдает в аренду за сумму 9000 евро в год. Обоснованными расходами являются: взнос на налог на недвижимость - 360 евро; ремонт сантехники - 15000 евро; сообщество собственников - 600 евро. Объект недвижимости был приобретен за 200000 евро, а его кадастровая стоимость составляет 85000 евро, из которых 20% приходится на земельный участок.
 
-<img src={require('./img/example-3-11.png').default} alt="Example banner" width="564"/>
-
-
 <font size="1">
 
-Rendimiento íntegro — полный доход, Reparaciones — ремонт, Rendimiento neto reducido — уменьшенная чистая доходность
+<table class="aside-table">
+  <tbody>
+    <tr>
+      <td colspan="3">Полные доходы (Rendimientos íntegros) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td width="10%" align="right">
+        <div align="right">9.000</div>
+      </td>
+    </tr>
+    <tr>
+      <td width="7%">&nbsp;</td>
+      <td>Вычет расходов (Gastos deducibles)</td>
+      <td width="10%" align="right">
+        <div align="right">(14.760)</div>
+      </td>
+      <td width="10%" align="right">
+        <div align="right"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Налог на недвижимость (Impuesto sobre bienes inmuebles)</td>
+      <td align="right">
+        <div align="right">360<sup><a href="#nota2"></a></sup></div>
+      </td>
+      <td align="right">
+        <div align="right"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Ремонт (Reparaciones)<sup><a href="#nota3">1</a></sup></td>
+      <td align="right">
+        <div align="right">9.000</div>
+      </td>
+      <td align="right">
+        <div align="right"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Общественные расходы (Comunidad)</td>
+      <td align="right">
+        <div align="right">600</div>
+      </td>
+      <td align="right">
+        <div align="right"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Амортизация <span style="font-size:0.8EM;">(3 % × 80 % × 200.000)</span></td>
+      <td align="right">
+        <div align="right">4.800</div>
+      </td>
+      <td align="right">
+        <div align="right"></div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3">Чистый доход (Rendimiento neto)</td>
+      <td align="right">
+        <div align="right">– 5.760</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </font>
 
@@ -502,14 +691,68 @@ Rendimiento íntegro — полный доход, Reparaciones — ремонт,
 
 :::tip[ПРИМЕР 12]
 
-Г-н Гарсия является владельцем квартиры, которую он сдавал в течение 3 лет за ежегодную арендную плату в размере 3600 евро г-ну Мартинесу, 40 лет. Коммунальные расходы составили 360 евро, а стоимость квартиры - 40000 евро, из которых 12000 евро приходится на стоимость земли.
-
-<img src={require('./img/example-3-12.png').default} alt="Example banner" width="564"/>
-
+Г-н Гарсия является владельцем квартиры, которую он сдавал в течение 3 лет за ежегодную арендную плату в размере 3600 евро г-ну Мартинесу, 40 лет. Коммунальные расходы составили 360 евро, а стоимость квартиры - 40000 евро, из которых 12000 евро приходится на стоимость земли.<br/>
 
 <font size="1">
 
-Rendimiento íntegro — полный доход, Gastos deducibles — вычитаемые расходы, Reduccion — вычет, Rendimiento neto reducido — уменьшенная чистая доходность
+<table class="aside-table">
+  <tbody>
+    <tr>
+      <td colspan="3">Полные доходы (Rendimientos íntegros) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td width="10%" align="center">
+        <div align="right">3.600</div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3">Вычет расходов (Gastos deducibles)</td>
+      <td align="center">
+        <div align="right">(1.200)</div>
+      </td>
+    </tr>
+    <tr>
+      <td width="7%">&nbsp;</td>
+      <td width="59%">Общественные расходы (Comunidad)</td>
+      <td width="10%" align="center">
+        <div align="right">360</div>
+      </td>
+      <td width="10%" align="center">
+        <div align="right"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Амортизация <span style="font-size:0.8EM;">[(40.000 – 12.000) × 3%]</span></td>
+      <td align="center">
+        <div align="right">840</div>
+      </td>
+      <td align="center">
+        <div align="right"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Чистый доход (Rendimiento neto)</td>
+      <td align="center">
+        <div align="right">2.400</div>
+      </td>
+      <td align="center">
+        <div align="right"></div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3">Скидка (Reducción) <span style="font-size:0.8EM;">(60%)</span></td>
+      <td align="center" class="borde-ejemplo">
+        <div align="right">(1.440)</div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3">Чистый доход после скидки (Rendimiento neto reducido)</td>
+      <td align="center">
+        <div align="right">960</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </font>
 
@@ -521,12 +764,42 @@ Rendimiento íntegro — полный доход, Gastos deducibles — вычи
 
 Расчет налогооблагаемого дохода осуществляется по следующей схеме:
 
-```
-+ Полный доход (Rendimiento íntegro)
-- Вычитаемые расходы (Gastos deducibles)
-- Вычеты (Reducciones)
-= Уменьшенная чистая доходность (Rendimiento neto reducido)
-```
+<table>
+  <tbody>
+    <tr>
+      <td width="45">
+        <div align="center">(+)</div>
+      </td>
+      <td>
+        <div align="left">Полный доход (Rendimiento íntegro) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+      </td>
+    </tr>
+    <tr>
+      <td width="45">
+        <div align="center">(–)</div>
+      </td>
+      <td>
+        <div align="left">Вычитаемые расходы (Gastos deducibles)</div>
+      </td>
+    </tr>
+    <tr>
+      <td width="45" class="blackLine">
+        <div align="center">(–)</div>
+      </td>
+      <td class="blackLine">
+        <div align="left">Сокращения (Reducciones)</div>
+      </td>
+    </tr>
+    <tr>
+      <td width="45">
+        <div align="center"><strong>(=)</strong></div>
+      </td>
+      <td>
+        <div align="left"><strong>Уменьшенная чистая доходность (Rendimiento neto reducido)</strong></div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### 4.1. Расчет полного дохода
 
@@ -564,11 +837,30 @@ Rendimiento íntegro — полный доход, Gastos deducibles — вычи
 - За 925 евро - вексель компании X со сроком погашения 12 месяцев и выкупной стоимостью 1 200 евро. Вексель был приобретен 4 месяца назад за 875 евро, стоимость приобретения составила 12 евро.
 - За 800 евро - вексель компании Y со сроком погашения 12 месяцев и выкупной стоимостью 1 200 евро. Вексель был приобретен 4 месяца назад за 875 евро, а затраты на его приобретение составили 12 евро.
 
-<img src={require('./img/example-3-13.png').default} alt="Example banner" width="564"/>
-
 <font size="1">
 
-Pagaré sociedad — вексель компании
+<table class="aside-table">
+  <tbody>
+    <tr>
+      <td width="86%">Вексель компании X <span style="font-size:0.8EM;">[(925 – (875 + 12)]</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	</td>
+      <td width="14%" align="center">
+        <div align="right">38</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Вексель компании Y <span style="font-size:0.8EM;">[(800 – (875 + 12)]</span></td>
+      <td align="center" class="borde-ejemplo">
+        <div align="right">(87)</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Чистый доход (Rendimiento neto)</td>
+      <td align="center">
+        <div align="right">(49)</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </font>
 
@@ -597,12 +889,70 @@ Pagaré sociedad — вексель компании
 
 Банк X взял с Вас 150 евро за администрирование и хранение акций.
 
-<img src={require('./img/example-3-14.png').default} alt="Example banner" width="564"/>
-
-
 <font size="1">
 
-Rendimiento íntegro — полный доход, Prima de asistensa — премия за участие, Acciones liberadas — выпущенные акции
+<table class="aside-table">
+  <tbody>
+    <tr>
+      <td colspan="3">Полный доход (Rendimiento íntegro) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td width="10%" align="center">
+        <div align="right">5.500</div>
+      </td>
+    </tr>
+    <tr>
+      <td width="7%">&nbsp;</td>
+      <td width="59%">Дивиденды <span style="font-size:0.8EM;">(0,45 × 5.000)</span></td>
+      <td width="10%" align="center">
+        <div align="right">2.250</div>
+      </td>
+      <td width="10%" align="center">
+        <div align="right"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Премия за участие <span style="font-size:0.8EM;">(0,15 × 5.000)</span></td>
+      <td align="center">
+        <div align="right">750<sup><a href="#nota2"></a></sup></div>
+      </td>
+      <td align="center">
+        <div align="right"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Бесплатные акции (Acciones liberadas)</td>
+      <td align="center">
+        <div align="right">–</div>
+      </td>
+      <td align="center">
+        <div align="right"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Распределение резервов (Distribución de reservas)</td>
+      <td align="center">
+        <div align="right">2.500</div>
+      </td>
+      <td align="center">
+        <div align="right"></div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3">Расходы (Gastos)</td>
+      <td align="center" class="borde-ejemplo">
+        <div align="right">(150)</div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3">Чистый доход (Rendimiento neto)</td>
+      <td align="center">
+        <div align="right">5.350</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </font>
 
@@ -650,12 +1000,42 @@ Rendimiento íntegro — полный доход, Prima de asistensa — пре�
 
 Чистый доход от экономической деятельности определяется в соответствии с правилами IS, с учетом, кроме того, некоторых специальных правил и без учета прироста или убытка капитала, полученного от закрепленных за ним активов.
 
-```
-+ Доход (Ingresos)
-- Расходы (Gastos)
-- Вычеты (Reducciones)
-= Уменьшенная чистая доходность (Rendimiento neto reducido)
-```
+<table>
+  <tbody>
+    <tr>
+      <td width="45">
+        <div align="center">(+)</div>
+      </td>
+      <td>
+        <div align="left">Доходы (Ingresos) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+      </td>
+    </tr>
+    <tr>
+      <td width="45">
+        <div align="center">(–)</div>
+      </td>
+      <td>
+        <div align="left">Расходы (Gastos)</div>
+      </td>
+    </tr>
+    <tr>
+      <td width="45" class="blackLine">
+        <div align="center">(–)</div>
+      </td>
+      <td class="blackLine">
+        <div align="left">Сокращения (Reducciones)</div>
+      </td>
+    </tr>
+    <tr>
+      <td width="45">
+        <div align="center"><strong>(=)</strong></div>
+      </td>
+      <td>
+        <div align="left"><strong>Уменьшенная чистая доходность (Rendimiento neto reducido)</strong></div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 Особенности, установленные в LIRPF в отношении расходов, заключаются в следующем:
 
@@ -719,14 +1099,58 @@ Rendimiento íntegro — полный доход, Prima de asistensa — пре�
 
 Упрощенная форма системы прямого налогообложения представляет собой систему, альтернативную обычной форме прямого налогообложения. Она характеризуется сокращением формальных обязательств (бухгалтерских книг) и упрощением расчета некоторых расходов (особенно тех, к которым, согласно общим правилам, предъявляются повышенные требования по бухгалтерскому учету).
 
-```
-+ Исчисляемый доход (Ingresos computables)
-- Вычитаемые расходы (Gastos deducibles)
-= Предыдущий чистый доход (Rendimiento neto previo)
-- 5% от предыдущего чистого дохода, максимум 2.000€
-- Вычеты (Reducciones)
-= Уменьшенный чистый доход (Rendimiento neto reducido)
-```
+<table>
+  <tbody>
+    <tr>
+      <td width="45">
+        <div align="center">(+)</div>
+      </td>
+      <td>
+        <div align="left">Исчисляемый доход (Ingresos computables) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+      </td>
+    </tr>
+    <tr>
+      <td width="45" class="blackLine">
+        <div align="center">(–)</div>
+      </td>
+      <td class="blackLine">
+        <div align="left">Вычитаемые расходы (Gastos deducibles)</div>
+      </td>
+    </tr>
+    <tr>
+      <td width="45">
+        <div align="center">(=)</div>
+      </td>
+      <td>
+        <div align="left">Первичный чистый доход (Rendimiento neto previo)</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">(–)</div>
+      </td>
+      <td>
+        <div align="left">(5% от первичного чистого дохода, максимум 2.000 €)</div>
+      </td>
+    </tr>
+    <tr>
+      <td class="blackLine">
+        <div align="center">(–)</div>
+      </td>
+      <td class="blackLine">
+        <div align="left">Сокращения (Reducciones)</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div align="center"><strong>(=)</strong></div>
+      </td>
+      <td>
+        <div align="left"><strong>Уменьшенный чистый доход (Rendimiento neto reducido)</strong></div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 **A) Сфера применения**
 
@@ -821,28 +1245,50 @@ Rendimiento íntegro — полный доход, Prima de asistensa — пре�
 
 Расчет налогооблагаемого дохода производится по следующей схеме:
 
-```
-+ Стоимость передачи (Valor de transmisión)
-- Стоимость приобритения (Valor de adquisición)
-= Прирост или убыток капитала (Ganancia o pérdida patrimonial)
-```
-
+<table>
+  <tbody>
+    <tr>
+      <td width="45">
+        <div align="center">(+)</div>
+      </td>
+      <td>
+        <div align="left">Стоимость передачи (Valor de transmisión)</div>
+      </td>
+    </tr>
+    <tr>
+      <td width="45" class="blackLine">
+        <div align="center">(–)</div>
+      </td>
+      <td class="blackLine">
+        <div align="left">Стоимость приобретения (Valor de adquisición)</div>
+      </td>
+    </tr>
+    <tr>
+      <td width="45">
+        <div align="center"><strong>(=)</strong></div>
+      </td>
+      <td>
+        <div align="left"><strong>Прирост или убыток капитала (Ganancia o pérdida patrimonial)</strong></div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### 6.1.1. Передача за ценное вознаграждение (есть вознаграждение)
 
 - Трансфертная стоимость:
-  ```
+```
   + Фактическая сумма (не может быть меньше обычной рыночной стоимости)
   - Расходы, сопутствующие передаче (налог на увеличение стоимости городской земли -IIVTNU-).
-  ```
+```
 
 - Стоимость приобретения. Она представляет собой сумму следующих статей:
-  ```
+```
   + Фактическая сумма приобретения.
   + Стоимость улучшений
   + Расходы (нотариальные, регистрационные, агентские и т.д.) и налоги, связанные с приобретением, за исключением процентов.
   - Амортизация
-  ```
+```
 
 Амортизация, уменьшающая стоимость приобретения, — это амортизация, которая в то время составляла или могла составлять вычитаемый расход, причем в любом случае учитывается минимальная амортизация, независимо от того, рассматривается ли она в действительности как расход.
 
@@ -850,7 +1296,28 @@ Rendimiento íntegro — полный доход, Prima de asistensa — пре�
 
 Налогоплательщик продал за 13000 евро акции, которые он приобрел за 10500 евро тремя годами ранее. При покупке он заплатил комиссионные в размере 20 евро. Прибыль будет равна разнице между:
 
-<img src={require('./img/example-3-19.png').default} alt="Example banner" width="564"/>
+<table class="aside-table">
+  <tbody>
+    <tr>
+      <td width="70%">Стоимость передачи акций (Valor de transmisión de las acciones)</td>
+      <td width="10%" align="center">
+        <div align="right">13.000</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Стоимость приобретения (Valor de adquisición)</td>
+      <td align="center" class="borde-ejemplo">
+        <div align="right">10.520</div>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td align="center">
+        <div align="right">2.480</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 :::
 
@@ -897,7 +1364,28 @@ Rendimiento íntegro — полный доход, Prima de asistensa — пре�
 
 Какова сумма дохода, подлежащая включению в налоговую базу?
 
-<img src={require('./img/example-3-21.png').default} alt="Example banner" width="564"/>
+<table class="aside-table">
+  <tbody>
+    <tr>
+      <td width="76%">Стоимость передачи (Valor de transmisión) <span style="font-size:0.8EM;">(900.000 – 25.000)</span></td>
+      <td width="15%" align="center">
+        <div align="right">875.000,00</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Стоимость приобретения (Valor de adquisición)<br></td>
+      <td align="center" class="borde-ejemplo">
+        <div align="right">198.000,00</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Капитальная прибыль (Ganancia)</td>
+      <td align="center">
+        <div align="right">677.000,00</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 Часть дохода, полученного с 1 августа 1992 года (дата приобретения) по 19 января 2006 года, будет уменьшена в соответствии с периодом нахождения имущества в собственности налогоплательщика до 31 декабря 1994 года (1996 год минус 2 последних года):
 
@@ -1130,22 +1618,174 @@ a) Призы от лотерей и пари, организованных Го
 
 Налогоплательщик получил в 2023 году доход со следующими характеристиками (в евро):
 
-<img src={require('./img/example-3-28-1.png').default} alt="Example banner" width="564"/>
-
-<img src={require('./img/example-3-28-1rus.png').default} alt="Example banner" width="564"/>
+<font size="1">
+<table class="aside-table">
+  <tbody>
+    <tr>
+      <td width="84%">Чистый доход от работы (Rendimientos netos del trabajo)</td>
+      <td width="16%" align="right">
+        <div align="right">50.000</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Уменьшенный чистый доход от капитала в недвижимости (Rendimientos netos reducidos del capital inmobiliario)</td>
+      <td align="right">
+        <div align="right">(5.000)</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Доход от амортизации казначейских облигаций (Rendimientos derivados de la amortización de letras del Tesoro)</td>
+      <td align="right">
+        <div align="right">1.000</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Уменьшенный чистый доход от лесного хозяйства (Rendimientos netos reducidos de una explotación forestal)</td>
+      <td align="right">
+        <div align="right">200.000</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Чистый доход от профессиональной деятельности (Rendimiento neto de la actividad profesional)</td>
+      <td align="right">
+        <div align="right">(10.000)</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Приписываемый доход от недвижимости (Rentas inmobiliarias imputadas)</td>
+      <td align="right">
+        <div align="right">20.000</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Капитальная прибыль от продажи акций, приобретенных в 2020 году (Ganancia patrimonial procedente de venta de acciones adquiridas en el ejercicio 2020)</td>
+      <td align="right">
+        <div align="right">2.000</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Капитальный убыток от продажи земли, приобретенной в 2019 году (Pérdida patrimonial procedente de la venta de un terreno adquirido 2019)</td>
+      <td align="right">
+        <div align="right">(60.000)</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Капитальная прибыль от элемента, приобретенного в том же году 2023, связанного с экономической деятельностью (Ganancia patrimonial procedente de un elemento adquirido en el mismo año 2023 afecto a la actividad económica)</td>
+      <td align="right">
+        <div align="right">70.000</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</font>
 
 Доходы, составляющие общую часть налоговой базы за период:
 
-<img src={require('./img/example-3-28-2.png').default} alt="Example banner" width="564"/>
-
-<img src={require('./img/example-3-28-2rus.png').default} alt="Example banner" width="564"/>
+<font size="1">
+<table class="aside-table">
+  <tbody>
+    <tr>
+      <td width="84%">Чистые доходы от работы (Rendimientos netos del trabajo)</td>
+      <td width="16%" align="right">
+        <div align="right">50.000</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Уменьшенные чистые доходы от капитала в недвижимости (Rendimientos netos reducidos del capital inmobiliario)</td>
+      <td align="right">
+        <div align="right">(5.000)</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Уменьшенные чистые доходы от лесного хозяйства (Rendimientos netos reducidos de una explotación forestal)</td>
+      <td align="right">
+        <div align="right">200.000</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Чистый доход от профессиональной деятельности (Rendimiento neto de la actividad profesional)</td>
+      <td align="right">
+        <div align="right">(10.000)</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Приписываемый доход от недвижимости (Rentas inmobiliarias imputadas)</td>
+      <td align="right" class="borde-ejemplo">
+        <div align="right">20.000</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Баланс доходов и импутаций (Saldo de rendimientos e imputaciones)</td>
+      <td align="right">
+        <div align="right">255.000</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Прибыли и убытки, не проистекающие из передач (Ganancias y pérdidas no derivadas de transmisiones)</td>
+      <td align="right" class="borde-ejemplo">
+        <div align="right">–</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Общая налогооблагаемая база (Base imponible general)</td>
+      <td align="right">
+        <div align="right">255.000</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</font>
 
 Доходы, составляющие накопительную часть налоговой базы за период:
 
-<img src={require('./img/example-3-28-3.png').default} alt="Example banner" width="564"/>
-
-<img src={require('./img/example-3-28-3rus.png').default} alt="Example banner" width="564"/>
-
+<font size="1">
+<table class="aside-table">
+  <tbody>
+    <tr>
+      <td width="84%">Доход от амортизации казначейских облигаций (Rendimientos derivados de la amortización de letras del Tesoro)</td>
+      <td width="16%" align="right">
+        <div align="right">1.000</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Сальдо доходов (Saldo de rendimientos)</td>
+      <td align="right">
+        <div align="right">1.000</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Капитальная прибыль от продажи акций, приобретенных в 2020 году (Ganancia patrimonial, procedente de venta de acciones adquiridas en 2020)</td>
+      <td align="right">
+        <div align="right">2.000</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Капитальная прибыль от элемента, приобретенного в том же году 2023, связанного с экономической деятельностью (Ganancia patrimonial procedente de un elemento adquirido en el mismo año 2023 afecto a la actividad económica)</td>
+      <td align="right">
+        <div align="right">70.000</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Капитальный убыток от продажи земли, приобретенной в 2019 году (Pérdida patrimonial procedente de la venta de un terreno adquirido en 2019)</td>
+      <td align="right">
+        <div align="right">(60.000)</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Сальдо капитальных прибылей и убытков от передачи активов (Saldo de ganancias y pérdidas derivadas de transmisiones)</td>
+      <td align="right" class="borde-ejemplo">
+        <div align="right">(12.000)</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Налогооблагаемая база сбережений (Base imponible del ahorro)</td>
+      <td align="right">
+        <div align="right">13.000</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</font>
 :::
 
 ## 10. Налогооблагаемый доход. Вычеты
@@ -1201,35 +1841,109 @@ a) Призы от лотерей и пари, организованных Го
 
    Кроме того, 5000 евро в год на взносы по групповому страхованию иждивенцев, уплачиваемые компанией.Независимо от уменьшений, произведенных в соответствии с вышеуказанными ограничениями, налогоплательщики, чьи супруги не получают доходов, включаемых в налоговую базу, или получают менее 8000 евро в год, могут уменьшить налоговую базу на взносы в пенсионные планы, общества взаимопомощи и застрахованные пенсионные планы, в которых супруг является участником, членом или держателем, до максимального предела в 1000 евро в год. Эти взносы не будут облагаться налогом ISD.
 
-   :::tip[ПРИМЕР 29]
+:::tip[ПРИМЕР 29]
 
-   55-летний работающий налогоплательщик предоставляет следующие данные (в евро):
+55-летний работающий налогоплательщик предоставляет следующие данные (в евро):
 
-   <img src={require('./img/example-3-29-1.png').default} alt="Example banner" width="564"/>
+<table class="aside-table">
+  <tbody>
+    <tr>
+      <td width="84%">Полная денежная оплата (Retribuciones íntegras dinerarias)</td>
+      <td width="16%" align="center">
+        <div align="right">70.000</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Вычет взносов в Социальное страхование (Deducción cotización a la Seguridad Social)</td>
+      <td align="center">
+        <div align="right">(3.500)</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Личный взнос в пенсионные планы (Aportación personal a planes de pensiones)</td>
+      <td align="center">
+        <div align="right">1.500</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-   <img src={require('./img/example-3-29-1rus.png').default} alt="Example banner" width="564"/>
+<table class="aside-table">
+  <tbody>
+    <tr>
+      <td width="84%">Полный доход от денег (Rendimiento íntegro de dinero) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td width="16%" align="center">
+        <div align="right">70.000</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Социальное страхование (Seguridad Social)</td>
+      <td align="center">
+        <div align="right">(3.500)</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Прочие расходы (Otros gastos)</td>
+      <td align="center" class="borde-ejemplo">
+        <div align="right">(2.000)</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Чистый доход (Rendimiento neto)</td>
+      <td align="center">
+        <div align="right">64.500</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Скидки (Reducciones)</td>
+      <td align="center" class="borde-ejemplo">
+        <div align="right">–</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Уменьшенный чистый доход (Rendimiento neto reducido)</td>
+      <td align="center">
+        <div align="right">64.500</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Общая налогооблагаемая база (Base imponible general)</td>
+      <td align="center">
+        <div align="right">64.500</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Скидки<sup><a href="#nota6">1</a></sup></td>
+      <td align="center" class="borde-ejemplo">
+        <div align="right">(1.500)</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Общая налоговая база после скидок (Base liquidable general)</td>
+      <td align="center">
+        <div align="right">63.000</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-   <img src={require('./img/example-3-29-2.png').default} alt="Example banner" width="564"/>
+ ---
+ Вычет за взнос в пенсионный план: 1 500.
 
-   <img src={require('./img/example-3-29-2rus.png').default} alt="Example banner" width="564"/>
+ Лимит взносов, менее:
 
-   ---
-   Вычет за взнос в пенсионный план: 1 500.
+ - 30 % от 64.500 = 19.350
 
-   Лимит взносов, менее:
+ - 1.500
 
-   - 30 % от 64.500 = 19.350
+ Таким образом, применимое снижение составит 1 500.
 
-   - 1.500
+ :::
 
-   Таким образом, применимое снижение составит 1 500.
-
-   :::
-
-   #### 10.3.2. Уменьшение компенсационных пенсий
+#### 10.3.2. Уменьшение компенсационных пенсий
 
    Уменьшению налоговой базы могут подлежать компенсационные пенсии в пользу супруга (супруги) и алименты, за исключением установленных в пользу детей налогоплательщика, выплачиваемые по решению суда.
-   #### 10.3.3. Уменьшение совместного налогообложения ([ст. 84](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a84) LIRPF)
+#### 10.3.3. Уменьшение совместного налогообложения ([ст. 84](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a84) LIRPF)
 
    Налогооблагаемая база до уменьшения на уход в ситуациях иждивенчества и старения уменьшается на 3400 евро в год. В случае неполной семьи снижение составит 2150 евро в год.
 
@@ -1293,37 +2007,132 @@ a) Призы от лотерей и пари, организованных Го
 
 1. При индивидуальном налогообложении каждого из супругов:
 
-   <img src={require('./img/example-3-30-1.png').default} alt="Example banner" width="564"/>
-
-   <img src={require('./img/example-3-30-1rus.png').default} alt="Example banner" width="564"/>
+<table class="aside-table">
+  <tbody>
+    <tr>
+      <td width="84%">Минимум для налогоплательщика (Mínimo del contribuyente) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td width="16%" align="center">
+        <div align="right">5.550</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Минимум на детей <span style="font-size:0.8EM;">[(2.400 + 2.700)/2]</span> (Mínimo por descendientes)</td>
+      <td align="center">
+        <div align="right">2.550</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 2. При совместном налогообложении:
 
-   <img src={require('./img/example-3-30-2.png').default} alt="Example banner" width="564"/>
-
-   <img src={require('./img/example-3-30-2rus.png').default} alt="Example banner" width="564"/>
+<table class="aside-table">
+  <tbody>
+    <tr>
+      <td width="84%">Минимум для налогоплательщика (Mínimo del contribuyente) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td width="16%" align="center">
+        <div align="right">5.550</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Минимум на детей (Mínimo por descendientes)</td>
+      <td align="center">
+        <div align="right">5.100</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Уменьшение налогооблагаемой базы (Reducción en base imponible)</td>
+      <td align="center">
+        <div align="right">3.400</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 Случай 2
 
 1. При индивидуальном налогообложении налогоплательщика:
 
-   <img src={require('./img/example-3-30-3.png').default} alt="Example banner" width="564"/>
-
-   <img src={require('./img/example-3-30-3rus.png').default} alt="Example banner" width="564"/>
+<table class="aside-table">
+  <tbody>
+    <tr>
+      <td width="84%">Минимум налогоплательщика (Mínimo del contribuyente) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td width="16%" align="center">
+        <div align="right">5.550</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Минимум на потомков (Mínimo por descendientes)</td>
+      <td align="center">
+        <div align="right">5.100</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 2. При совместном налогообложении:
 
-   <img src={require('./img/example-3-30-4.png').default} alt="Example banner" width="564"/>
-
-   <img src={require('./img/example-3-30-4rus.png').default} alt="Example banner" width="564"/>
+<table class="aside-table">
+  <tbody>
+    <tr>
+      <td width="84%">Минимум налогоплательщика (Mínimo del contribuyente) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td width="16%" align="center">
+        <div align="right">5.550</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Минимум на потомков (Mínimo por descendientes)</td>
+      <td align="center">
+        <div align="right">5.100</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Снижение налогооблагаемой базы (Reducción en base imponible)</td>
+      <td align="center">
+        <div align="right">2.150</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 Случай 3
 
 1. При индивидуальном налогообложении (совместное налогообложение невозможно):
 
-   <img src={require('./img/example-3-30-5.png').default} alt="Example banner" width="564"/>
-
-   <img src={require('./img/example-3-30-5rus.png').default} alt="Example banner" width="564"/>
+<table class="aside-table">
+  <tbody>
+    <tr>
+      <td width="84%">Минимум для налогоплательщика (Mínimo del contribuyente) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td width="16%" align="center">
+        <div align="right">5.550</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Минимум на детей (Mínimo por descendientes) <span style="font-size:0.8EM;">(2.400 + 2.700)</span></td>
+      <td align="center">
+        <div align="right">5.100</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Минимум на предков (Mínimo por ascendientes)</td>
+      <td align="center">
+        <div align="right">3.000</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Минимум за инвалидность (Mínimo por discapacidad)</td>
+      <td align="center">
+        <div align="right">9.000</div>
+      </td>
+    </tr>
+    <tr>
+      <td>Помощь инвалидам (Asistencia a discapacitados)</td>
+      <td align="center">
+        <div align="right">3.000</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 :::
 
@@ -1339,17 +2148,21 @@ a) Призы от лотерей и пари, организованных Го
 
 Полное налоговое обязательство государства ([статьи 62-66](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a62) LIRPF) будет представлять собой сумму следующих величин:
 
-```
-Base liquidable general × Tarifa general estatal = Cuota íntegra general estatal
-Base liquidable del ahorro × Tarifa ahorro estatal = Cuota íntegra del ahorro estatal
-Cuota íntegra estatal = Cuota íntegra general estatal + Cuota íntegra del ahorro estatal
-```
-
-```
-Общая налоговая база × Общая ставка = Общая налоговая ставка государства
-Налогооблагаемая база сбережений × Государственная ставка на сбережения = Налоговое обязательство государства по сбережениям
-Государственное валовое налоговое обязательство = Общая налоговая ставка государства + Налоговое обязательство государства по сбережениям
-```
+<font size="1">
+<table width="100%" border="0" align="center" cellpadding="5" cellspacing="0">
+  <tbody>
+    <tr>
+      <td align="left" class="borde-ejemplo">Общая налогооблагаемая база × Общая государственная ставка = Общая государственная налоговая сумма (Base liquidable general × Tarifa general estatal = Cuota íntegra general estatal)</td>
+    </tr>
+    <tr>
+      <td align="left" class="borde-ejemplo">Налогооблагаемая база сбережений × Ставка налога на сбережения государства = Общая налоговая сумма по сбережениям государства (Base liquidable del ahorro × Tarifa ahorro estatal = Cuota íntegra del ahorro estatal)</td>
+    </tr>
+    <tr>
+      <td align="left"><strong>Общая государственная налоговая сумма = Общая государственная налоговая сумма + Налоговая сумма по сбережениям государства (Cuota íntegra estatal = Cuota íntegra general estatal + Cuota íntegra del ahorro estatal)</strong></td>
+    </tr>
+  </tbody>
+</table>
+</font>
 
 - Сумма, полученная в результате применения общей шкалы налога к общей налогооблагаемой базе, уменьшается на сумму, полученную в результате применения общей шкалы к личному и семейному минимуму, и таким образом определяется общее государственное валовое налоговое обязательство.
 
@@ -1387,7 +2200,80 @@ Cuota íntegra estatal = Cuota íntegra general estatal + Cuota íntegra del aho
 
 Г-н Франциско, имеющий личный и семейный минимальный доход в размере 5550 евро, имеет общий налогооблагаемый доход в размере 70000 евро и налогооблагаемый доход от сбережений в размере 5000 евро.
 
-<img src={require('./img/example-3-31.png').default} alt="Example banner" width="430"/>
+<font size="1">
+<table class="aside-table">
+  <tbody>
+    <tr>
+      <td colspan="3">Общая налоговая ставка по государственным обязательствам (Cuota íntegra general estatal) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td width="15%" align="center">
+        <div align="right">10.673,50</div>
+      </td>
+    </tr>
+    <tr>
+      <td width="7%">&nbsp;</td>
+      <td width="61%">Общая ставка: до 60.000,00</td>
+      <td width="17%" align="center">
+        <div align="right">8.950,75</div>
+      </td>
+      <td>
+        <div align="right"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Общая ставка: остаток <span style="font-size:0.8EM;">[(70.000  –  60.000) на 22,5 %]</span></td>
+      <td align="center" class="borde-ejemplo">
+        <div align="right">2.250,00</div>
+      </td>
+      <td>
+        <div align="right"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Налоговая ставка</td>
+      <td align="center">
+        <div align="right">11.200,75</div>
+      </td>
+      <td>
+        <div align="right"></div>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Личный минимум: до 5.550 на 9,5 %</td>
+      <td align="center">
+        <div align="right">(527,25)</div>
+      </td>
+      <td>
+        <div align="right"></div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3">Общая налоговая ставка по сбережениям (Cuota íntegra del ahorro estatal)</td>
+      <td align="center">
+        <div align="right">475,00</div>
+      </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Общая налоговая ставка по сбережениям <span style="font-size:0.8EM;">(5.000 на 9,5 %)</span></td>
+      <td align="center">
+        <div align="right">475,00</div>
+      </td>
+      <td class="borde-ejemplo">
+        <div align="right"></div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3">Общая государственная налоговая ставка <span style="font-size:0.8EM;">(10.673,50  +  475)</span></td>
+      <td align="center">
+        <div align="right">11.148,50</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</font>
 
 :::
 
@@ -1399,28 +2285,44 @@ Cuota íntegra estatal = Cuota íntegra general estatal + Cuota íntegra del aho
 
 ### 12.2. Определение полного регионального налогового обязательства
 
-Полное региональное налоговое обязательство ([ст. 74-77](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a74) LIRPF) будет представлять собой сумму следующих величин (следует помнить, что 50% подоходного налога с физических лиц передается на места):
-
-**es:**
+Полное региональное налоговое обязательство ([ст. 74-77](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a74) LIRPF) будет представлять собой сумму следующих величин (следует помнить, что 50% подоходного налога с физических лиц передается на места):<br/>
 
 <font size="1">
 
-|      |                                     |      |                                                              |
-| ---- | ----------------------------------- | ---- | ------------------------------------------------------------ |
-|      | Cuota íntegra general autonómica    | →    | Base liquidable general  ×  Tarifa autonómica                |
-| +    | Cuota íntegra del ahorro autonómica | →    | Base liquidable del ahorro  ×  Tipo autonómica               |
-| =    | Cuota íntegra autonómica            | →    | Cuota íntegra general autonómica + Cuota íntegra del ahorro autonómica |
-
-</font>
-
-**ru:**
-
-<font size="1">
-
-|      | Общее полное налоговое обязательство автономного сообщества  | →    | Общий налогооблагаемый доход  ×  Региональная ставка         |
-| ---- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
-| +    | Налоговое обязательство автономного сообщества по валовой экономии | →    | Чистый доход, облагаемый налогом на сбережения  ×  Ставка автономного сообщества |
-| =    | Валовое налоговое обязательство автономного сообщества       | →    | Общее валовое налоговое обязательство автономного сообщества + Сберегательное налоговое обязательство автономного сообщества |
+<table >
+  <tbody>
+    <tr>
+      <td width="5%"><div align="center"></div></td>
+      <td width="37%" align="center">
+        <div align="left">Общая налоговая ставка автономного сообщества (Cuota íntegra general autonómica)</div>
+      </td>
+      <td width="8%"><div align="center">→</div></td>
+      <td width="50%" align="center">
+        <div align="left">Основная налогооблагаемая база × Автономная ставка (Base liquidable general × Tarifa autonómica)</div>
+      </td>
+    </tr>
+    <tr>
+      <td width="5%"><div align="center">+</div></td>
+      <td align="center" class="borde-ejemplo">
+        <div align="left">Общая налоговая ставка по сбережениям автономного сообщества (Cuota íntegra del ahorro autonómica)</div>
+      </td>
+      <td width="8%"><div align="center">→</div></td>
+      <td align="center" class="borde-ejemplo">
+        <div align="left">Налогооблагаемая база сбережений × Автономная ставка (Base liquidable del ahorro × Tipo autonómica)</div>
+      </td>
+    </tr>
+    <tr>
+      <td width="5%"><div align="center">=</div></td>
+      <td align="center">
+        <div align="left">Общая налоговая ставка автономного сообщества (Cuota íntegra autonómica)</div>
+      </td>
+      <td width="8%"><div align="center">→</div></td>
+      <td align="center">
+        <div align="left">Общая налоговая ставка автономного сообщества + Общая налоговая ставка по сбережениям автономного сообщества (Cuota íntegra general autonómica + Cuota íntegra del ahorro autonómica)</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </font>
 
@@ -1992,7 +2894,7 @@ Cuota íntegra estatal = Cuota íntegra general estatal + Cuota íntegra del aho
   - Взносы в социальное страхование персонала: 3 280 евро.
   - Телефон, свет и вода: 3 000 евро.
   - Книги и канцелярские товары: 2 000 евро.
-  - Амортизация<sup><a href="#sup1">1</a></sup>: 3 000 евро.
+  - Амортизация<sup><a href="#sup15_1">1</a></sup>: 3 000 евро.
   - Удержания в профессиональной деятельности составили 7 500 евро, были сделаны предоплаты на сумму 14 630 евро.
 - Супруги владеют различными банковскими счетами и депозитами на определенный срок, которые принесли им полные доходы в размере 6 000 евро, из них было удержано 1 140 евро. Они также владеют портфелем ценных бумаг, который в течение года принес дивиденды в размере 5 000 евро, из них было удержано 950 евро. Финансовые учреждения взимали с них комиссию в размере 30 евро за обслуживание депозитов на определенный срок и 50 евро за управление портфелем ценных бумаг.
 - Они также получили 18 000 евро от погашения облигаций, выпущенных Валенсийским сообществом, которые были приобретены в 2013 году за 17 250 евро. Удержанные налоги составили 142,5 евро.
@@ -2116,7 +3018,7 @@ Cuota íntegra estatal = Cuota íntegra general estatal + Cuota íntegra del aho
                 <td>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Амортизация
                     <span>
-                        <sup><a href="#sup2">2</a></sup>
+                        <sup><a href="#sup15_2">2</a></sup>
                     </span>
                 </td>
                 <td><p>2.840</p></td>
@@ -2242,7 +3144,7 @@ Cuota íntegra estatal = Cuota íntegra general estatal + Cuota íntegra del aho
             </tr>
             <tr>
                 <td>
-                        Минимальный чистый доход<sup><a href="#sup3">3</a></sup>
+                        Минимальный чистый доход<sup><a href="#sup15_3">3</a></sup>
                 </td>
                 <td>&nbsp;</td>
                 <td><p>1.320</p></td>
@@ -2424,13 +3326,13 @@ Cuota íntegra estatal = Cuota íntegra general estatal + Cuota íntegra del aho
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Взносы в пенсионный план<sup><a href="#sup4">4</a></sup> </td>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Взносы в пенсионный план<sup><a href="#sup15_4">4</a></sup> </td>
                 <td>&nbsp;</td>
                 <td>(1.000,00)</td>
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Взносы в страховой план предвидения<sup><a href="#sup5">5</a></sup> </td>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Взносы в страховой план предвидения<sup><a href="#sup15_5">5</a></sup> </td>
                 <td>&nbsp;</td>
                 <td>(1.500,00)</td>
                 <td>&nbsp;</td>
@@ -2568,7 +3470,7 @@ Cuota íntegra estatal = Cuota íntegra general estatal + Cuota íntegra del aho
                 <td>&nbsp;</td>
             </tr>
             <tr>
-                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Пожертвования<sup><a href="#sup6">6</a></sup>(10 % × 3.000) </td>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Пожертвования<sup><a href="#sup15_6">6</a></sup>(10 % × 3.000) </td>
                 <td>&nbsp;</td>
                 <td>300,00</td>
                 <td>&nbsp;</td>
@@ -2633,18 +3535,18 @@ Cuota íntegra estatal = Cuota íntegra general estatal + Cuota íntegra del aho
 
 ---
 
-<sup id="sup1">1</sup> Соответствует исключительно помещению, где проводится деятельность, и компьютерному оборудованию:
+<sup id="sup15_1">1</sup> Соответствует исключительно помещению, где проводится деятельность, и компьютерному оборудованию:
 - Годовой налоговый амортизационный взнос за помещение, согласно налоговым таблицам амортизации и нормам IS, составляет 1.800 евро.
 - Компьютерное оборудование было приобретено новым 1 апреля 2018 года за 2.000 евро плюс 420 евро НДС.
 
-<sup id="sup2">2</sup> Амортизация
+<sup id="sup15_2">2</sup> Амортизация
 - Амортизация помещения: 1.800.
 - Амортизация компьютерного оборудования: 2.000 × 26% × 2 = 1.040.
 
-<sup id="sup3">3</sup> По родственным связям (3-я степень), минимальный доход 1,10% × 120.000 = 1.320 > 400.
+<sup id="sup15_3">3</sup> По родственным связям (3-я степень), минимальный доход 1,10% × 120.000 = 1.320 > 400.
 
-<sup id="sup4">4</sup> Максимальное снижение: 1.000 < 30% (88.325,60).
+<sup id="sup15_4">4</sup> Максимальное снижение: 1.000 < 30% (88.325,60).
 
-<sup id="sup5">5</sup> Максимальное снижение: 2.000 < 30% (61.680,00).
+<sup id="sup15_5">5</sup> Максимальное снижение: 2.000 < 30% (61.680,00).
 
-<sup id="sup6">6</sup> База максимального вычета: 10% (145.425,60 + 8.775,00) > 3.000.
+<sup id="sup15_6">6</sup> База максимального вычета: 10% (145.425,60 + 8.775,00) > 3.000.
