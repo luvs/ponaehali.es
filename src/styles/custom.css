@@ -11,6 +11,7 @@
 	--sl-color-gray-5: #2a3b41;
 	--sl-color-gray-6: #182a2f;
 	--sl-color-black: #121a1c;
+	--sl-content-width: 60rem;
 }
 /* Light mode colors. */
 :root[data-theme='light'] {
@@ -26,6 +27,7 @@
 	--sl-color-gray-6: #e7eff2;
 	--sl-color-gray-7: #f3f7f9;
 	--sl-color-black: #ffffff;
+	--sl-content-width: 60rem;
 }
 
 .site-title {
