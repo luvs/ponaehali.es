@@ -17,6 +17,7 @@ sidebar:
 
 - [Digital Nomad Residence in Spain 2024](https://barcelona-startups-relocation.notion.site/Digital-Nomad-Residence-in-Spain-2024-97dfbe479af04e8b94d269f07bf7e0a2) — гайд по digital nomad.
 - [Digital Nomad Spain (или ВНЖ Цифрового кочевника Испании)](https://digital-nomad-spain.notion.site/Digital-Nomad-Spain-b2a4f8379fe54bf3bc6005d69180af73) — гайд по подготовке к подаче документов на внж от [Digital Nomad Spain](https://t.me/digitalnomadspain). 
+- [Гайд](https://relocation2spain.github.io/) что делать по приезду от автора канала [Львиные истории про Таррагону](https://t.me/lev2tarragona)
 
 ## Чаты
 

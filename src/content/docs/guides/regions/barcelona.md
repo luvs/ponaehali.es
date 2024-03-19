@@ -3,8 +3,9 @@ title: Каталония
 description: Каталония
 ---
 
-:::danger[Нужен автор]
+- [Гайд «Номады в Варне»](https://nomadsbcn.notion.site/nomadsbcn/dd2e54f2637448329654f0036c3256cd)
 
-Если хотите заполнить эту страницу — [напишите мне](t.me/ponaehali_es_admin).
+## Чаты и каналы
 
-:::
+- [Чат «Номады в Барселоне»](https://t.me/nomadsbarna)
+- 

@@ -3,8 +3,6 @@ title: Страна Басков
 description: Страна Басков
 ---
 
-:::danger[Нужен автор]
+## Каналы и чаты
 
-Если хотите заполнить эту страницу — [напишите мне](t.me/ponaehali_es_admin).
-
-:::
+- [Bilbao Digital Nomad](https://t.me/digitalbilbao)
