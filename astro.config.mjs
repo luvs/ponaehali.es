@@ -15,6 +15,7 @@ export default defineConfig({
         },
       },
 			social: {
+        telegram: 'https://t.me/ponaehali_es',
 				github: 'https://github.com/luvs/ponaehali.es',
 			},
 		  customCss: [
@@ -63,6 +64,7 @@ export default defineConfig({
                 { label: 'Как работает прогрессивная шкала', link: '/guides/taxes/faq/progressive' },
                 { label: 'Вычеты — какие типы бывают и как применяются', link: '/guides/taxes/faq/deductions-types' },
                 { label: 'Вычеты — список', link: '/guides/taxes/faq/deductions' },
+                { label: 'Как получить цифровой сертификат (FNMT, cl@ve)', link: '/guides/taxes/faq/fnmt' },
               ]
             },
             {
