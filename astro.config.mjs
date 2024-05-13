@@ -133,6 +133,8 @@ export default defineConfig({
           label: "Транспорт",
           items: [
             { label: "Гайды, ссылки, чаты", link: "/guides/transport" },
+            { label: "Права в Испании", link: "/guides/transport/driving-license" },
+            { label: "Велосипеды", link: "/guides/transport/bicycle" },
           ]
         },
 			],
