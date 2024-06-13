@@ -5,7 +5,7 @@ description: Открытие autonomo через PAE самостоятельн
 
 :::note[Автор]
 
-За гайд списибо Denis Voskvitsov. [Оригинал](https://t.me/taxesnomadspain/46583).
+За гайд спасибо Denis Voskvitsov. [Оригинал](https://t.me/taxesnomadspain/46583).
 
 :::
 
