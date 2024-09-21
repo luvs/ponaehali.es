@@ -7,7 +7,7 @@ description: Start page.
 
 :::tip[Контакты]
 
-Вопросы, пожелания и дополнения можно писать на [email](mailto:mail@luvsandugar.com) или в [телеграм](https://t.me/t.me/ponaehali_es_admin).
+Вопросы, пожелания и дополнения можно писать на [email](mailto:mail@luvsandugar.com) или в [телеграм](https://t.me/ponaehali_es_admin).
 :::
 
 :::tip[Обновления]
