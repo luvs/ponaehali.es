@@ -28,6 +28,7 @@ sidebar:
 - [Чат Migrun](https://t.me/spain_migrun)
 - [Подача на визу через консульства Испании (РФ, Сербия, Казахстан, Турция) ](https://t.me/dnvisaspainembassies)
 - [Espānium](https://t.me/espanium_expert)
+- [Españevo](https://t.me/espanevo)
 
 ## Помогаторы
 
