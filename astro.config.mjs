@@ -101,7 +101,6 @@ export default defineConfig({
               label: "Страна Басков",
               items: [
                 { label: 'Налоги в Стране Басков', link: '/guides/taxes/basque-country' },
-                { label: 'Местный режим Бекхема', link: '/guides/taxes/basque-country-backham' },
               ]
             },
           ],
