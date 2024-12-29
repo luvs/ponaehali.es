@@ -3,7 +3,14 @@ title: Тема 0. Общие определения
 description: Тема 0. Общие определения
 ---
 
+import { Tabs, TabItem } from '@astrojs/starlight/components';
+
 Тема 0. Общие определения
+
+<Tabs>
+  <TabItem label="Stars">Sirius, Vega, Betelgeuse</TabItem>
+  <TabItem label="Moons">Io, Europa, Ganymede</TabItem>
+</Tabs>
 
 Водитель
 
