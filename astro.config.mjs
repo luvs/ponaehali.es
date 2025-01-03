@@ -75,6 +75,8 @@ export default defineConfig({
                 { label: "Modelo 100", link: '/guides/taxes/modelo/modelo-100' },
                 { label: "Modelo 130", link: '/guides/taxes/modelo/modelo-130' },
                 { label: "Modelo 303", link: '/guides/taxes/modelo/modelo-303' },
+                { label: "Modelo 347", link: '/guides/taxes/modelo/modelo-347' },
+                { label: "Modelo 349", link: '/guides/taxes/modelo/modelo-349' },
                 { label: "Modelo 720", link: '/guides/taxes/modelo/modelo-720' },
                 { label: "Modelo 721", link: '/guides/taxes/modelo/modelo-721' },
               ]
