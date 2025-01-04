@@ -134,7 +134,21 @@ export default defineConfig({
           label: "Транспорт",
           items: [
             { label: "Гайды, ссылки, чаты", link: "/guides/transport" },
-            { label: "Права в Испании", link: "/guides/transport/driving-license" },
+            {
+              label: "Водительские права",
+              items: [
+                { label: 'Общая информация', link: '/guides/transport/pdd' },
+                {
+                  label: "Учебник от Todotest",
+                  items: [
+                    { label: 'Об учебнике', link: '/guides/transport/pdd/todotest' },
+                    { label: 'Тема 0. Общие определения', link: '/guides/transport/pdd/todotest/tema-00' },
+                    { label: 'Тема 1. Общие правила поведения', link: '/guides/transport/pdd/todotest/tema-01' },
+                    { label: 'Тема 2. Вес, габариты, перевозка людей', link: '/guides/transport/pdd/todotest/tema-02' },
+                  ]
+                },
+              ]
+            },
             { label: "Велосипеды", link: "/guides/transport/bicycle" },
           ]
         },

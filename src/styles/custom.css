@@ -43,3 +43,16 @@ aside table {
   background: #ffffff;
   margin-top: 10px;
 }
+
+.column {
+  float: left;
+  width: 50%;
+  margin-top: 0 !important;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
