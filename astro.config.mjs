@@ -145,6 +145,7 @@ export default defineConfig({
                     { label: 'Тема 0. Общие определения', link: '/guides/transport/pdd/todotest/tema-00' },
                     { label: 'Тема 1. Общие правила поведения', link: '/guides/transport/pdd/todotest/tema-01' },
                     { label: 'Тема 2. Вес, габариты, перевозка людей', link: '/guides/transport/pdd/todotest/tema-02' },
+                    { label: 'Тема 3. Безопасность на дороге', link: '/guides/transport/pdd/todotest/tema-03' },
                   ]
                 },
               ]
