@@ -146,6 +146,12 @@ export default defineConfig({
                     { label: 'Тема 1. Общие правила поведения', link: '/guides/transport/pdd/todotest/tema-01' },
                     { label: 'Тема 2. Вес, габариты, перевозка людей', link: '/guides/transport/pdd/todotest/tema-02' },
                     { label: 'Тема 3. Безопасность на дороге', link: '/guides/transport/pdd/todotest/tema-03' },
+                    { label: 'Тема 4. Трасса', link: '/guides/transport/pdd/todotest/tema-04' },
+                    { label: 'Тема 5. Скорость', link: '/guides/transport/pdd/todotest/tema-05' },
+                    { label: 'Тема 6. Перекрестки', link: '/guides/transport/pdd/todotest/tema-06' },
+                    { label: 'Тема 7. Манёвры', link: '/guides/transport/pdd/todotest/tema-07' },
+                    { label: 'Тема 8. Освещение', link: '/guides/transport/pdd/todotest/tema-08' },
+                    { label: 'Тема 9. Сигналы', link: '/guides/transport/pdd/todotest/tema-09' },
                   ]
                 },
               ]
