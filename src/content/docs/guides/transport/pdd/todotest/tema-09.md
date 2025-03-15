@@ -3,234 +3,1798 @@ title: Тема 9. Сигналы (Señales)
 description: Тема 9. Сигналы (Señales) 
 ---
 
-## 1. Introducción
+## 1. Введение (Introducción)
 
-Los usuarios deben obedecer las indicaciones de los semáforos y de las señales verticales de circulación situadas inmediatamente a su derecha, encima de la calzada o encima de su carril y, si no existen en los citados emplazamientos y pretenden girar a la izquierda o seguir de frente, las de los situados inmediatamente a su izquierda.
+Пользователи должны подчиняться указаниям светофоров и вертикальных дорожных знаков, расположенных непосредственно справа от них, над проезжей частью или над их полосой движения, а если таковых нет в указанных местах и они намереваются повернуть налево или продолжить движение прямо, то указаниям знаков, расположенных непосредственно слева от них.
 
-Si existen semáforos o señales verticales de circulación con indicaciones distintas a la derecha y a la izquierda, quienes pretenden girar a la izquierda o seguir de frente sólo deben obedecer las de los situados inmediatamente a su izquierda.
+Если существуют светофоры или вертикальные дорожные знаки с различными указаниями справа и слева, то те, кто намеревается повернуть налево или продолжить движение прямо, должны подчиняться только тем, которые расположены непосредственно слева от них.
 
-Señal vertical a la derecha
+Вертикальный знак справа
 ![](https://www.todotest.com/tests/imgs/man_15.jpg)
 
-Distintas señales a derecha e izquierda
+Различные знаки справа и слева
 ![](https://www.todotest.com/tests/imgs/man_16.jpg)
 
-### Obras
+### Дорожные работы (Obras)
 
-Cuando se señalicen tramos de obras, las marcas viales serán de color amarillo y algunas señales verticales tendrán el fondo amarillo, siendo su significado el mismo que el de las equivalentes que se utilizan cuando no hay obras.
+При обозначении участков дорожных работ дорожная разметка будет желтого цвета, а некоторые вертикальные знаки будут иметь желтый фон, при этом их значение будет таким же, как и у эквивалентных знаков, используемых при отсутствии дорожных работ.
 
-## 2. Prioridad entre señales
+## 2. Приоритет между знаками (Prioridad entre señales)
 
-El orden de prioridad entre los distintos tipos de señales que parezcan entrar en contradicción es el siguiente:
+Порядок приоритета между различными типами знаков, которые могут противоречить друг другу, следующий:
 
-1. Señales y órdenes de los agentes de circulación.
-2. Señalización circunstancial que modifique el régimen normal de utilización de la vía y señales de balizamiento fijo.
-3. Semáforos.
-4. Señales verticales de circulación.
-5. Marcas viales.
+1. Сигналы и распоряжения регулировщиков дорожного движения.
+2. Временная сигнализация, изменяющая обычный режим использования дороги, и знаки фиксированной разметки.
+3. Светофоры.
+4. Вертикальные дорожные знаки.
+5. Дорожная разметка.
 
-1. Agentes
+1. Регулировщики
 ![](https://www.todotest.com/tests/imgs/man_18.jpg)
 
-2. Señalización circunstancial
+2. Временная сигнализация
 ![](https://www.todotest.com/tests/imgs/0521.jpg)
 
-3. Semáforos
+3. Светофоры
 ![](https://www.todotest.com/tests/imgs/0151.jpg)
 
-4. Señales verticales
+4. Вертикальные знаки
 ![](https://www.todotest.com/tests/imgs/0106.jpg)
 
-5. Marcas viales
+5. Дорожная разметка
 ![](https://www.todotest.com/tests/imgs/0531.jpg)
 
-Cuando las señales sean del mismo tipo prevalecerá la más restrictiva.
+Когда знаки одного типа, преимущество имеет более ограничительный.
 
-## 3. Aplicación de las señales
+## 3. Применение знаков (Aplicación de las señales)
 
-Toda señal se aplicará a toda la anchura de la calzada que estén autorizados a utilizar los conductores a quienes se dirija esa señal. No obstante, su aplicación podrá limitarse a uno o más carriles delimitados mediante marcas longitudinales en la calzada.
+Каждый знак применяется ко всей ширине проезжей части, которую имеют право использовать водители, к которым обращен этот знак. Тем не менее, его применение может быть ограничено одной или несколькими полосами движения, обозначенными продольной разметкой на проезжей части.
 
-## 4. Señales y órdenes de los agentes de circulación
+## 4. Сигналы и распоряжения регулировщиков дорожного движения (Señales y órdenes de los agentes de circulación)
 
-Los agentes que estén regulando la circulación, lo harán de forma que sean fácilmente reconocibles como tales a distancia, tanto de día como de noche, y sus señales, que han de ser visibles, y sus órdenes deben ser inmediatamente obedecidas por los usuarios de la vía.
+Регулировщики, регулирующие движение, должны быть легко узнаваемыми как таковые на расстоянии, как днем, так и ночью, а их сигналы должны быть видимыми, и их распоряжения должны немедленно выполняться пользователями дороги.
 
-Como norma general, los agentes utilizarán las siguientes señales:
+Как правило, регулировщики используют следующие сигналы:
 
 
-**Brazo levantado verticalmente**
+**Рука поднята вертикально вверх**
 
 ![](https://www.todotest.com/tests/imgs/poli_1.jpg)
 
-Obliga a detenerse a todos los usuarios de la vía que se acerquen al agente, salvo a los conductores que no puedan hacerlo en condiciones de seguridad.
+Обязывает остановиться всех пользователей дороги, приближающихся к регулировщику, за исключением водителей, которые не могут сделать это в условиях безопасности.
 
-La detención debe efectuarse ante la línea de detención más cercana o, en su defecto, inmediatamente antes del agente.
+Остановка должна быть произведена перед ближайшей линией остановки или, при ее отсутствии, непосредственно перед регулировщиком.
 
-En una intersección, la detención debe efectuarse antes de entrar en ella.
+На перекрестке остановка должна быть произведена до въезда на него.
 
-Con posterioridad a esta señal, el agente podrá indicar, en su caso, el lugar donde debe efectuarse la detención.
+После этого сигнала регулировщик может указать, в случае необходимости, место, где должна быть произведена остановка.
 
-**Brazo o brazos extendidos horizontalmente**
+**Рука или руки вытянуты горизонтально**
 
 ![](https://www.todotest.com/tests/imgs/poli_2.jpg)
 
-Obliga a detenerse a los usuarios que se acerquen al agente desde cualquier dirección que corte a la indicada por el brazo o los brazos extendidos, cualquiera que sea el sentido de su marcha, y permanece en vigor, aunque el agente baje el brazo o los brazos, siempre que no cambie de posición o efectúe otra señal.
+Обязывает остановиться пользователей, приближающихся к регулировщику с любого направления, которое пересекает направление, указанное вытянутой рукой или руками, независимо от направления их движения, и остается в силе, даже если регулировщик опускает руку или руки, при условии, что он не меняет положения или не подает другой сигнал.
 
 
-**Balanceo de una luz roja o amarilla**
+**Покачивание красным или желтым светом**
 
 ![](https://www.todotest.com/tests/imgs/poli_3.jpg)
 
-Obliga a detenerse a los usuarios de la vía hacia los que el agente dirija la luz.
+Обязывает остановиться пользователей дороги, в сторону которых регулировщик направляет свет.
 
-**Brazo extendido moviéndolo alternativamente de arriba abajo**
+**Рука вытянута, двигающаяся попеременно вверх и вниз**
 
 ![](https://www.todotest.com/tests/imgs/poli_6.jpg)
 
-Obliga a disminuir la velocidad de su vehículo a los conductores que se acerquen al agente por el lado correspondiente al brazo que ejecuta la señal y perpendicularmente a dicho brazo.
+Обязывает снизить скорость своего транспортного средства водителей, приближающихся к регулировщику со стороны, соответствующей руке, выполняющей сигнал, и перпендикулярно этой руке.
 
-Cuando las circunstancias así lo exijan, los agentes podrán utilizar cualquier otra indicación, distinta de las anteriores, realizada de forma clara.
+Когда обстоятельства того требуют, регулировщики могут использовать любое другое указание, отличное от вышеперечисленных, выполненное в ясной форме.
 
 ![](https://www.todotest.com/tests/imgs/man0257.jpg)
 
-Los agentes podrán ordenar la detención de vehículos con una serie de toques de silbato cortos y frecuentes, y la reanudación de la marcha con un toque largo.
+Регулировщики могут приказать остановить транспортные средства серией коротких и частых свистков, а возобновить движение - длинным свистком.
 
 ![](https://www.todotest.com/tests/imgs/man0258.jpg)
 
-Los agentes podrán dar órdenes o indicaciones a los usuarios a través de la megafonía o por cualquier otro medio que pueda ser percibido claramente por aquéllos, entre los cuales están los siguientes:
+Регулировщики могут давать указания или инструкции пользователям через мегафон или любым другим способом, который может быть четко воспринят ими, среди которых следующие:
 
-**Bandera roja** 
+**Красный флаг** 
 
-Indica que a partir del paso del vehículo que la porta, la calzada queda temporalmente cerrada al tráfico de todos los vehículos y usuarios, excepto para aquellos que son acompañados o escoltados por los agentes de la autoridad responsable de la regulación, gestión y control del tráfico.
+Указывает, что с момента проезда транспортного средства, которое его несет, проезжая часть временно закрыта для движения всех транспортных средств и пользователей, за исключением тех, которых сопровождают или эскортируют представители власти, ответственные за регулирование, управление и контроль дорожного движения.
 
 ![](https://www.todotest.com/tests/imgs/poli_moto_1.jpg)
 
-**Bandera verde**
+**Зеленый флаг**
 
-Indica que, a partir del paso del vehículo que la porta, la calzada queda de nuevo abierta al tráfico.
+Указывает, что с момента проезда транспортного средства, которое его несет, проезжая часть снова открыта для движения.
 
 ![](https://www.todotest.com/tests/imgs/poli_moto_3.jpg)
 
-**Bandera amarilla**
+**Желтый флаг**
 
-Indica al resto de los conductores y usuarios la necesidad de extremar la atención o la proximidad de un peligro. Esta bandera podrá ser también utilizada por el personal auxiliar habilitado que realice funciones de orden, control o seguridad durante el desarrollo de marchas ciclistas o de cualquiera otra actividad, deportiva o no, en las vías objeto de la legislación sobre tráfico, circulación de vehículos a motor y seguridad vial.
+Указывает остальным водителям и пользователям на необходимость проявлять повышенное внимание или на близость опасности. Этот флаг также может использоваться уполномоченным вспомогательным персоналом, выполняющим функции порядка, контроля или безопасности во время проведения велосипедных заездов или любых других мероприятий, спортивных или нет, на дорогах, подпадающих под законодательство о дорожном движении, движении автотранспортных средств и безопасности дорожного движения.
 
 ![](https://www.todotest.com/tests/imgs/poli_moto_2.jpg)
 
-**Brazo extendido hacia abajo inclinado y fijo**
+**Рука вытянута вниз под наклоном и неподвижная**
 
-El agente desde un vehículo indica la obligación de detenerse en el lado derecho a aquellos usuarios a los que va dirigida la señal.
+Регулировщик из транспортного средства указывает на обязанность остановиться на правой стороне тем пользователям, которым адресован сигнал.
 
 ![](https://www.todotest.com/tests/imgs/poli_moto_4.jpg)
 
-**Luz roja o amarilla intermitente o destellante hacia delante**
+**Красный или желтый прерывистый или мигающий свет вперед**
 
-El agente desde un vehículo indica al conductor del que le precede que debe detener el vehículo en el lado derecho, delante del vehículo policial, en un lugar donde no genere mayores riesgos o molestias para el resto de los usuarios, y siguiendo las instrucciones que imparta el agente mediante la megafonía.
+Регулировщик из транспортного средства указывает водителю впереди идущего транспортного средства, что он должен остановить транспортное средство на правой стороне, перед полицейским транспортным средством, в месте, где это не создаст больших рисков или неудобств для остальных пользователей, и следуя инструкциям, которые регулировщик дает через мегафон.
 
-- En ausencia de agentes de la circulación o para auxiliar a éstos, y en las circunstancias y condiciones establecidas en este reglamento, la Policía Militar podrá regular la circulación, y el personal de obras en la vía y el de acompañamiento de los vehículos en régimen de transporte especial podrá regular el paso de vehículos mediante el empleo de las señales verticales [R-2](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=8&sp=8.1) y [R-400](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=11&sp=8.5) incorporadas a una paleta, y, por este mismo medio, las patrullas escolares invitar a los usuarios de la vía a que detengan su marcha. Cuando la autoridad competente autorice la celebración de actividades deportivas o actos que aconsejen establecer limitaciones a la circulación en vías urbanas o interurbanas, la autoridad responsable del tráfico podrá habilitar al personal de protección civil o de la organización responsable para impedir el acceso de vehículos o peatones a la zona o itinerario afectados.
+- В отсутствие регулировщиков дорожного движения или для помощи им, и в обстоятельствах и условиях, установленных в этих правилах, Военная полиция может регулировать движение, а персонал дорожных работ и сопровождения транспортных средств в режиме специальной перевозки может регулировать проезд транспортных средств с использованием вертикальных знаков [R-2](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=8&sp=8.1) и [R-400](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=11&sp=8.5), прикрепленных к палке, и таким же образом школьные патрули могут предлагать пользователям дороги остановить свое движение. Когда компетентный орган разрешает проведение спортивных мероприятий или действий, которые рекомендуют установить ограничения на движение на городских или междугородних дорогах, орган, ответственный за дорожное движение, может уполномочить персонал гражданской защиты или ответственной организации препятствовать доступу транспортных средств или пешеходов в затронутую зону или маршрут.
 
 ![](https://www.todotest.com/tests/imgs/r400c.jpg)
 ![](https://www.todotest.com/tests/imgs/r2.jpg)
 
-## 5. Señalización circunstancial
+## 5. Временная сигнализация (Señalización circunstancial)
 
-### 5.1 Señales de balizamiento
+### 5.1 Знаки разметки (Señales de balizamiento)
 
-Las señales de balizamiento podrán ser:
+Знаки разметки могут быть:
 
-**Dispositivos de barrera**
+**Барьерные устройства**
 
-Prohíben el paso a la parte de la vía que delimitan y son los siguientes:
+Запрещают проезд в ту часть дороги, которую они ограничивают, и представляют собой следующее:
 
 ![](https://www.todotest.com/tests/imgs/man0259.jpg)
 
-- **Barrera fija**. Prohíbe el paso a la vía o parte de la misma que delimita.
-- **Barrera o semi-barrera móviles**. Prohíbe temporalmente el paso, mientras se encuentre en posición transversal a la calzada en un paso a nivel, puesto de peaje o de aduana, acceso a un establecimiento, u otro.
-- **Panel direccional provisional**. Informa, además, sobre el sentido de la circulación.
-- **Banderita, conos o dispositivos análogos**. Prohíben el paso a través de la línea real o imaginaria que los une.
-- **Luz roja fija**. Indica que la calzada está totalmente cerrada al tránsito.
-- **Luces amarillas fijas o intermitentes**. Prohíben el paso a través de la línea imaginaria que las une.
+- **Фиксированный барьер**. Запрещает проезд на дорогу или ее часть, которую он ограничивает.
+- **Подвижный барьер или полубарьер**. Временно запрещает проезд, пока находится в поперечном положении к проезжей части на железнодорожном переезде, пункте оплаты или таможне, въезде в учреждение или другом месте.
+- **Временная направляющая панель**. Также информирует о направлении движения.
+- **Флажок, конусы или аналогичные устройства**. Запрещают проезд через реальную или воображаемую линию, которая их соединяет.
+- **Постоянный красный свет**. Указывает, что проезжая часть полностью закрыта для движения.
+- **Постоянные или прерывистые желтые огни**. Запрещают проезд через воображаемую линию, которая их соединяет.
 
-**Los dispositivos de guía**
+**Направляющие устройства**
 
-Tienen por finalidad indicar el borde de la calzada, la presencia de una curva y el sentido de circulación, los límites de obras de fábrica u otros obstáculos. Son los siguientes:
+Предназначены для указания края проезжей части, наличия поворота и направления движения, границ инженерных сооружений или других препятствий. К ним относятся:
 
 ![](https://www.todotest.com/tests/imgs/man0260.jpg)
 
-- **Hito de vértice**. Elemento de balizamiento en forma semicilíndrica en su cara frontal, provisto de triángulos simétricamente opuestos, de material retrorreflectante, que indica el punto en el que se separan dos corrientes de tráfico.
-- **Hito de arista**. Elemento cuya finalidad primordial es balizar los bordes de las carreteras principalmente durante las horas nocturnas o de baja visibilidad.
-- **Paneles direccionales permanentes**. Dispositivos de balizamiento implantados con vistas a guiar y señalar a los usuarios un peligro puntual, mediante el cual se informa sobre el sentido de circulación.
-- **Captafaros horizontales**. (ojos de gato)Prohíben el paso a través de la línea real o imaginaria que los une.
-- **Captafaros de barrera**. Indica que la calzada está totalmente cerrada al tránsito.
-- **Balizas planas**. Indican el borde de la calzada, los límites de obras de fábrica u otros obstáculos en la vía.
-- **Balizas cilíndricas**. Refuerzan cualquier medida de seguridad, y no puede franquearse la línea, imaginaria o no, que las une.
-- **Barreras laterales**. Rígidas, semirrígidas y desplazables. Indican el borde de la plataforma y protegen frente a salidas de la vía.
+- **Вершинный столбик**. Элемент разметки полуцилиндрической формы на лицевой стороне, снабженный симметрично расположенными треугольниками из светоотражающего материала, который указывает точку, в которой разделяются два потока движения.
+- **Краевой столбик**. Элемент, основное назначение которого - обозначать края дорог, особенно в ночное время или при плохой видимости.
+- **Постоянные направляющие панели**. Устройства разметки, установленные с целью направления и указания пользователям на точечную опасность, посредством которых информируется о направлении движения.
+- **Горизонтальные светоотражатели**. (кошачьи глаза) Запрещают проезд через реальную или воображаемую линию, которая их соединяет.
+- **Барьерные светоотражатели**. Указывают, что проезжая часть полностью закрыта для движения.
+- **Плоские маячки**. Указывают край проезжей части, границы инженерных сооружений или других препятствий на дороге.
+- **Цилиндрические маячки**. Усиливают любую меру безопасности, и нельзя пересекать линию, воображаемую или нет, которая их соединяет.
+- **Боковые барьеры**. Жесткие, полужесткие и передвижные. Указывают край платформы и защищают от съезда с дороги.
 
-### 5.2 Paneles de mensaje variable
+### 5.2 Панели с переменным сообщением (Paneles de mensaje variable)
 
-Los paneles de mensaje variable tienen por objeto regular la circulación adaptándola a las circunstancias cambiantes del tráfico. Se utilizarán para dar información a los conductores, advertirles de posibles peligros y dar recomendaciones o instrucciones de obligado cumplimiento.
+Панели с переменным сообщением предназначены для регулирования движения, адаптируя его к изменяющимся условиям дорожного движения. Они используются для информирования водителей, предупреждения их о возможных опасностях и дачи рекомендаций или инструкций, обязательных для выполнения.
 
 ![](https://www.todotest.com/tests/imgs/man_19.jpg)
 
-Las modificaciones que estos paneles de mensaje variable introducen respecto de la habitual señalización vertical y horizontal terminan cuando lo establezca el propio panel o las causas que motivaron su imposición, momento a partir del cual aquellas vuelven a regir.
+Изменения, которые эти панели с переменным сообщением вносят в обычную вертикальную и горизонтальную сигнализацию, прекращаются, когда это устанавливает сама панель или причины, вызвавшие их введение, после чего снова начинают действовать обычные знаки.
 
-## 6. Semáforos
+## 6. Светофоры (Semáforos)
 
-### 6.1 Semáforos reservados para peatones
+### 6.1 Светофоры для пешеходов (Semáforos reservados para peatones)
 
 ![](https://www.todotest.com/tests/imgs/man0261.jpg)
 
-El significado de las luces de estos semáforos es el siguiente:
+Значение огней этих светофоров следующее:
 
-- **Una luz roja no intermitente, en forma de peatón inmóvil**, indica a los peatones que no deben comenzar a cruzar la calzada.
-- **Una luz verde no intermitente, en forma de peatón en marcha**, indica a los peatones que pueden comenzar a atravesar la calzada.
+- **Немигающий красный свет в форме неподвижного пешехода** указывает пешеходам, что они не должны начинать переходить проезжую часть.
+- **Немигающий зеленый свет в форме идущего пешехода** указывает пешеходам, что они могут начать переходить проезжую часть.
 
-Cuando dicha luz pase a intermitente, significa que el tiempo de que aún disponen para terminar de atravesar la calzada está a punto de finalizar y que se va a encender la luz roja.
+Когда этот свет начинает мигать, это означает, что время, которое у них еще есть для завершения перехода проезжей части, подходит к концу, и скоро загорится красный свет.
 
-### 6.2 Semáforos circulares para vehículos
+### 6.2 Круглые светофоры для транспортных средств (Semáforos circulares para vehículos)
 
-El significado de sus luces y flechas es la siguiente:
+Значение их огней и стрелок следующее:
 
-- **Una luz roja no intermitente** prohíbe el paso. Mientras permanece encendida, los vehículos no deben rebasar el semáforo ni la línea de detención anterior más próxima al mismo, si la hubiera. Si el semáforo estuviese dentro o al lado opuesto de una intersección, los vehículos no deben internarse en ésta ni rebasar la línea de detención situada antes de la misma, si la hubiera.
+- **Немигающий красный свет** запрещает проезд. Пока он горит, транспортные средства не должны проезжать светофор или ближайшую к нему линию остановки, если таковая имеется. Если светофор находится внутри перекрестка или на противоположной стороне от него, транспортные средства не должны въезжать на перекресток или проезжать линию остановки, расположенную перед ним, если таковая имеется.
     ![](https://www.todotest.com/tests/imgs/0754.jpg)
-- **Una luz roja intermitente, o dos luces rojas alternativamente intermitentes**, prohíben temporalmente el paso a los vehículos antes de un paso a nivel, una entrada a un puente móvil o a un pontón transbordador, en las proximidades de una salida de vehículos de extinción de incendios o con motivo de la aproximación de una aeronave a escasa altura.
-- **Una luz amarilla no intermitente** significa que los vehículos deben detenerse en las mismas condiciones que si se tratara de una luz roja fija, a no ser que cuando se encienda, el vehículo se encuentre tan cerca del lugar de detención que no pueda detenerse antes del mismo en condiciones de seguridad suficientes.
+- **Мигающий красный свет или два попеременно мигающих красных света** временно запрещают проезд транспортным средствам перед железнодорожным переездом, въездом на подвижной мост или на паромную переправу, вблизи выезда пожарных машин или в связи с приближением воздушного судна на малой высоте.
+- **Немигающий желтый свет** означает, что транспортные средства должны остановиться на тех же условиях, что и при постоянном красном свете, за исключением случаев, когда при его включении транспортное средство находится так близко к месту остановки, что не может остановиться перед ним в условиях достаточной безопасности.
     ![](https://www.todotest.com/tests/imgs/0752.jpg)
-- **Una luz amarilla intermitente o dos luces amarillas alternativamente intermitentes** obligan a los conductores a extremar la precaución y, en su caso, ceder el paso. Además, no eximen del cumplimiento de otras señales que obliguen a detenerse.
-- **Una luz verde no intermitente** significa que está permitido el paso, excepto aún cuando goce de prioridad de paso, ningún conductor deberá penetrar con su vehículo en una intersección o en un paso para peatones si la situación de la circulación es tal que, previsiblemente, pueda quedar detenido de forma que impida u obstruya la circulación transversal.
+- **Мигающий желтый свет или два попеременно мигающих желтых света** обязывают водителей проявлять крайнюю осторожность и, при необходимости, уступать дорогу. Кроме того, они не освобождают от выполнения других знаков, требующих остановки.
+- **Немигающий зеленый свет** означает, что проезд разрешен, однако даже при наличии преимущественного права проезда ни один водитель не должен въезжать на своем транспортном средстве на перекресток или пешеходный переход, если ситуация с движением такова, что предположительно он может остановиться таким образом, что будет препятствовать или затруднять поперечное движение.
     ![](https://www.todotest.com/tests/imgs/0753.jpg)
-- **Una flecha negra sobre una luz roja no intermitente o sobre una luz amarilla**, no cambia el significado de dichas luces pero lo limita exclusivamente al movimiento indicado por la flecha.
+- **Черная стрелка на немигающем красном свете или на желтом свете** не меняет значения этих огней, но ограничивает его исключительно движением, указанным стрелкой.
     ![](https://www.todotest.com/tests/imgs/man0262.jpg)
-- **Una flecha verde que se ilumina sobre un fondo circular negro**, significa que los vehículos pueden tomar la dirección y sentido indicados por la misma, cualquiera que sea la luz que esté simultáneamente encendida en el mismo semáforo o en otro contiguo.
+- **Зеленая стрелка, которая загорается на черном круглом фоне**, означает, что транспортные средства могут двигаться в направлении и по направлению, указанному ею, независимо от того, какой свет одновременно горит на этом же светофоре или на соседнем.
     ![](https://www.todotest.com/tests/imgs/0957.jpg)
 
-Cualquier vehículo que, al encenderse la flecha verde, se encuentre en un carril reservado exclusivamente para la circulación en la dirección y sentidos indicados por la flecha o que, sin estar reservado, sea el que esta circulación tenga que utilizar, deberá avanzar en dicha dirección y sentido, debiendo hacerlo con precaución, dejando pasar a los vehículos que circulen por el carril al que se incorpore y no poniendo en peligro a los peatones que estén cruzando la calzada.
+Любое транспортное средство, которое при включении зеленой стрелки находится на полосе, зарезервированной исключительно для движения в направлении и по направлению, указанному стрелкой, или которое, не будучи зарезервированным, должно использоваться для этого движения, должно двигаться в этом направлении и по этому направлению, делая это с осторожностью, пропуская транспортные средства, движущиеся по полосе, на которую оно выезжает, и не подвергая опасности пешеходов, переходящих проезжую часть.
 
-### 6.3 Semáforos cuadrados para vehículos, o de carril
+### 6.3 Квадратные светофоры для транспортных средств или полосы движения (Semáforos cuadrados para vehículos, o de carril)
 
 
-Los semáforos de ocupación de carril afectan exclusivamente a los vehículos que circulen por el carril sobre el que están situados dichos semáforos y el significado de sus luces es el siguiente:
+Светофоры занятости полосы движения влияют исключительно на транспортные средства, движущиеся по полосе, над которой расположены эти светофоры, и значение их огней следующее:
 
 ![](https://www.todotest.com/tests/imgs/0356.jpg)
 
-- **Una luz roja en forma de aspa** indica la prohibición de ocupar el carril sobre el que se encuentra encendida a aquellos vehículos hacia los que esté dirigida la luz. Los conductores de los vehículos que circulen por un carril sobre el que se encienda una luz roja de este tipo deberán abandonarlo en el tiempo más breve posible.
-- **Una luz verde en forma de flecha apuntada hacia abajo** indica que está permitido circular por el carril sobre el que esté encendida. Esta autorización de utilizar el carril no exime de la obligación de detenerse ante una luz roja circular o, por excepción a lo dispuesto sobre el orden de preeminencia, de obedecer cualquier otra señal o marca vial que obligue a detenerse o a ceder el paso, o en su ausencia, del cumplimiento de las normas generales sobre prioridad de paso.
-- **Una luz blanca o amarilla en forma de flecha intermitente o fija**, no incorporada a una señal de orientación, colocada encima de un carril y apuntada hacia abajo en forma oblicua, indica a los usuarios la necesidad de irse incorporando en condiciones de seguridad al carril hacia el que apunta la flecha, toda vez que aquél por el que circula va a quedar cerrado en corto espacio.
+- **Красный свет в форме креста** указывает на запрет занимать полосу, над которой он горит, для тех транспортных средств, на которые направлен свет. Водители транспортных средств, движущихся по полосе, над которой загорается красный свет этого типа, должны покинуть ее в кратчайшее время.
+- **Зеленый свет в форме стрелки, направленной вниз** указывает, что разрешено движение по полосе, над которой он горит. Это разрешение на использование полосы не освобождает от обязанности остановиться перед круглым красным светом или, в порядке исключения из положений о порядке преимущества, от обязанности подчиняться любому другому знаку или разметке, обязывающим остановиться или уступить дорогу, или, при их отсутствии, от соблюдения общих правил о преимущественном праве проезда.
+- **Белый или желтый свет в форме мигающей или постоянной стрелки**, не включенный в знак направления, расположенный над полосой и направленный вниз по диагонали, указывает пользователям на необходимость безопасно перестраиваться на полосу, на которую указывает стрелка, поскольку полоса, по которой они движутся, будет закрыта на коротком расстоянии.
 
-### 6.4 Semáforos reservados a determinados vehículos
+### 6.4 Светофоры для определенных транспортных средств (Semáforos reservados a determinados vehículos)
 
-Cuando las luces de los semáforos presentan la silueta iluminada de un ciclo, sus indicaciones se refieren exclusivamente a ciclos y ciclomotores.
+Когда огни светофоров представляют собой освещенный силуэт велосипеда, их указания относятся исключительно к велосипедам и мопедам.
 
 ![](https://www.todotest.com/tests/imgs/man0263.jpg)
 
-Cuando excepcionalmente, el semáforo consista en una franja blanca iluminada sobre fondo circular negro sus indicaciones se refieren exclusivamente a los tranvías y a los autobuses de líneas regulares, a no ser que exista un carril reservado para autobuses o para autobuses, taxis y otros vehículos, en cuyo caso sólo se refieren a los que circulen por él. El significado de estos semáforos es el siguiente:
+Когда, в исключительных случаях, светофор состоит из белой освещенной полосы на черном круглом фоне, его указания относятся исключительно к трамваям и автобусам регулярных маршрутов, если только не существует полосы, зарезервированной для автобусов или для автобусов, такси и других транспортных средств, в этом случае они относятся только к тем, кто движется по ней. Значение этих светофоров следующее:
 
-- **Una franja blanca horizontal iluminada** prohíbe el paso en las mismas condiciones que la luz roja no intermitente.
+- **Горизонтальная белая освещенная полоса** запрещает проезд на тех же условиях, что и немигающий красный свет.
     ![](https://www.todotest.com/tests/imgs/0201_c.jpg)
 
-- **Una franja blanca vertical iluminada** permite el paso de frente.
+- **Вертикальная белая освещенная полоса** разрешает движение прямо.
     ![](https://www.todotest.com/tests/imgs/0201_b.jpg)
 
-- **Una franja blanca oblicua iluminada hacia la izquierda o hacia la derecha**, indica que está permitido el paso para girar a la izquierda o a la derecha, respectivamente.
+- **Наклонная белая освещенная полоса влево или вправо** указывает, что разрешен проезд для поворота налево или направо соответственно.
     ![](https://www.todotest.com/tests/imgs/0201_e.jpg)
 
-- **Una franja blanca, vertical u oblicua, iluminada intermitentemente**, indica que los citados vehículos deben detenerse en las mismas condiciones que si se tratara de una luz amarilla fija.
+- **Мигающая вертикальная или наклонная белая полоса** указывает, что указанные транспортные средства должны остановиться на тех же условиях, что и при постоянном желтом свете.
+
+## 7. Предупреждающие знаки опасности (Señales de advertencia de peligro)
+
+Предупреждающие знаки опасности предназначены для указания пользователям дороги на близость и характер опасности, которую трудно вовремя заметить, с тем чтобы они соблюдали правила поведения, которые в каждом случае являются уместными.
+
+Если предупреждающий знак опасности имеет дополнительную панель, указывающую длину, следует понимать, что она относится к длине участка дороги, затронутого опасностью, как, например, в случае последовательности опасных поворотов или участка дороги в плохом состоянии.
+
+Когда речь идет о световых сигналах, символы будут освещены белым цветом на темном неосвещенном фоне.
+
+
+**P-1**. **Перекресток с приоритетом**. Опасность из-за близости перекрестка с дорогой, пользователи которой должны уступить дорогу.
+
+![](https://www.todotest.com/tests/imgs/man_p1.jpg)
+
+**P-1a**. **Перекресток с приоритетом над дорогой справа**. Опасность из-за близости перекрестка с дорогой справа, пользователи которой должны уступить дорогу.
+
+![](https://www.todotest.com/tests/imgs/man_p1a.jpg)
+
+
+**P-1b**. **Перекресток с приоритетом над дорогой слева**. Опасность из-за близости перекрестка с дорогой слева, пользователи которой должны уступить дорогу.
+
+![](https://www.todotest.com/tests/imgs/man_p1b.jpg)
+
+**P-1c**. **Перекресток с приоритетом над въездом справа**. Опасность из-за близости въезда справа с дороги, пользователи которой должны уступить дорогу.
+![](https://www.todotest.com/tests/imgs/man_p1c.jpg)
+
+
+**P-1d**. **Перекресток с приоритетом над въездом слева**. Опасность из-за близости въезда слева с дороги, пользователи которой должны уступить дорогу.
+![](https://www.todotest.com/tests/imgs/man_p1d.jpg)
+
+
+**P-2**. **Перекресток с приоритетом справа**. Опасность из-за близости перекрестка, на котором действует общее правило приоритета проезда.
+
+![](https://www.todotest.com/tests/imgs/man_p2.jpg)
+
+**P-3**. **Светофоры**. Опасность из-за близости изолированного перекрестка или участка с движением, регулируемым светофорами.
+
+![](https://www.todotest.com/tests/imgs/man_p3.jpg)
+
+
+**P-4**. **Перекресток с круговым движением**. Опасность из-за близости перекрестка, где движение осуществляется по кругу в направлении стрелок.
+
+![](https://www.todotest.com/tests/imgs/man_p4.jpg)
+
+
+**P-5**. **Разводной мост**. Опасность из-за близости моста, который может быть поднят или повернут, временно прерывая движение.
+
+![](https://www.todotest.com/tests/imgs/man_p5.jpg)
+
+
+**P-6**. **Пересечение с трамвайными путями**. Опасность из-за близости пересечения с трамвайной линией, которая имеет приоритет проезда.
+
+![](https://www.todotest.com/tests/imgs/man_p6.jpg)
+
+
+**P-7**. **Железнодорожный переезд с шлагбаумами**. Опасность из-за близости железнодорожного переезда, оборудованного шлагбаумами или полушлагбаумами.
+
+![](https://www.todotest.com/tests/imgs/man_p7.jpg)
+
+
+**P-8**. **Железнодорожный переезд без шлагбаумов**. Опасность из-за близости железнодорожного переезда, не оборудованного шлагбаумами или полушлагбаумами.
+
+![](https://www.todotest.com/tests/imgs/man_p8.jpg)
+
+
+**P-9a**. **Близость железнодорожного переезда, разводного моста или пристани (правая сторона)**. Указывает, с правой стороны, на близость опасности, обозначенной железнодорожным переездом или разводным мостом.
+
+![](https://www.todotest.com/tests/imgs/man_p9a.jpg)
+
+
+**P-9b**. **Приближение к железнодорожному переезду, разводному мосту или пристани (правая сторона)**. Указывает, с правой стороны, на приближение к железнодорожному переезду или разводному мосту, который находится на расстоянии двух третей от расстояния между ним и соответствующим предупреждающим знаком опасности.
+
+![](https://www.todotest.com/tests/imgs/man_p9b.jpg)
+
+**P-9c**. **Близость железнодорожного переезда, разводного моста или пристани (правая сторона) (Cercanía de un paso a nivel, puente móvil o muelle (lado derecho))**. Указывает, с правой стороны, на близость железнодорожного переезда или разводного моста, который находится на расстоянии одной трети от расстояния между ним и соответствующим предупреждающим знаком опасности.![](https://www.todotest.com/tests/imgs/man_p9c.jpg)
+
+Дополнительные предупреждающие знаки опасности:
+
+**P-10a**. **Близость железнодорожного переезда, разводного моста или пристани (левая сторона) (Proximidad de un paso a nivel, puente móvil o muelle (lado izquierdo))**. Указывает, с левой стороны, на близость опасности, обозначенной железнодорожным переездом или разводным мостом.
+
+![](https://www.todotest.com/tests/imgs/man_p10a.jpg)
+
+**P-10b**. **Приближение к железнодорожному переезду, разводному мосту или пристани (левая сторона) (Aproximación a un paso a nivel, puente móvil o muelle (lado izquierdo))**. Указывает, с левой стороны, на приближение к железнодорожному переезду или разводному мосту, который находится на расстоянии двух третей от расстояния между ним и соответствующим предупреждающим знаком опасности.
+
+![](https://www.todotest.com/tests/imgs/man_p10b.jpg)
+
+**P-10c**. **Близость железнодорожного переезда, разводного моста или пристани (левая сторона) (Cercanía de un paso a nivel, puente móvil o muelle (lado izquierdo))**. Указывает, с левой стороны, на близость железнодорожного переезда или разводного моста, который находится на расстоянии одной трети от расстояния между ним и соответствующим предупреждающим знаком опасности.
+
+![](https://www.todotest.com/tests/imgs/man_p10c.jpg)
+
+**P-11**. **Расположение железнодорожного переезда без шлагбаумов (Situación de un paso a nivel sin barreras)**. Опасность из-за непосредственной близости железнодорожного переезда без шлагбаумов.
+
+![](https://www.todotest.com/tests/imgs/man_p11.jpg)
+
+**P-11a**. **Расположение железнодорожного переезда без шлагбаумов с несколькими железнодорожными путями (Situación de un paso a nivel sin barreras de más de una vía férrea)**. Опасность из-за непосредственной близости железнодорожного переезда без шлагбаумов с несколькими железнодорожными путями.
+
+![](https://www.todotest.com/tests/imgs/man_p11a.jpg)
+
+**P-12**. **Аэропорт (Aeropuerto)**. Опасность из-за близости места, где часто летают воздушные суда на низкой высоте над дорогой.
+
+![](https://www.todotest.com/tests/imgs/man_p12.jpg)
+
+**P-13a**. **Опасный поворот направо (Curva peligrosa hacia la derecha)**. Опасность из-за близости опасного поворота направо.
+
+![](https://www.todotest.com/tests/imgs/man_p13a.jpg)
+
+**P-13b**. **Опасный поворот налево (Curva peligrosa hacia la izquierda)**. Опасность из-за близости опасного поворота налево.
+
+![](https://www.todotest.com/tests/imgs/man_p13b.jpg)
+
+**P-14a**. **Опасные повороты направо (Curvas peligrosas hacia la derecha)**. Опасность из-за близости последовательности близко расположенных поворотов; первый - направо.
+
+![](https://www.todotest.com/tests/imgs/man_p14a.jpg)
+
+**P-14b**. **Опасные повороты налево (Curvas peligrosas hacia la izquierda)**. Опасность из-за близости последовательности близко расположенных поворотов; первый - налево.
+
+![](https://www.todotest.com/tests/imgs/man_p14b.jpg)
+
+**P-15**. **Неровный профиль (Perfil irregular)**. Опасность из-за близости выступа или впадины на дороге или плохого состояния дорожного покрытия.
+
+![](https://www.todotest.com/tests/imgs/man_p15.jpg)
+
+**P-15a**. **Выступ (Resalto)**. Опасность из-за близости выступа на дороге.
+
+![](https://www.todotest.com/tests/imgs/man_p15a.jpg)
+
+**P-15b**. **Впадина (Badén)**. Опасность из-за близости впадины на дороге.
+
+![](https://www.todotest.com/tests/imgs/man_p15b.jpg)
+
+**P-16a**. **Опасный спуск (Bajada peligrosa)**. Опасность из-за наличия участка дороги с крутым нисходящим уклоном. Цифра указывает уклон в процентах.
+
+![](https://www.todotest.com/tests/imgs/man_p16a.jpg)
+
+**P-16b**. **Крутой подъем (Subida con fuerte pendiente)**. Опасность из-за наличия участка дороги с крутым восходящим уклоном. Цифра указывает уклон в процентах.
+
+![](https://www.todotest.com/tests/imgs/man_p16b.jpg)
+
+**P-17**. **Сужение дороги (Estrechamiento de calzada)**. Опасность из-за возможности зоны дороги, где проезжая часть сужается.
+
+![](https://www.todotest.com/tests/imgs/man_p17.jpg)
+
+**P-17a**. **Сужение дороги справа (Estrechamiento de calzada por la derecha)**. Опасность из-за близости зоны дороги, где проезжая часть сужается с правой стороны.
+
+![](https://www.todotest.com/tests/imgs/man_p17a.jpg)
+
+**P-17b**. **Сужение дороги слева (Estrechamiento de calzada por la izquierda)**. Опасность из-за близости зоны дороги, где проезжая часть сужается с левой стороны.
+
+![](https://www.todotest.com/tests/imgs/man_p17b.jpg)
+
+**P-18**. **Дорожные работы (Obras)**. Опасность из-за близости участка дороги, где ведутся работы.
+
+![](https://www.todotest.com/tests/imgs/man_p18.jpg)
+
+**P-19**. **Скользкое покрытие (Pavimento deslizante)**. Опасность из-за близости участка дороги, где покрытие может быть очень скользким.
+
+![](https://www.todotest.com/tests/imgs/man_p19.jpg)
+
+Дополнительные предупреждающие знаки опасности:
+
+**P-20**. **Пешеходы (Peatones)**. Опасность из-за близости места, часто посещаемого пешеходами.
+
+![](https://www.todotest.com/tests/imgs/man_p20.jpg)
+
+**P-21**. **Дети (Niños)**. Опасность из-за близости места, часто посещаемого детьми, такого как школы, игровые площадки и т.д.
+
+![](https://www.todotest.com/tests/imgs/man_p21.jpg)
+
+**P-22**. **Велосипедисты (Ciclista)**. Опасность из-за близости велосипедного перехода или места, где велосипедисты часто выезжают на дорогу или пересекают ее.
+
+![](https://www.todotest.com/tests/imgs/man_p22.jpg)
+
+**P-23**. **Переход домашних животных (Paso de animales domésticos)**. Опасность из-за близости места, где дорогу часто пересекают домашние животные.
+
+![](https://www.todotest.com/tests/imgs/man_p23.jpg)
+
+**P-24**. **Переход диких животных (Paso de animales en libertad)**. Опасность из-за близости места, где дорогу часто пересекают дикие животные.
+
+![](https://www.todotest.com/tests/imgs/man_p24.jpg)
+
+**P-25**. **Движение в обоих направлениях (Circulación en los dos sentidos)**. Опасность из-за близости участка дороги, где движение временно или постоянно осуществляется в обоих направлениях.
+
+![](https://www.todotest.com/tests/imgs/man_p25.jpg)
+
+**P-26**. **Камнепад (Desprendimiento)**. Опасность из-за близости зоны с частыми обвалами и, как следствие, возможным наличием препятствий на дороге.
+
+![](https://www.todotest.com/tests/imgs/man_p26.jpg)
+
+**P-27**. **Набережная (Muelle)**. Опасность, связанная с тем, что дорога заканчивается у набережной или водного потока.
+
+![](https://www.todotest.com/tests/imgs/man_p27.jpg)
+
+**P-28**. **Разлет гравия (Proyección de gravilla)**. Опасность из-за близости участка дороги, где существует риск разлета гравия при проезде транспортных средств.
+
+![](https://www.todotest.com/tests/imgs/man_p28.jpg)
+
+**P-29**. **Боковой ветер (Viento transversal)**. Опасность из-за близости зоны, где часто дует сильный ветер в поперечном направлении.
+
+![](https://www.todotest.com/tests/imgs/man_p29.jpg)
+
+**P-30**. **Боковой уступ (Escalón lateral)**. Опасность из-за наличия перепада высот вдоль дороги на стороне, указанной символом.
+
+![](https://www.todotest.com/tests/imgs/man_p30.jpg)
+
+**P-31**. **Затор (Congestión)**. Опасность из-за близости участка, где движение остановлено или затруднено из-за затора.
+
+![](https://www.todotest.com/tests/imgs/man_p31.jpg)
+
+**P-32**. **Препятствие на дороге (Obstrucción en la calzada)**. Опасность из-за близости места, где транспортные средства создают препятствие на дороге из-за поломки, аварии или других причин.
+
+![](https://www.todotest.com/tests/imgs/man_p32.jpg)
+
+**P-33**. **Ограниченная видимость (Visibilidad reducida)**. Опасность из-за близости участка, где движение затруднено из-за значительного снижения видимости из-за тумана, дождя, снега, дыма и т.д.
+
+![](https://www.todotest.com/tests/imgs/man_p33.jpg)
+
+**P-34**. **Скользкое покрытие из-за льда или снега (Pavimento deslizante por hielo o nieve)**. Опасность из-за близости участка дороги, где покрытие может быть особенно скользким из-за льда или снега.
+
+![](https://www.todotest.com/tests/imgs/man_p34.jpg)
+
+**P-50**. **Другие опасности (Otros peligros)**. Указывает на близость опасности, отличной от предупреждаемых другими знаками.
+
+![](https://www.todotest.com/tests/imgs/man_p50.jpg)
+
+## 8. Регулирующие знаки (Señales de reglamentación)
+
+Регулирующие знаки предназначены для указания участникам дорожного движения обязанностей, ограничений или специальных запретов, которые они должны соблюдать. Регулирующие знаки подразделяются на:
+
+- [Знаки приоритета.](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=8&sp=8.1)
+- [Знаки запрета въезда.](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=9&sp=8.2)
+- [Знаки ограничения проезда.](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=10&sp=8.3)
+- [Другие знаки запрета или ограничения.](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=10&sp=8.4)
+- [Знаки обязательного действия.](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=11&sp=8.5)
+- [Знаки окончания запрета или ограничения.](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=12&sp=8.6)
+
+Регулирующие знаки, размещенные рядом или вертикально с знаком, указывающим название населенного пункта, означают, что регулирование применяется ко всему населенному пункту, за исключением случаев, когда в нем указано иное регулирование посредством других знаков на определенных участках дороги.
+
+Особые обязанности, ограничения или запреты, установленные регулирующими знаками, действуют с поперечного сечения, где размещены эти знаки, если только дополнительная панель, размещенная под ними, не указывает расстояние до сечения, где они начинают действовать.
+
+Когда регулирующие знаки являются световыми, символы появляются освещенными белым цветом на темном неосвещенном фоне.
+
+### 8.1 Знаки приоритета (Señales de prioridad)
+
+Знаки приоритета предназначены для информирования участников дорожного движения о специальных правилах приоритета на перекрестках или узких проездах.
+
+Хотя они не соответствуют условиям указания обязательства, ограничения или специального запрета, знаками приоритета также являются [P-1](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=5&sp=7), [P-1a](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=5&sp=7), [P-1b](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=5&sp=7), [P-1c](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=5&sp=7), [P-1d](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=5&sp=7), [P-2](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=5&sp=7), [P-6](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=5&sp=7), [P-7](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=5&sp=7) и [P-8](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=5&sp=7).
+
+
+**R-1**. **Уступи дорогу (Ceda el paso)**. Обязанность для каждого водителя уступить дорогу на следующем перекрестке транспортным средствам, движущимся по дороге, к которой он приближается. Временно этот знак может иметь внутри надпись <уступи дорогу>.
+
+![](https://www.todotest.com/tests/imgs/man_r1.jpg)
+
+**R-2**. **Обязательная остановка (Detención obligatoria)**. Обязанность для каждого водителя остановить свое транспортное средство перед следующей линией остановки или, если ее нет, непосредственно перед перекрестком, и уступить дорогу транспортным средствам, движущимся по дороге, к которой он приближается.
+
+![](https://www.todotest.com/tests/imgs/man_r2.jpg)
+
+**R-3**. **Дорога с приоритетом (Calzada con prioridad)**. Указывает водителям транспортных средств, движущихся по дороге, их приоритет на перекрестках над транспортными средствами, движущимися по другой дороге или выезжающими с нее.
+
+![](https://www.todotest.com/tests/imgs/man_r3.jpg)
+
+**R-4**. **Конец приоритета (Fin de prioridad)**. Указывает на близость места, где дорога, по которой движется транспортное средство, теряет свой приоритет по отношению к другой дороге.
+
+![](https://www.todotest.com/tests/imgs/man_r4.jpg)
+
+**R-5**. **Приоритет встречного движения (Prioridad en sentido contrario)**. Запрет въезда на узкий участок, если невозможно проехать его, не заставляя транспортные средства, движущиеся во встречном направлении, остановиться.
+
+![](https://www.todotest.com/tests/imgs/man_r5.jpg)
+
+**R-6**. **Приоритет перед встречным движением (Prioridad respecto al sentido contrario)**. Указывает водителям, что на следующем узком участке они имеют приоритет по отношению к транспортным средствам, движущимся во встречном направлении.
+
+![](https://www.todotest.com/tests/imgs/man_r6.jpg)
+
+### 8.2 Знаки запрета въезда (Señales de prohibición de entrada)
+
+Знаки запрета въезда запрещают доступ транспортным средствам или пользователям, которые встречают их лицом в направлении своего движения и с места, где они расположены.
+
+
+**R-100**. **Движение запрещено (Circulación prohibida)**. Запрет движения всех видов транспортных средств в обоих направлениях.
+
+![](https://www.todotest.com/tests/imgs/man_r100.jpg)
+
+**R-101**. **Въезд запрещен (Entrada prohibida)**. Запрет доступа для всех видов транспортных средств.
+
+![](https://www.todotest.com/tests/imgs/man_r101.jpg)
+
+**R-102**. **Въезд запрещен для механических транспортных средств (Entrada prohibida a vehículos de motor)**. Запрет доступа для механических транспортных средств.
+
+![](https://www.todotest.com/tests/imgs/man_r102.jpg)
+
+**R-103**. **Въезд запрещен для механических транспортных средств, кроме двухколесных мотоциклов без коляски (Entrada prohibida a vehículos de motor, excepto motociclos de dos ruedas sin sidecar)**. Запрет доступа для механических транспортных средств. Не запрещает доступ для двухколесных мотоциклов.
+
+![](https://www.todotest.com/tests/imgs/man_r103.jpg)
+
+**R-104**. **Въезд запрещен для мотоциклов (Entrada prohibida a motocicletas)**. Запрет доступа для мотоциклов.
+
+![](https://www.todotest.com/tests/imgs/man_r104.jpg)
+
+**R-105**. **Въезд запрещен для мопедов (Entrada prohibida a ciclomotores)**. Запрет доступа для двух- и трехколесных мопедов и легких квадрициклов. Также запрещает въезд транспортным средствам для лиц с ограниченной подвижностью.
+
+![](https://www.todotest.com/tests/imgs/man_r105.jpg)
+
+**R-106**. **Въезд запрещен для транспортных средств, предназначенных для перевозки грузов (Entrada prohibida a vehículos destinados al transporte de mercancías)**. Запрет доступа для транспортных средств, предназначенных для перевозки грузов, понимаемых как грузовики и фургоны, независимо от их массы.
+
+![](https://www.todotest.com/tests/imgs/man_r106.jpg)
+
+**R-107**. **Въезд запрещен для транспортных средств, предназначенных для перевозки грузов, с разрешенной максимальной массой больше указанной (Entrada prohibida a vehículos destinados al transporte de mercancías con mayor peso autorizado que el indicado)**. Запрет доступа для всех видов транспортных средств, предназначенных для перевозки грузов, если их максимальная разрешенная масса превышает указанную. Запрещает доступ даже если они движутся пустыми.
+
+![](https://www.todotest.com/tests/imgs/man_r107.jpg)
+
+**R-108**. **Въезд запрещен для транспортных средств, перевозящих опасные грузы (Entrada prohibida a vehículos que transporten mercancías peligrosas)**. Запрет проезда для всех видов транспортных средств, перевозящих опасные грузы и которые должны двигаться в соответствии со своими специальными правилами.
+
+![](https://www.todotest.com/tests/imgs/man_r108.jpg)
+
+**R-109**. **Въезд запрещен для транспортных средств, перевозящих взрывчатые или легковоспламеняющиеся вещества (Entrada prohibida a vehículos que transporten mercancías explosivas o inflamables)**. Запрет проезда для всех видов транспортных средств, перевозящих взрывчатые или легковоспламеняющиеся вещества и которые должны двигаться в соответствии со своими специальными правилами.
+
+![](https://www.todotest.com/tests/imgs/man_r109.jpg)
+
+**R-110**. **Въезд запрещен для транспортных средств, перевозящих вещества, загрязняющие воду (Entrada prohibida a vehículos que transporten productos contaminantes del agua)**. Запрет проезда для всех видов транспортных средств, перевозящих более тысячи литров веществ, способных загрязнить воду.
+
+![](https://www.todotest.com/tests/imgs/man_r110.jpg)
+
+**R-111**. **Въезд запрещен для сельскохозяйственных механических транспортных средств (Entrada prohibida a vehículos agrícolas de motor)**. Запрет доступа для тракторов и других самоходных сельскохозяйственных машин.
+
+![](https://www.todotest.com/tests/imgs/man_r111.jpg)
+
+**R-112**. **Въезд запрещен для механических транспортных средств с прицепом, кроме полуприцепа или одноосного прицепа (Entrada prohibida a vehículos de motor con remolque, que no sea un semirremolque o un remolque de un solo eje)**. Надпись с указанием тоннажа, будь то на силуэте прицепа или на дополнительной табличке, означает, что запрет проезда применяется только тогда, когда максимальная разрешенная масса прицепа превышает указанную цифру.
+
+![](https://www.todotest.com/tests/imgs/man_r112.jpg)
+
+**R-113**. **Въезд запрещен для гужевых транспортных средств (Entrada prohibida a vehículos de tracción animal)**. Запрет доступа для гужевых транспортных средств.
+
+![](https://www.todotest.com/tests/imgs/man_r113.jpg)
+
+**R-114**. **Въезд запрещен для велосипедов (Entrada prohibida a ciclos)**. Запрет доступа для велосипедов.
+
+![](https://www.todotest.com/tests/imgs/man_r114.jpg)
+
+**R-115**. **Въезд запрещен для ручных тележек (Entrada prohibida a carros de mano)**. Запрет доступа для ручных тележек.
+
+![](https://www.todotest.com/tests/imgs/man_r115.jpg)
+
+**R-116**. **Въезд запрещен для пешеходов (Entrada prohibida a peatones)**. Запрет доступа для пешеходов.
+
+![](https://www.todotest.com/tests/imgs/man_r116.jpg)
+
+**R-117**. **Въезд запрещен для верховых животных (Entrada prohibida a animales de montura)**. Запрет доступа для верховых животных.
+
+![](https://www.todotest.com/tests/imgs/man_r117.jpg)
+
+### 8.3 Знаки ограничения проезда (Señales de restricción de paso)
+
+Знаки ограничения проезда запрещают или ограничивают доступ транспортным средствам, которые встречают их лицом в направлении своего движения и с места, где они расположены.
+
+**R-200**. **Запрещено проезжать без остановки (Prohibición de pasar sin detenerse)**. Указывает место, где обязательна остановка из-за близости, согласно надписи, таможенного поста, полиции, пункта оплаты или другого, и что за ними могут быть установлены механические средства остановки.
+
+![](https://www.todotest.com/tests/imgs/man_r200.jpg)
+
+**R-201**. **Ограничение массы (Limitación de peso)**. Запрет проезда для транспортных средств, масса которых с грузом или общая масса превышает указанную в тоннах.
+
+![](https://www.todotest.com/tests/imgs/man_r201.jpg)
+
+**R-202**. **Ограничение нагрузки на ось (Limitación de peso por eje)**. Запрет проезда для транспортных средств, общая нагрузка на какую-либо ось которых превышает указанную в тоннах.
+
+![](https://www.todotest.com/tests/imgs/man_r202.jpg)
+
+**R-203**. **Ограничение длины (Limitación de longitud)**. Запрет проезда для транспортных средств или составов транспортных средств, максимальная длина которых, включая груз, превышает указанную.
+
+![](https://www.todotest.com/tests/imgs/man_r203.jpg)
+
+**R-204**. **Ограничение ширины (Limitación de anchura)**. Запрет проезда для транспортных средств, максимальная ширина которых, включая груз, превышает указанную.
+
+![](https://www.todotest.com/tests/imgs/man_r204.jpg)
+
+**R-205**. **Ограничение высоты (Limitación de altura)**. Запрет проезда для транспортных средств, максимальная высота которых, включая груз, превышает указанную.
+
+![](https://www.todotest.com/tests/imgs/man_r205.jpg)
+
+### 8.4 Другие знаки запрета или ограничения (Otras señales de prohibición o restricción)
+
+Запрещают или ограничивают тех, кто встречает их лицом с места, где они расположены, и в направлении их движения.
+
+**R-300**. **Минимальная дистанция (Separación mínima)**. Запрещает движение без соблюдения минимальной дистанции до впереди идущего транспортного средства, равной или большей, чем указано на знаке, за исключением случаев обгона.
+Если знак появляется без указания расстояния в метрах, он напоминает о необходимости соблюдать установленную безопасную дистанцию между транспортными средствами.
+
+![](https://www.todotest.com/tests/imgs/man_r300.jpg)
+
+**R-301**. **Максимальная скорость (Velocidad máxima)**. Запрещает движение со скоростью, превышающей указанную на знаке в километрах в час. Действует с места установки знака до следующего знака <конец ограничения скорости>, <конец запретов> или другого знака <максимальная скорость>, если только он не установлен на одной опоре со знаком, предупреждающим об опасности, или на одной панели с ним, в этом случае запрет заканчивается, когда заканчивается обозначенная опасность. Если знак установлен на дороге без приоритета, он перестает действовать при выезде на перекресток с дорогой, имеющей приоритет. Если ограничение, указанное на знаке, совпадает с максимальной скоростью, разрешенной для данного типа дороги, знак напоминает о запрете превышения этой скорости.
+
+![](https://www.todotest.com/tests/imgs/man_r301.jpg)
+
+**R-302**. **Поворот направо запрещен (Giro a la derecha prohibido)**. Запрещает поворот направо.
+
+![](https://www.todotest.com/tests/imgs/man_r302.jpg)
+
+**R-303**. **Поворот налево запрещен (Giro a la izquierda prohibido)**. Запрещает поворот налево. Также включает запрет на разворот.
+
+![](https://www.todotest.com/tests/imgs/man_r303.jpg)
+
+**R-304**. **Разворот запрещен (Prohibición de cambiar el sentido de la marcha)**. Разрешает поворот налево.
+
+![](https://www.todotest.com/tests/imgs/man_r304.jpg)
+
+**R-305**. **Обгон запрещен (Adelantamiento prohibido)**. В дополнение к общим принципам обгона, указывает на запрет всем транспортным средствам обгонять моторизованные транспортные средства, движущиеся по проезжей части, за исключением двухколесных мотоциклов и при условии, что не занимается полоса, предназначенная для встречного движения, начиная с места установки знака и до следующего знака "Конец запрета обгона" или "Конец запретов". Установленный в местах, где по правилам запрещен обгон, напоминает о запрете выполнения этого маневра.
+
+![](https://www.todotest.com/tests/imgs/man_r305.jpg)
+
+**R-306**. **Обгон грузовикам запрещен (Adelantamiento prohibido para camiones)**. Запрещает грузовикам с максимальной разрешенной массой более 3500 килограммов обгонять моторизованные транспортные средства, движущиеся по проезжей части, за исключением двухколесных мотоциклов и при условии, что не занимается полоса, предназначенная для встречного движения, начиная с места установки знака и до следующего знака "Конец запрета обгона для грузовиков" или "Конец запретов".
+
+![](https://www.todotest.com/tests/imgs/man_r306.jpg)
+
+**R-307**. **Остановка и стоянка запрещены (Parada y estacionamiento prohibido)**. Запрещает остановку и стоянку на стороне проезжей части, где установлен знак. Если не указано иное, запрет начинается от вертикали знака и заканчивается на ближайшем перекрестке.
+
+![](https://www.todotest.com/tests/imgs/man_r307.jpg)
+
+**R-308**. **Стоянка запрещена (Estacionamiento prohibido)**. Запрещает стоянку на стороне проезжей части, где установлен знак. Если не указано иное, запрет начинается от вертикали знака и заканчивается на ближайшем перекрестке. Не запрещает остановку.
+
+![](https://www.todotest.com/tests/imgs/man_r308.jpg)
+
+**R-308a**. **Стоянка запрещена в нечетные дни (Estacionamiento prohibido los días impares)**. Запрещает стоянку на стороне проезжей части, где установлен знак, в нечетные дни. Если не указано иное, запрет начинается от вертикали знака и заканчивается на ближайшем перекрестке. Не запрещает остановку.
+
+![](https://www.todotest.com/tests/imgs/man_r308a.jpg)
+
+**R-308b**. **Стоянка запрещена в четные дни (Estacionamiento prohibido los días pares)**. Запрещает стоянку на стороне проезжей части, где установлен знак, в четные дни. Если не указано иное, запрет начинается от вертикали знака и заканчивается на ближайшем перекрестке. Не запрещает остановку.
+
+![](https://www.todotest.com/tests/imgs/man_r308b.jpg)
+
+**R-308c**. **Стоянка запрещена в первую половину месяца (Estacionamiento prohibido la primera quincena)**. Запрещает стоянку на стороне проезжей части, где установлен знак, с девяти часов 1-го числа до девяти часов 16-го числа.
+Если не указано иное, запрет начинается от вертикали знака и заканчивается на ближайшем перекрестке. Не запрещает остановку.
+
+![](https://www.todotest.com/tests/imgs/man_r308c.jpg)
+
+**R-308d**. **Стоянка запрещена во вторую половину месяца (Estacionamiento prohibido la segunda quincena)**. Запрещает стоянку на стороне проезжей части, где установлен знак, с девяти часов 16-го числа до девяти часов 1-го числа. Если не указано иное, запрет начинается от вертикали знака и заканчивается на ближайшем перекрестке. Не запрещает остановку.
+
+![](https://www.todotest.com/tests/imgs/man_r308d.jpg)
+
+**R-308e**. **Стоянка запрещена перед въездом (Estacionamiento prohibido en vado)**. Запрещает стоянку перед въездом.
+
+![](https://www.todotest.com/tests/imgs/man_r308e.jpg)
+
+**R-309**. **Зона ограниченной стоянки (Zona de estacionamiento limitado)**. Зона стоянки с ограниченной продолжительностью и обязанностью водителя указать установленным способом время начала стоянки.
+
+![](https://www.todotest.com/tests/imgs/man_r309.jpg)
+
+**R-310**. **Звуковые сигналы запрещены (Advertencias acústicas prohibidas)**. Напоминает об общем запрете подачи звуковых сигналов, за исключением случаев предотвращения аварии.
+
+![](https://www.todotest.com/tests/imgs/man_r310.jpg)
+
+### 8.5 Знаки обязательного предписания (Señales de obligación)
+
+Это знаки, указывающие на обязательное правило движения.
+
+**Обязательное направление движения (Sentido obligatorio)**. Стрелка указывает направление и сторону, в которую транспортные средства обязаны следовать.
+
+**R-400a**
+
+![](https://www.todotest.com/tests/imgs/man_r400a.jpg)
+
+**R-400b**
+
+![](https://www.todotest.com/tests/imgs/man_r400b.jpg)
+
+**R-400c**
+
+![](https://www.todotest.com/tests/imgs/man_r400c.jpg)
+
+**R-400d**
+
+![](https://www.todotest.com/tests/imgs/man_r400d.jpg)
+
+**R-400e**
+
+![](https://www.todotest.com/tests/imgs/man_r400e.jpg)
+
+**Обязательный проезд (Paso obligatorio)**. Стрелка указывает сторону островка безопасности, островка или препятствия, с которой транспортные средства должны обязательно проехать.
+
+**R-401a**
+
+![](https://www.todotest.com/tests/imgs/man_r401a.jpg)
+
+**R-401b**
+
+![](https://www.todotest.com/tests/imgs/man_r401b.jpg)
+
+**R-401c**
+
+![](https://www.todotest.com/tests/imgs/man_r401c.jpg)
+
+**R-402**. **Обязательное круговое движение на перекрестке (Intersección de sentido giratorio-obligatorio)**. Стрелки указывают направление и сторону кругового движения, которому должны следовать транспортные средства.
+
+![](https://www.todotest.com/tests/imgs/man_r402.jpg)
+
+**Единственные разрешенные направления (Únicas direcciones permitidas)**. Стрелки указывают единственные направления и стороны, в которые могут двигаться транспортные средства.
+
+**R-403a**
+
+![](https://www.todotest.com/tests/imgs/man_r403a.jpg)
+
+**R-403b**
+
+![](https://www.todotest.com/tests/imgs/man_r403b.jpg)
+
+**R-403c**
+
+![](https://www.todotest.com/tests/imgs/man_r403c.jpg)
+
+**R-404**. **Проезжая часть для автомобилей, кроме двухколесных мотоциклов без коляски (Calzada para automóviles, excepto motocicletas de dos ruedas sin sidecar)**. Обязывает водителей автомобилей, кроме двухколесных мотоциклов без коляски, двигаться по проезжей части, у въезда на которую установлен знак.
+
+![](https://www.todotest.com/tests/imgs/man_r404.jpg)
+
+**R-405**. **Проезжая часть для двухколесных мотоциклов без коляски (Calzada para motocicletas de dos ruedas sin sidecar)**. Обязывает водителей двухколесных мотоциклов без коляски двигаться по проезжей части, у въезда на которую установлен знак.
+
+![](https://www.todotest.com/tests/imgs/man_r405.jpg)
+
+**R-406**. **Проезжая часть для грузовиков (Calzada para camiones)**. Обязывает водителей всех типов грузовиков, независимо от их веса, двигаться по проезжей части, у въезда на которую установлен знак. Надпись с указанием тоннажа, будь то на силуэте транспортного средства или на дополнительной табличке, означает, что обязательство применяется только тогда, когда максимальная разрешенная масса транспортного средства или состава транспортных средств превышает указанную цифру.
+
+![](https://www.todotest.com/tests/imgs/man_r406.jpg)
+
+**R-407a**. **Дорога, зарезервированная для велосипедов или велосипедная дорожка (Vía reservada para ciclos o vía ciclista)**. Обязывает водителей велосипедов двигаться по дороге, у въезда на которую установлен знак, и запрещает другим участникам дорожного движения использовать ее.
+
+![](https://www.todotest.com/tests/imgs/man_r407a.jpg)
+
+### 8.6 Знаки окончания запрета или ограничения (Señales de fin de prohibición o restricción)
+
+Предназначены для указания места, с которого прекращается запрет или ограничение, обозначенное знаком.
+
+**R-500**. **Конец запретов (Fin de prohibiciones)**. Указывает место, с которого все конкретные запреты, обозначенные предыдущими запрещающими знаками для движущихся транспортных средств, перестают действовать.
+
+![](https://www.todotest.com/tests/imgs/man_r500.jpg)
+
+**R-501**. **Конец ограничения скорости (Fin de la limitación de velocidad)**. Указывает место, с которого перестает действовать предыдущий знак <максимальная скорость>.
+
+![](https://www.todotest.com/tests/imgs/man_r501.jpg)
+
+**R-502**. **Конец запрета обгона (Fin de la prohibición de adelantamiento)**. Указывает место, с которого перестает действовать предыдущий знак <обгон запрещен>.
+
+![](https://www.todotest.com/tests/imgs/man_r502.jpg)
+
+**R-503**. **Конец запрета обгона для грузовиков (Fin de la prohibición de adelantamiento para camiones)**. Указывает место, с которого перестает действовать предыдущий знак <обгон запрещен для грузовиков>.
+
+![](https://www.todotest.com/tests/imgs/man_r503.jpg)
+
+**R-504**. **Конец зоны ограниченной стоянки (Fin de zona de estacionamiento limitado)**. Указывает место, с которого перестает действовать предыдущий знак <зона ограниченной стоянки>.
+
+![](https://www.todotest.com/tests/imgs/man_r504.jpg)
+
+**R-505**. **Конец дороги, зарезервированной для велосипедов (Fin de vía reservada para ciclos)**. Указывает место, с которого перестает действовать предыдущий знак дороги, зарезервированной для велосипедов.
+
+![](https://www.todotest.com/tests/imgs/man_r505.jpg)
+
+**R-506**. **Конец минимальной скорости (Fin de velocidad mínima)**. Указывает место, с которого перестает быть обязательным предыдущий знак <минимальная скорость>.
+
+![](https://www.todotest.com/tests/imgs/man_r506.jpg)
+
+## 9. Информационные знаки (Señales de indicación)
+
+Информационные знаки предназначены для предоставления участникам дорожного движения определенной информации, которая может быть им полезна. Они подразделяются на:
+
+- [Знаки общей информации.](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=13&sp=9.1)
+- [Знаки полос движения.](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=16&sp=9.2)
+- [Знаки сервиса.](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=17&sp=9.3)
+- [Указатели направления.](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=19&sp=9.4)
+- [Дополнительные таблички.](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=25&sp=9.5)
+- [Другие знаки.](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=26&sp=9.6)
+
+Дополнительные таблички, размещенные под информационным знаком, могут указывать расстояние между этим знаком и обозначенным местом. Указание этого расстояния может также находиться в нижней части самого знака.
+
+### 9.1 Знаки общей информации (Señales de indicaciones generales)
+
+**S-1**. **Автомагистраль (Autopista)**. Указывает начало автомагистрали и, следовательно, место, с которого применяются специальные правила движения на этом типе дороги. Символ этого знака может предупреждать о приближении к автомагистрали или указывать ответвление перекрестка, ведущее к автомагистрали.
+
+![](https://www.todotest.com/tests/imgs/man_s1.jpg)
+
+**S-1a**. **Автодорога (Autovía)**. Указывает начало автодороги и, следовательно, место, с которого применяются специальные правила движения на этом типе дороги. Символ этого знака может предупреждать о приближении к автодороге или указывать ответвление перекрестка, ведущее к автодороге.
+
+![](https://www.todotest.com/tests/imgs/man_s1a.jpg)
+
+**S-2**. **Конец автомагистрали (Fin de autopista)**. Указывает конец автомагистрали.
+
+![](https://www.todotest.com/tests/imgs/man_s2.jpg)
+
+**S-2a**. **Конец автодороги (Fin de autovía)**. Указывает конец автодороги.
+
+![](https://www.todotest.com/tests/imgs/man_s2a.jpg)
+
+**S-3**. **Дорога, зарезервированная для автомобилей (Vía reservada para automóviles)**. Указывает начало дороги, зарезервированной для движения автомобилей.
+
+![](https://www.todotest.com/tests/imgs/man_s3.jpg)
+
+**S-4**. **Конец дороги, зарезервированной для автомобилей (Fin de vía reservada para automóviles)**. Указывает конец дороги, зарезервированной для автомобилей.
+
+![](https://www.todotest.com/tests/imgs/man_s4.jpg)
+
+**S-5**. **Тоннель (Túnel)**. Указывает начало и, возможно, название тоннеля, подземного перехода или участка дороги, приравненного к тоннелю. В нижней части может содержать указание длины тоннеля в метрах.
+
+![](https://www.todotest.com/tests/imgs/man_s5.jpg)
+
+**S-6**. **Конец тоннеля (Fin de túnel)**. Указывает конец тоннеля, подземного перехода или участка дороги, приравненного к тоннелю.
+
+![](https://www.todotest.com/tests/imgs/man_s6.jpg)
+
+**S-7**. **Рекомендуемая максимальная скорость (Velocidad máxima aconsejable)**. Рекомендует приблизительную скорость движения в километрах в час, которую не рекомендуется превышать, даже если метеорологические и дорожные условия, а также условия движения благоприятны. Когда знак установлен под знаком, предупреждающим об опасности, рекомендация относится к участку, на котором существует эта опасность.
+
+![](https://www.todotest.com/tests/imgs/man_s7.jpg)
+
+**S-8**. **Конец рекомендуемой максимальной скорости (Fin de velocidad máxima aconsejada)**. Указывает конец участка, на котором рекомендуется двигаться со скоростью в километрах в час, указанной на знаке.
+
+![](https://www.todotest.com/tests/imgs/man_s8.jpg)
+
+**S-9**. **Рекомендуемый диапазон скоростей (Intervalo aconsejado de velocidades)**. Рекомендует поддерживать скорость между указанными значениями, при условии, что метеорологические и дорожные условия, а также условия движения благоприятны. Когда знак установлен под знаком, предупреждающим об опасности, рекомендация относится к участку, на котором существует эта опасность.
+
+![](https://www.todotest.com/tests/imgs/man_s9.jpg)
+
+**S-10**. **Конец рекомендуемого диапазона скоростей (Fin de intervalo aconsejado de velocidades)**. Указывает место, с которого перестает действовать предыдущий знак <рекомендуемый диапазон скоростей>.
+
+![](https://www.todotest.com/tests/imgs/man_s10.jpg)
+
+Другие знаки общей информации:
+
+**S-11**. **Проезжая часть с односторонним движением (Calzada de sentido único)**. Указывает, что на проезжей части, которая продолжается в направлении стрелки, транспортные средства должны двигаться в указанном направлении, движение в противоположном направлении запрещено.
+
+![](https://www.todotest.com/tests/imgs/man_s11.jpg)
+
+**S-11a**. **Проезжая часть с односторонним движением (Calzada de sentido único)**. Указывает, что на проезжей части, которая продолжается в направлении стрелок (две полосы), транспортные средства должны двигаться в указанном направлении, движение в противоположном направлении запрещено.
+
+![](https://www.todotest.com/tests/imgs/man_s11a.jpg)
+
+**S-11b**. **Проезжая часть с односторонним движением (Calzada de sentido único)**. Указывает, что на проезжей части, которая продолжается в направлении стрелок (три полосы), транспортные средства должны двигаться в указанном направлении, движение в противоположном направлении запрещено.
+
+![](https://www.todotest.com/tests/imgs/man_s11b.jpg)
+
+**S-12**. **Участок проезжей части с односторонним движением (Tramo de calzada de sentido único)**. Указывает, что на участке проезжей части, который продолжается в направлении стрелки, транспортные средства должны двигаться в указанном направлении, движение в противоположном направлении запрещено.
+
+![](https://www.todotest.com/tests/imgs/man_s12.jpg)
+
+**S-13**. **Расположение пешеходного перехода (Situación de un paso para peatones)**. Указывает расположение пешеходного перехода.
+
+![](https://www.todotest.com/tests/imgs/man_s13.jpg)
+
+**S-14a**. **Надземный пешеходный переход (Paso superior para peatones)**. Указывает расположение надземного пешеходного перехода.
+
+![](https://www.todotest.com/tests/imgs/man_s14a.jpg)
+
+**S-14b**. **Подземный пешеходный переход (Paso inferior para peatones)**. Указывает расположение подземного пешеходного перехода.
+
+![](https://www.todotest.com/tests/imgs/man_s14b.jpg)
+
+Предварительное обозначение тупика. Указывает, что с проезжей части, обозначенной на знаке красным прямоугольником, транспортные средства могут выехать только через место въезда.
+
+**S-15a**
+
+![](https://www.todotest.com/tests/imgs/man_s15a.jpg)
+
+**S-15b**
+
+![](https://www.todotest.com/tests/imgs/man_s15b.jpg)
+
+**S-15c**
+
+![](https://www.todotest.com/tests/imgs/man_s15c.jpg)
+
+**S-15d**
+
+![](https://www.todotest.com/tests/imgs/man_s15d.jpg)
+
+**S-16**. **Зона аварийного торможения (Zona de frenado de emergencia)**. Указывает расположение зоны съезда с проезжей части, оборудованной для остановки транспортного средства в случае отказа тормозной системы.
+
+![](https://www.todotest.com/tests/imgs/man_s16.jpg)
+
+**S-17**. **Стоянка (Estacionamiento)**. Указывает место, где разрешена стоянка транспортных средств. Надпись или символ, представляющий определенные классы транспортных средств, указывает, что стоянка зарезервирована для этих классов. Надпись с указанием времени ограничивает продолжительность обозначенной стоянки.
+
+![](https://www.todotest.com/tests/imgs/man_s17.jpg)
+
+**S-18**. **Место, зарезервированное для такси (Lugar reservado para taxis)**. Указывает место, зарезервированное для остановки и стоянки свободных такси и такси на службе. Надпись с числом указывает общее количество мест, зарезервированных для этой цели.
+
+![](https://www.todotest.com/tests/imgs/man_s18.jpg)
+
+**S-19**. **Остановка автобусов (Parada de autobuses)**. Указывает место, зарезервированное для остановки автобусов.
+
+![](https://www.todotest.com/tests/imgs/man_s19.jpg)
+
+**S-20**. **Остановка трамваев (Parada de tranvías)**. Указывает место, зарезервированное для остановки трамваев.
+
+![](https://www.todotest.com/tests/imgs/man_s20.jpg)
+
+**S-21**. **Проходимость на участке или горном перевале (Transitabilidad en tramo o puerto de montaña)**. Указывает состояние проходимости перевала или участка, определенного в верхней части знака.
+Панель 1 будет содержать одно из двух указаний: <открыто>, <закрыто>.
+Панель 2 может быть пустой, в этом случае она не указывает никаких предписаний; или может ограничивать движение и скорость или указывать, что использование цепей противоскольжения обязательно.
+Когда панель 1 указывает <закрыто>, панель 3 может указывать место, до которого дорога проходима, в условиях, указанных на панели 2.
+
+![](https://www.todotest.com/tests/imgs/man_s21.jpg)
+
+**S-21.1 a, b, c, d, e**. **Проходимость на участке или горном перевале (Transitabilidad en tramo o puerto de montaña)**. Панель 1 может быть белой с надписью "ОТКРЫТО", в этом случае она указывает, что все транспортные средства могут двигаться без ограничений; зеленой, что указывает на проходимость перевала, хотя существует запрет на обгон для грузовиков с максимальной разрешенной массой более 3500 килограммов; желтой, что указывает на проходимость перевала, за исключением грузовиков с максимальной разрешенной массой более 3500 килограммов и сочлененных транспортных средств, а легковые автомобили и автобусы должны двигаться с максимальной скоростью 60 км/ч; красной, что указывает на обязательное использование цепей противоскольжения или специальных шин с максимальной скоростью 30 км/ч и запрет на движение сочлененных транспортных средств, грузовиков и автобусов; и черной с надписью "ЗАКРЫТО", что указывает на непроходимость дороги для любого типа транспортных средств.
+
+![](https://www.todotest.com/tests/imgs/man_s21-1.jpg)
+
+**S-21.2 a, b, c, d**. **Проходимость на участке или горном перевале (Transitabilidad en tramo o puerto de montaña)**. Панель 2 будет белого цвета и может содержать следующие надписи: знак R-306, когда панель 1 зеленого цвета; знаки [R-106](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=9&sp=8.2) и [R-301](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=10&sp=8.4) с ограничением до 60 км/ч, когда панель 1 желтого цвета, и знак [R-107](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=9&sp=8.2) с надписью 3,5 тонны и [R-412](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=12&sp=8.5), когда панель 1 красного цвета.
+
+![](https://www.todotest.com/tests/imgs/man_s21-2.jpg)
+
+**S-21.3 a, b**. **Проходимость на участке или горном перевале (Transitabilidad en tramo o puerto de montaña)**. Панель 3 может содержать надпись с указанием места, с которого применяются указания панелей 1 и 2.
+
+![](https://www.todotest.com/tests/imgs/man_s21-3.jpg)
+
+Другие знаки общих указаний:
+
+**S-22**. **Разворот (Cambio de sentido)**. Указывает на близость места, где можно совершить разворот на том же уровне.
+
+![](https://www.todotest.com/tests/imgs/man_s22.jpg)
+
+**S-23**. **Больница (Hospital)**. Также указывает водителям транспортных средств на необходимость принять меры предосторожности, требуемые вблизи медицинских учреждений, особенно избегать создания шума.
+
+![](https://www.todotest.com/tests/imgs/man_s23.jpg)
+
+**S-24**. **Конец обязательного ближнего света (Fin de Obligación de alumbrado de corto alcance (cruce))**. Указывает конец участка, где обязательно использование ближнего света, и напоминает о возможности отказаться от него, если это не требуется условиями видимости, времени суток или освещения дороги.
+
+![](https://www.todotest.com/tests/imgs/man_s24.jpg)
+
+**S-25**. **Разворот на разных уровнях (Cambio de sentido a distinto nivel)**. Указывает на близость выезда, через который можно совершить разворот на другом уровне.
+
+![](https://www.todotest.com/tests/imgs/man_s25.jpg)
+
+**S-26a**. **Панель приближения к выезду (100 метров) (Panel de aproximación a salida (100 metros))**. Указывает на автомагистрали или автостраде, что следующий выезд находится примерно в 100 метрах. Если выезд находится слева, диагональ будет нисходящей слева направо, и знак будет расположен слева от проезжей части.
+
+![](https://www.todotest.com/tests/imgs/man_s26a.jpg)
+
+**S-26b**. **Панель приближения к выезду (200 метров) (Panel de aproximación a salida (200 metros))**. Указывает на автомагистрали или автостраде, что следующий выезд находится примерно в 200 метрах. Если выезд находится слева, диагональ будет нисходящей слева направо, и знак будет расположен слева от проезжей части.
+
+![](https://www.todotest.com/tests/imgs/man_s26b.jpg)
+
+**S-26c**. **Панель приближения к выезду (300 метров) (Panel de aproximación a salida (300 metros))**. Указывает на автомагистрали или автостраде, что следующий выезд находится примерно в 300 метрах. Если выезд находится слева, диагональ будет нисходящей слева направо, и знак будет расположен слева от проезжей части.
+
+![](https://www.todotest.com/tests/imgs/man_s26c.jpg)
+
+**S-27**. **Помощь на дороге (Auxilio en carretera)**. Указывает расположение столба или поста, с которого можно запросить помощь в случае аварии или поломки.
+
+![](https://www.todotest.com/tests/imgs/man_s27.jpg)
+
+**S-28**. **Жилая улица (Calle residencial)**. Указывает на зоны движения, специально оборудованные и предназначенные в первую очередь для пешеходов, где применяются следующие специальные правила движения: максимальная скорость транспортных средств установлена на уровне 20 километров в час; водители должны уступать дорогу пешеходам. Транспортные средства могут парковаться только в местах, обозначенных знаками или разметкой. Пешеходы могут использовать всю зону движения. Игры и спорт разрешены в этой зоне. Пешеходы не должны без необходимости мешать водителям транспортных средств.
+
+![](https://www.todotest.com/tests/imgs/man_s28.jpg)
+
+**S-29**. **Конец жилой улицы (Fin de calle residencial)**. Указывает, что снова применяются общие правила дорожного движения.
+
+![](https://www.todotest.com/tests/imgs/man_s29.jpg)
+
+**S-30**. **Зона 30 (Zona a 30)**. Указывает на специально оборудованную зону движения, которая предназначена в первую очередь для пешеходов. Максимальная скорость транспортных средств установлена на уровне 30 километров в час. Пешеходы имеют приоритет.
+
+![](https://www.todotest.com/tests/imgs/man_s30.jpg)
+
+**S-31**. **Конец зоны 30 (Fin de zona a 30)**. Указывает, что снова применяются общие правила дорожного движения.
+
+![](https://www.todotest.com/tests/imgs/man_s31.jpg)
+
+**S-32**. **Телеоплата (Telepeaje)**. Указывает, что транспортное средство, движущееся по полосе или полосам, обозначенным таким образом, может осуществлять оплату пошлины с помощью системы динамической оплаты или телеоплаты, при условии, что оно оснащено техническими средствами, позволяющими использовать эту систему.
+
+![](https://www.todotest.com/tests/imgs/man_s32.jpg)
+
+**S-33**. **Велосипедная дорожка (Senda ciclable)**. Указывает на наличие дороги для пешеходов и велосипедистов, отделенной от моторизованного движения, которая проходит через открытые пространства, парки, сады или леса.
+
+![](https://www.todotest.com/tests/imgs/man_s33.jpg)
+
+**S-34**. **Площадка для остановки в туннелях (Apartadero en túneles)**. Указывает расположение места, где можно остановить транспортное средство в туннеле, чтобы освободить проезд.
+
+![](https://www.todotest.com/tests/imgs/man_s34.jpg)
+
+**S-34a**. **Площадка для остановки в туннелях (Apartadero en túneles)**. Указывает расположение места, где можно остановить транспортное средство в туннеле, чтобы освободить проезд, и где имеется телефон экстренной связи.
+
+![](https://www.todotest.com/tests/imgs/man_s34a.jpg)
+
+### 9.2 Знаки полос движения (Señales de carriles)
+
+Указывают на особые правила для одной или нескольких полос проезжей части.
+
+**S-50a**. **Обязательные полосы для медленного движения и зарезервированные для быстрого движения (Carriles, obligatorios para tráfico lento y reservados para tráfico rápido)**. Указывает, что полоса, над которой установлен знак минимальной скорости, может использоваться только транспортными средствами, движущимися со скоростью, равной или превышающей указанную, хотя если обстоятельства позволяют, они должны двигаться по правой полосе.
+
+![](https://www.todotest.com/tests/imgs/man_s50a.jpg)
+
+**S-50b**
+
+![](https://www.todotest.com/tests/imgs/man_s50b.jpg)
+
+**S-50c**
+
+![](https://www.todotest.com/tests/imgs/man_s50c.jpg)
+
+**S-50d**
+
+![](https://www.todotest.com/tests/imgs/man_s50d.jpg)
+
+**S-50e**
+
+![](https://www.todotest.com/tests/imgs/man_s50e.jpg)
+
+**S-51**. **Полоса, зарезервированная для автобусов (Carril reservado para autobuses)**. Указывает на запрет водителям транспортных средств, не являющихся общественным транспортом, двигаться по указанной полосе. Надпись <taxi> также разрешает такси использовать эту полосу. На участках, где белая продольная разметка на внешней стороне этой полосы представлена прерывистой линией, разрешается общее использование исключительно для выполнения каких-либо маневров, кроме остановки, стоянки, изменения направления движения или обгона, всегда уступая дорогу автобусам и, в соответствующих случаях, такси.
+
+![](https://www.todotest.com/tests/imgs/man_s51.jpg)
+
+**S-52**. **Конец полосы, предназначенной для движения (Final de carril destinado a la circulación)**. Предварительно указывает на полосу, которая перестанет быть доступной для использования, указывая на необходимость смены полосы.
+
+![](https://www.todotest.com/tests/imgs/man_s52.jpg)
+
+**S-52a**
+
+![](https://www.todotest.com/tests/imgs/man_s52a.jpg)
+
+**S-52b**
+
+![](https://www.todotest.com/tests/imgs/man_s52b.jpg)
+
+**S-53**. **Переход от одной к двум полосам движения (Paso de uno a dos carriles de circulación)**. Указывает на участке с одной полосой в одном направлении движения, что на следующем участке будет две полосы в том же направлении движения.
+
+![](https://www.todotest.com/tests/imgs/man_s53.jpg)
+
+**S-53a**. **Переход от одной к двум полосам движения с указанием максимальной скорости на каждой из них (Paso de uno a dos carriles de circulación con especificación de la velocidad máxima en cada uno de ellos)**. Указывает на участке с одной полосой движения в одном направлении, что на следующем участке будет две полосы в том же направлении движения. Также указывает максимальную разрешенную скорость на каждой из них.
+
+![](https://www.todotest.com/tests/imgs/man_s53a.jpg)
+
+**S-53b**. **Переход от двух к трем полосам движения (Paso de dos a tres carriles de circulación)**. Указывает на участке с двумя полосами в одном направлении движения, что на следующем участке будет три полосы в том же направлении движения.
+
+![](https://www.todotest.com/tests/imgs/man_s53b.jpg)
+
+**S-53c**. **Переход от двух к трем полосам движения с указанием максимальной скорости на каждой из них (Paso de dos a tres carriles de circulación con especificación de la velocidad máxima en cada uno de ellos)**. Указывает на участке с двумя полосами в одном направлении движения, что на следующем участке будет три полосы в том же направлении движения. Также указывает максимальную разрешенную скорость на каждой из них.
+
+![](https://www.todotest.com/tests/imgs/man_s53c.jpg)
+
+**S-60a**. **Разветвление влево на проезжей части с двумя полосами (Bifurcación hacia la izquierda en calzada de dos carriles)**. Указывает на проезжей части с двумя полосами движения в одном направлении, что на следующем участке будет разветвление с изменением направления на левой полосе.
+
+![](https://www.todotest.com/tests/imgs/man_s60a.jpg)
+
+**S-60b**. **Разветвление вправо на проезжей части с двумя полосами (Bifurcación hacia la derecha en calzada de dos carriles)**. Указывает на проезжей части с двумя полосами движения в одном направлении, что на следующем участке будет разветвление с изменением направления на правой полосе.
+
+![](https://www.todotest.com/tests/imgs/man_s60b.jpg)
+
+**S-61a**. **Разветвление влево на проезжей части с тремя полосами (Bifurcación hacia la izquierda en calzada de tres carriles)**. Указывает на проезжей части с тремя полосами движения в одном направлении, что на следующем участке левая полоса будет разветвляться в ту же сторону.
+
+![](https://www.todotest.com/tests/imgs/man_s61a.jpg)
+
+**S-61b**. **Разветвление вправо на проезжей части с тремя полосами (Bifurcación hacia la derecha en calzada de tres carriles)**. Указывает на проезжей части с тремя полосами движения в одном направлении, что на следующем участке правая полоса будет разветвляться в ту же сторону.
+
+![](https://www.todotest.com/tests/imgs/man_s61b.jpg)
+
+**S-62a**. **Разветвление влево на проезжей части с четырьмя полосами (Bifurcación hacia la izquierda en calzada de cuatro carriles)**. Указывает на проезжей части с четырьмя полосами движения в одном направлении, что на следующем участке левая полоса будет разветвляться в ту же сторону.
+
+![](https://www.todotest.com/tests/imgs/man_s62a.jpg)
+
+**S-62b**. **Разветвление вправо на проезжей части с четырьмя полосами (Bifurcación hacia la derecha en calzada de cuatro carriles)**. Указывает на проезжей части с четырьмя полосами движения в одном направлении, что на следующем участке правая полоса будет разветвляться в ту же сторону.
+
+![](https://www.todotest.com/tests/imgs/man_s62b.jpg)
+
+**S-63**. **Разветвление на проезжей части с четырьмя полосами (Bifurcación en calzada de cuatro carriles)**. Указывает на проезжей части с четырьмя полосами движения в одном направлении, что на следующем участке две левые полосы будут разветвляться влево, а две правые - вправо.
+
+![](https://www.todotest.com/tests/imgs/man_s63.jpg)
+
+**S-64**. **Велосипедная полоса или велосипедная дорожка, примыкающая к проезжей части (Carril bici o vía ciclista adosada a la calzada)**. Указывает, что полоса, над которой установлен знак велосипедной дорожки, может использоваться только велосипедами. Стрелки указывают количество полос проезжей части, а также направление движения по ним.
+
+![](https://www.todotest.com/tests/imgs/man_s64.jpg)
+
+**S-64a**
+
+![](https://www.todotest.com/tests/imgs/man_s64a.jpg)
+
+### 9.3 Знаки сервиса (Señales de servicio)
+
+Информируют о сервисе, который может быть полезен для пользователей дороги.
+
+**S-100**. **Пункт первой помощи (Puesto de socorro)**. Указывает расположение центра, официально признанного, где может быть оказана неотложная помощь.
+
+![](https://www.todotest.com/tests/imgs/man_s100.jpg)
+
+**S-101**. **База скорой помощи (Base de ambulancia)**. Указывает расположение машины скорой помощи, находящейся на постоянном дежурстве для оказания помощи и транспортировки раненых при дорожно-транспортных происшествиях.
+
+![](https://www.todotest.com/tests/imgs/man_s101.jpg)
+
+**S-102**. **Служба технического осмотра транспортных средств (Servicio de inspección técnica de vehículos)**. Указывает расположение станции технического осмотра транспортных средств (ITV).
+
+![](https://www.todotest.com/tests/imgs/man_s102.jpg)
+
+**S-103**. **Ремонтная мастерская (Taller de reparación)**. Указывает расположение автомобильной ремонтной мастерской.
+
+![](https://www.todotest.com/tests/imgs/man_s103.jpg)
+
+**S-104b**. **Телефон экстренной связи (Teléfono de socorro)**. Указывает расположение телефона постоянного использования для оповещения властей о наличии аварии или чрезвычайной ситуации на дороге.
+
+![](https://www.todotest.com/tests/imgs/man_s104b.jpg)
+
+**S-105**. **Заправочная станция (Surtidor de carburante)**. Указывает расположение заправочной колонки или станции обслуживания с топливом.
+
+![](https://www.todotest.com/tests/imgs/man_s105.jpg)
+
+**S-106**. **Ремонтная мастерская и заправочная станция (Taller de reparación y surtidor de carburante)**. Указывает расположение объекта, где есть ремонтная мастерская и заправочная станция.
+
+![](https://www.todotest.com/tests/imgs/man_s106.jpg)
+
+**S-107**. **Кемпинг (Campamento)**. Указывает расположение места (кемпинга), где можно разбить лагерь.
+
+![](https://www.todotest.com/tests/imgs/man_s107.jpg)
+
+**S-108**. **Вода (Agua)**. Указывает расположение источника с водой.
+
+![](https://www.todotest.com/tests/imgs/man_s108.jpg)
+
+**S-109**. **Живописное место (Lugar pintoresco)**. Указывает на живописное место или место, откуда открывается вид на него.
+
+![](https://www.todotest.com/tests/imgs/man_s109.jpg)
+
+**S-110**. **Отель или мотель (Hotel o motel)**. Указывает расположение отеля или мотеля.
+
+![](https://www.todotest.com/tests/imgs/man_s110.jpg)
+
+**S-111**. **Ресторан (Restauración)**. Указывает расположение ресторана.
+
+![](https://www.todotest.com/tests/imgs/man_s111.jpg)
+
+**S-112**. **Кафе (Cafetería)**. Указывает расположение бара или кафе.
+
+![](https://www.todotest.com/tests/imgs/man_s112.jpg)
+
+**S-113**. **Площадка для домов на колесах (Terreno para remolques-vivienda)**. Указывает расположение территории, где можно разместиться с домом на колесах (караваном).
+
+![](https://www.todotest.com/tests/imgs/man_s113.jpg)
+
+**S-114**. **Место для пикника (Merendero)**. Указывает место, которое может быть использовано для потребления пищи или напитков.
+
+![](https://www.todotest.com/tests/imgs/man_s114.jpg)
+
+**S-115**. **Начальная точка для пеших экскурсий (Punto de partida para excursiones a pie)**. Указывает подходящее место для начала пеших экскурсий.
+
+![](https://www.todotest.com/tests/imgs/man_s115.jpg)
+
+Другие знаки сервиса:
+
+**S-116**. **Кемпинг и площадка для домов на колесах (Campamento y terreno para remolques-vivienda)**. Указывает расположение места, где можно разместиться с палаткой или домом на колесах.
+
+![](https://www.todotest.com/tests/imgs/man_s116.jpg)
+
+**S-117**. **Молодежное общежитие (Albergue de juventud)**. Указывает расположение общежития, использование которого зарезервировано для молодежных организаций.
+
+![](https://www.todotest.com/tests/imgs/man_s117.jpg)
+
+**S-118**. **Туристическая информация (Información turística)**. Указывает расположение офиса туристической информации.
+
+![](https://www.todotest.com/tests/imgs/man_s118.jpg)
+
+**S-119**. **Рыболовный участок (Coto de pesca)**. Указывает участок реки или озера, где рыбалка требует специального разрешения.
+
+![](https://www.todotest.com/tests/imgs/man_s119.jpg)
+
+**S-120**. **Национальный парк (Parque nacional)**. Указывает расположение национального парка, название которого не указано на знаке.
+
+![](https://www.todotest.com/tests/imgs/man_s120.jpg)
+
+**S-121**. **Памятник (Monumento)**. Указывает расположение исторического или художественного произведения, объявленного памятником.
+
+![](https://www.todotest.com/tests/imgs/man_s121.jpg)
+
+**S-122**. **Другие услуги (Otros servicios)**. Общий знак для любой другой услуги, которая будет указана в белом прямоугольнике.
+
+![](https://www.todotest.com/tests/imgs/man_s122.jpg)
+
+**S-123**. **Зона отдыха (Área de descanso)**. Указывает расположение зоны отдыха.
+
+![](https://www.todotest.com/tests/imgs/man_s123.jpg)
+
+**S-124**. **Парковка для пользователей железной дороги (Estacionamiento para usuarios del ferrocarril)**. Указывает расположение зоны парковки, связанной с железнодорожной станцией и предназначенной в основном для транспортных средств пользователей, которые часть своего путешествия совершают на личном транспорте, а часть - по железной дороге.
+
+![](https://www.todotest.com/tests/imgs/man_s124.jpg)
+
+**S-125**. **Парковка для пользователей метро (Estacionamiento para usuarios del ferrocarril subterráneo)**. Указывает расположение зоны парковки, связанной со станцией метро и предназначенной в основном для транспортных средств пользователей, которые часть своего путешествия совершают на личном транспорте, а часть - на метро.
+
+![](https://www.todotest.com/tests/imgs/man_s125.jpg)
+
+**S-126**. **Парковка для пользователей автобусов (Estacionamiento para usuarios de autobús)**. Указывает расположение зоны парковки, связанной с автобусной станцией или терминалом и предназначенной в основном для личных транспортных средств пользователей, которые часть своего путешествия совершают на личном транспорте, а часть - на автобусе.
+
+![](https://www.todotest.com/tests/imgs/man_s126.jpg)
+
+**S-127**. **Зона обслуживания (Área de servicio)**. Указывает на автомагистрали или автостраде расположение зоны обслуживания.
+
+![](https://www.todotest.com/tests/imgs/man_s127.jpg)
+
+### 9.4 Знаки ориентирования (Señales de orientación)
+
+Знаки ориентирования подразделяются на:
+
+- [Знаки предварительного указания.](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=19&sp=9.4)
+- [Указатели направлений.](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=21&sp=9.4)
+- [Знаки идентификации дорог.](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=22&sp=9.4)
+- [Знаки местоположения.](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=23&sp=9.4)
+- [Знаки подтверждения.](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=24&sp=9.4)
+- [Знаки специального использования в населенных пунктах.](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=24&sp=9.4)
+
+#### 9.4.1 Знаки предварительного указания (Señales de preseñalización)
+
+Знаки предварительного указания размещаются на соответствующем расстоянии от перекрестка для обеспечения их максимальной эффективности как днем, так и ночью, с учетом дорожных условий и условий движения, особенно обычной скорости транспортных средств и расстояния, с которого виден этот знак. Это расстояние может быть сокращено до 50 метров в населенных пунктах, но должно быть не менее 500 метров на автомагистралях и автострадах. Эти знаки могут повторяться.
+
+Расстояние между знаком и перекрестком может быть указано с помощью дополнительной панели, размещенной над знаком. Это расстояние также может быть указано в верхней части самого знака.
+
+**S-200**. **Предварительное указание кольцевой развязки (Preseñalización de glorieta)**. Указывает направления различных выездов с ближайшей кольцевой развязки. Если какая-либо надпись находится на синем фоне, это указывает, что выезд ведет к автомагистрали или автостраде.
+
+![](https://www.todotest.com/tests/imgs/man_s200.jpg)
+
+**S-220**. **Предварительное указание направлений к обычной дороге (Preseñalización de direcciones hacia una carretera convencional)**. Указывает на обычной дороге направления различных ответвлений на ближайшем перекрестке, когда одно из них ведет к обычной дороге.
+
+![](https://www.todotest.com/tests/imgs/man_s220.jpg)
+
+**S-222**. **Предварительное указание направлений к автомагистрали или автостраде (Preseñalización de direcciones hacia una autopista o una autovía)**. Указывает на обычной дороге направления различных ответвлений на ближайшем перекрестке, когда одно из них ведет к автомагистрали или автостраде.
+
+![](https://www.todotest.com/tests/imgs/man_s222.jpg)
+
+**S-222a**. **Предварительное указание направлений к автомагистрали или автостраде и собственное направление (Preseñalización de direcciones hacia una autopista o una autovía y dirección propia)**. Указывает на обычной дороге направления различных ответвлений на ближайшем перекрестке, когда одно из них ведет к автомагистрали или автостраде. Также указывает собственное направление обычной дороги.
+
+![](https://www.todotest.com/tests/imgs/man_s222a.jpg)
+
+**S-225**. **Предварительное указание направлений на автомагистрали или автостраде к любой дороге (Preseñalización de direcciones en una autopista o una autovía hacia cualquier carretera)**. Указывает на автомагистрали или автостраде направления различных ответвлений на ближайшем перекрестке. Также указывает расстояние, номер и, в соответствующих случаях, букву развязки и ответвления.
+
+![](https://www.todotest.com/tests/imgs/man_s225.jpg)
+
+**S-230**. **Предварительное указание с знаками над проезжей частью на обычной дороге к обычной дороге (Preseñalización con señales sobre la calzada en carretera convencional hacia carretera convencional)**. Указывает направления ответвления ближайшего выезда и расстояние до него.
+
+![](https://www.todotest.com/tests/imgs/man_s230.jpg)
+
+**S-230a**. **Предварительное указание с знаками над проезжей частью на обычной дороге к обычной дороге и собственное направление (Preseñalización con señales sobre la calzada en carretera convencional hacia carretera convencional y dirección propia)**. Указывает направления ответвления ближайшего выезда и расстояние до него. Также указывает собственное направление обычной дороги.
+
+![](https://www.todotest.com/tests/imgs/man_s230a.jpg)
+
+**S-232**. **Предварительное указание с знаками над проезжей частью на обычной дороге к автомагистрали или автостраде (Preseñalización con señales sobre la calzada en carretera convencional hacia autopista o autovía)**. Указывает направления ответвления ближайшего выезда и расстояние до него.
+
+![](https://www.todotest.com/tests/imgs/man_s232.jpg)
+
+**S-232a**. **Предварительное указание с знаками над проезжей частью на обычной дороге к автомагистрали или автостраде и собственное направление (Preseñalización con señales sobre la calzada en carretera convencional hacia autopista o autovía y dirección propia)**. Указывает направления ответвления ближайшего выезда и расстояние до него. Также указывает собственное направление обычной дороги.
+
+![](https://www.todotest.com/tests/imgs/man_s232a.jpg)
+
+**S-235**. **Предварительное указание с знаками над проезжей частью на автомагистрали или автостраде к любой дороге (Preseñalización con señales sobre la calzada en autopista o autovía hacia cualquier carretera)**. Указывает направления ответвления ближайшего выезда, расстояние до него и номер развязки.
+
+![](https://www.todotest.com/tests/imgs/man_s235.jpg)
+
+**S-235a**. **Предварительное указание с знаками над проезжей частью на автомагистрали или автостраде к любой дороге и собственное направление (Preseñalización con señales sobre la calzada en autopista o autovía hacia cualquier carretera y dirección propia)**. Указывает направления ответвления ближайшего выезда, расстояние до него и номер развязки. Также указывает собственное направление автомагистрали или автострады.
+
+![](https://www.todotest.com/tests/imgs/man_s235a.jpg)
+
+**S-242**. **Предварительное указание на автомагистрали или автостраде двух близко расположенных выездов к любой дороге (Preseñalización en autopista o autovía de dos salidas muy próximas hacia cualquier carretera)**. Указывает направления ответвлений двух последовательных выездов с автомагистрали или автострады, расстояние, номер развязки и букву каждого выезда.
+
+![](https://www.todotest.com/tests/imgs/man_s242.jpg)
+
+**S-242a**. **Предварительное указание на автомагистрали или автостраде двух близко расположенных выездов к любой дороге и собственное направление (Preseñalización en autopista o autovía de dos salidas muy próximas hacia cualquier carretera y dirección propia)**. Указывает направления ответвлений двух последовательных выездов с автомагистрали или автострады, расстояние, номер развязки и букву каждого выезда. Также указывает собственное направление автомагистрали или автострады.
+
+![](https://www.todotest.com/tests/imgs/man_s242a.jpg)
+
+**S-250**. **Предварительное указание маршрута (Preseñalización de itinerario)**. Указывает маршрут, которому необходимо следовать, чтобы двигаться в направлении, указанном стрелкой.
+
+![](https://www.todotest.com/tests/imgs/man_s250.jpg)
+
+**S-260**. **Предварительное указание полос движения (Preseñalización de carriles)**. Указывает единственные разрешенные направления на ближайшем перекрестке для пользователей, движущихся по обозначенным полосам.
+
+![](https://www.todotest.com/tests/imgs/man_s260.jpg)
+
+**S-261**. **Предварительное указание на обычной дороге зоны или зоны обслуживания (Preseñalización en carretera convencional de zona o área de servicios)**. Указывает на обычной дороге близость выезда к зоне или зоне обслуживания.
+
+![](https://www.todotest.com/tests/imgs/man_s261.jpg)
+
+**S-263**. **Предварительное указание на автомагистрали или автостраде зоны или зоны обслуживания с общим выездом (Preseñalización en autopista o autovía de una zona o área de servicios con salida compartida)**. Указывает на автомагистрали или автостраде близость выезда к зоне или зоне обслуживания, который совпадает с выездом к одному или нескольким населенным пунктам.
+
+![](https://www.todotest.com/tests/imgs/man_s263.jpg)
+
+**S-263a**. **Предварительное указание на автомагистрали или автостраде зоны или зоны обслуживания с отдельным выездом (Preseñalización en autopista o autovía de una zona o área de servicios con salida exclusiva)**. Указывает на автомагистрали или автостраде близость выезда к зоне или зоне обслуживания.
+
+![](https://www.todotest.com/tests/imgs/man_s263a.jpg)
+
+**S-264**. **Предварительное указание на обычной дороге вспомогательной дороги (Preseñalización en carretera convencional de una vía de servicio)**. Указывает на обычной дороге близость выезда к вспомогательной дороге, с которой можно получить доступ к указанным услугам.
+
+![](https://www.todotest.com/tests/imgs/man_s264.jpg)
+
+**S-266**. **Предварительное указание на автомагистрали или автостраде вспомогательной дороги с общим выездом (Preseñalización en autopista o autovía de una vía de servicio, con salida compartida)**. Указывает на автомагистрали или автостраде близость выезда к вспомогательной дороге, с которой можно получить доступ к указанным услугам, который совпадает с выездом к одному или нескольким населенным пунктам.
+
+![](https://www.todotest.com/tests/imgs/man_s266.jpg)
+
+**S-266a**. **Предварительное указание на автомагистрали или автостраде вспомогательной дороги с отдельным выездом (Preseñalización en autopista o autovía de una vía de servicio, con salida exclusiva)**. Указывает на автомагистрали или автостраде близость выезда к вспомогательной дороге, с которой можно получить доступ к указанным услугам.
+
+![](https://www.todotest.com/tests/imgs/man_s266a.jpg)
+
+**S-270**. **Предварительное указание двух близко расположенных выездов (Preseñalización de dos salidas muy próximas)**. Указывает близость двух последовательных выездов, между которыми из-за недостаточного расстояния невозможно установить другие индивидуальные указательные знаки для каждого выезда. Буквы или, в соответствующих случаях, цифры соответствуют тем, что указаны на непосредственно предшествующих знаках предварительного указания.
+
+![](https://www.todotest.com/tests/imgs/man_s270.jpg)
+
+**S-271**. **Предварительное указание зоны обслуживания (Preseñalización de un área de servicio)**. Указывает на автомагистрали или автостраде выезд к зоне обслуживания.
+
+![](https://www.todotest.com/tests/imgs/man_s271.jpg)
+
+#### 9.4.2 Указатели направлений (Señales de dirección)
+
+**S-300**. **Населенные пункты на маршруте по обычной дороге (Poblaciones de un itinerario por carretera convencional)**. Указывает названия населенных пунктов, расположенных на маршруте, состоящем из обычной дороги, и направление, по которому они достигаются. Рамка внутри знака определяет категорию и номер дороги. Цифры, указанные внутри знака, обозначают расстояние в километрах.
+
+![](https://www.todotest.com/tests/imgs/man_s300.jpg)
+
+**S-301**. **Населенные пункты на маршруте по автомагистрали или автостраде (Poblaciones en un itinerario por autopista o autovía)**. Указывает названия населенных пунктов, расположенных на маршруте, состоящем из автомагистрали или автострады, и направление, по которому они достигаются. Рамка внутри знака определяет категорию и номер дороги. Цифры, указанные внутри знака, обозначают расстояние в километрах.
+
+![](https://www.todotest.com/tests/imgs/man_s301.jpg)
+
+**S-310**. **Населенные пункты на нескольких маршрутах (Poblaciones de varios itinerarios)**. Указывает дороги и населенные пункты, которые достигаются в направлении, указанном стрелкой.
+
+![](https://www.todotest.com/tests/imgs/man_s310.jpg)
+
+**S-320**. **Места интереса по обычной дороге (Lugares de interés por carretera convencional)**. Указывает места общего интереса, не являющиеся населенными пунктами, расположенные на маршруте, состоящем из обычной дороги. Цифры, указанные внутри знака, обозначают расстояние в километрах.
+
+![](https://www.todotest.com/tests/imgs/man_s320.jpg)
+
+**S-321**. **Места интереса по автомагистрали или автостраде (Lugares de interés por autopista o autovía)**. Указывает места интереса, не являющиеся населенными пунктами, расположенные на маршруте, состоящем из автомагистрали или автострады. Цифры, указанные внутри знака, обозначают расстояние в километрах.
+
+![](https://www.todotest.com/tests/imgs/man_s321.jpg)
+
+**S-322**. **Указатель направления к велосипедной дорожке или велосипедной тропе (Señal de destino hacia una vía ciclista o senda ciclable)**. Указывает на наличие в направлении, указанном стрелкой, велосипедной дорожки или велосипедной тропы. Цифры, указанные внутри знака, обозначают расстояние в километрах.
+
+![](https://www.todotest.com/tests/imgs/man_s322.jpg)
+
+**S-341**. **Указатели направления немедленного выезда к обычной дороге (Señales de destino de salida inmediata hacia carretera convencional)**. Указывает место выезда с автомагистрали или автострады на обычную дорогу. Цифра указывает номер развязки.
+
+![](https://www.todotest.com/tests/imgs/man_s341.jpg)
+
+**S-342**. **Указатели направления немедленного выезда к автомагистрали или автостраде (Señales de destino de salida inmediata hacia autopista o autovía)**. Указывает место выезда с автомагистрали или автострады на другую автомагистраль или автостраду. Цифра указывает номер развязки.
+
+![](https://www.todotest.com/tests/imgs/man_s342.jpg)
+
+**S-344**. **Указатели направления немедленного выезда к зоне, области или вспомогательной дороге (Señales de destino de salida inmediata hacia una zona, área o vía de servicios)**. Указывает место выезда с любой дороги к зоне, области или вспомогательной дороге.
+
+![](https://www.todotest.com/tests/imgs/man_s344.jpg)
+
+**S-347**. **Указатели направления немедленного выезда к зоне, области или вспомогательной дороге с общим выездом к автомагистрали или автостраде (Señales de destino de salida inmediata hacia una zona, área o vía de servicios, con salida compartida hacia una autopista o autovía)**. Указывает место выезда с любой дороги к зоне, области или вспомогательной дороге, который совпадает с выездом к автомагистрали или автостраде.
+
+![](https://www.todotest.com/tests/imgs/man_s347.jpg)
+
+**S-348a**. **Указатель направления на объезде (Señal de destino en desvío)**. Указывает, что по временному маршруту объезда и в направлении, указанном стрелкой, можно достичь определенного пункта назначения.
+
+![](https://www.todotest.com/tests/imgs/man_s348a.jpg)
+
+**S-348b**. **Переменный указатель направления (Señal variable de destino)**. Указывает, что в направлении, указанном стрелкой, можно достичь пункта назначения, который появляется на знаке.
+
+![](https://www.todotest.com/tests/imgs/man_s348b.jpg)
+
+**S-350**. **Знак над проезжей частью на обычной дороге. Немедленный выезд к обычной дороге (Señal sobre la calzada, en carretera convencional. Salida inmediata hacia carretera convencional)**. Указывает на обычной дороге, в месте начала ответвления выезда, направления, которые можно достичь через немедленный выезд на обычную дорогу, и, в соответствующих случаях, ее номер.
+
+![](https://www.todotest.com/tests/imgs/man_s350.jpg)
+
+**S-351**. **Знак над проезжей частью на автомагистрали и автостраде. Немедленный выезд к обычной дороге (Señal sobre la calzada, en autopista y autovía. Salida inmediata hacia carretera convencional)**. Указывает на автомагистрали, автостраде и скоростной дороге, в месте начала ответвления выезда с любой дороги, направления, которые можно достичь через немедленный выезд на обычную дорогу, и, в соответствующих случаях, ее номер. Также указывает номер и, в соответствующих случаях, букву развязки и ответвления.
+
+![](https://www.todotest.com/tests/imgs/man_s351.jpg)
+
+**S-354**. **Знак над проезжей частью на обычной дороге. Немедленный выезд к автомагистрали или автостраде (Señal sobre la calzada, en carretera convencional. Salida inmediata hacia autopista o autovía)**. Указывает в месте начала ответвления выезда направления, которые можно достичь через немедленный выезд на автомагистраль или автостраду, и, в соответствующих случаях, их номер.
+
+![](https://www.todotest.com/tests/imgs/man_s354.jpg)
+
+**S-355**. **Знак над проезжей частью на автомагистрали и автостраде. Немедленный выезд к автомагистрали или автостраде (Señal sobre la calzada, en autopista y autovía. Salida inmediata hacia autopista o autovía)**. Указывает в месте начала ответвления выезда направления, которые можно достичь через немедленный выезд на автомагистраль или автостраду, и, в соответствующих случаях, их номер. Также указывает номер и, в соответствующих случаях, букву развязки и ответвления.
+
+![](https://www.todotest.com/tests/imgs/man_s355.jpg)
+
+**S-360**. **Знаки над проезжей частью на обычной дороге. Немедленный выезд к обычной дороге и собственное направление (Señales sobre la calzada en carretera convencional. Salida inmediata hacia carretera convencional y dirección propia)**. Указывает на обычной дороге направления, которые можно достичь через немедленный выезд на другую обычную дорогу. Также указывает собственное направление обычной дороги и ее номер.
+
+![](https://www.todotest.com/tests/imgs/man_s360.jpg)
+
+**S-362**. **Знаки над проезжей частью на обычной дороге. Немедленный выезд к автомагистрали или автостраде и собственное направление (Señales sobre la calzada en carretera convencional. Salida inmediata hacia autopista o autovía y dirección propia)**. Указывает на обычной дороге направления, которые можно достичь через немедленный выезд на автомагистраль или автостраду. Также указывает собственное направление обычной дороги.
+
+![](https://www.todotest.com/tests/imgs/man_s362.jpg)
+
+Дополнительные указатели направления:
+
+**S-366**. **Знаки над проезжей частью на автомагистрали или автостраде. Немедленный выезд к обычной дороге и собственное направление (Señales sobre la calzada en autopista o autovía. Salida inmediata hacia carretera convencional y dirección propia)**. Указывает на автомагистрали или автостраде направления, которые можно достичь через немедленный выезд на обычную дорогу, а также номер развязки и, в соответствующих случаях, букву ответвления. Также указывает собственное направление автомагистрали или автострады.
+
+![](https://www.todotest.com/tests/imgs/man_s366.jpg)
+
+**S-368**. **Знаки над проезжей частью на автомагистрали или автостраде. Выезд к автомагистрали или автостраде и собственное направление (Señales sobre la calzada en autopista o autovía. Salida hacia autopista o autovía y dirección propia)**. Указывает на автомагистрали или автостраде направления, которые можно достичь через немедленный выезд на автомагистраль или автостраду, а также номер развязки и, в соответствующих случаях, букву ответвления. Также указывает собственное направление автомагистрали или автострады.
+
+![](https://www.todotest.com/tests/imgs/man_s368.jpg)
+
+**S-371**. **Знаки над проезжей частью на обычной дороге. Два близко расположенных немедленных выезда к обычной дороге и собственное направление (Señales sobre calzada en carretera convencional.Dos salidas inmediatas muy próximas hacia carretera convencional y dirección propia)**.
+
+![](https://www.todotest.com/tests/imgs/man_s371.jpg)
+
+**S-373**. **Знаки над проезжей частью на автомагистрали или автостраде. Два близко расположенных немедленных выезда к обычной дороге и собственное направление (Señales sobre la calzada en autopista o autovía. Dos salidas inmediatas muy próximas hacia carretera convencional y dirección propia)**. Указывает направления ответвлений двух последовательных выездов с автомагистрали или автострады. Расстояние до второго, номер развязки и буква каждого выезда. Также указывает собственное направление автомагистрали или автострады.
+
+![](https://www.todotest.com/tests/imgs/man_s373.jpg)
+
+**S-375**. **Знаки над проезжей частью на автомагистрали или автостраде. Два близко расположенных немедленных выезда к автомагистрали или автостраде и собственное направление (Señales sobre la calzada en autopista o autovía. Dos salidas inmediatas muy próximas hacia autopista o autovía y dirección propia)**. Указывает направления ответвлений двух последовательных выездов с автомагистрали или автострады, расстояние до второго, номер развязки и букву каждого выезда. Также указывает собственное направление автомагистрали или автострады.
+
+![](https://www.todotest.com/tests/imgs/man_s375.jpg)
+
+#### 9.4.3 Знаки идентификации дорог (Señales de identificación de carreteras)
+
+Знаки, предназначенные для идентификации дорог, будь то по их номеру, состоящему из цифр, букв или комбинации обоих, или по их названию, будут состоять из этого номера или названия, заключенного в прямоугольник или щит.
+
+**S-400**. **Европейский маршрут (Itinerario europeo)**. Идентифицирует маршрут европейской сети.
+
+![](https://www.todotest.com/tests/imgs/man_s400.jpg)
+
+**S-410**. **Автомагистраль и автострада (Autopista y autovía)**. Идентифицирует автомагистраль или автостраду. Когда она относится к автономной области, помимо буквы A и после соответствующего номера или над знаком с дополнительной панелью, могут быть включены аббревиатуры идентификации автономного сообщества. Никакая дорога, не имеющая характеристик автомагистрали или автострады, не может быть идентифицирована буквой A. Когда автомагистраль или автострада является кольцевой дорогой или объездом, буква A может быть заменена буквами, указывающими на город, в соответствии с кодом, установленным для этой цели Министерствами развития и внутренних дел.
+
+![](https://www.todotest.com/tests/imgs/man_s410.jpg)
+
+**S-410a**. **Платная автомагистраль (Autopista de peaje)**. Идентифицирует платную автомагистраль.
+
+![](https://www.todotest.com/tests/imgs/man_s410a.jpg)
+
+**S-420**. **Дорога сети R.I.G.E (Carretera de la R.I.G.E)**. Идентифицирует дорогу общей сети государства, которая не является автомагистралью или автострадой.
+
+![](https://www.todotest.com/tests/imgs/man_s420.jpg)
+
+**S-430**. **Автономная дорога первого уровня (Carretera autonómica de primer nivel)**. Идентифицирует дорогу первого уровня, которая не является автомагистралью или автострадой, автономной сети сообщества, которому соответствуют аббревиатуры идентификации.
+
+![](https://www.todotest.com/tests/imgs/man_s430.jpg)
+
+**S-440**. **Автономная дорога второго уровня (Carretera autonómica segundo nivel)**. Идентифицирует дорогу второго уровня, которая не является автомагистралью или автострадой, автономной сети сообщества, которому соответствуют аббревиатуры идентификации.
+
+![](https://www.todotest.com/tests/imgs/man_s440.jpg)
+
+**S-450**. **Автономная дорога третьего уровня (Carretera autonómica tercer nivel)**. Идентифицирует дорогу третьего уровня, которая не является автомагистралью или автострадой, автономной сети сообщества, которому соответствуют аббревиатуры идентификации.
+
+![](https://www.todotest.com/tests/imgs/man_s450.jpg)
+
+#### 9.4.4 Знаки местоположения (Señales de localización)
+
+Знаки местоположения могут использоваться для указания границы между двумя государствами или границы между двумя административными подразделениями одного и того же государства, или названия населенного пункта, реки, порта, места или другого обстоятельства аналогичного характера.
+
+**S-500**. **Въезд в населенный пункт (Entrada a poblado)**. Указывает место, с которого действуют правила поведения в дорожном движении, относящиеся к населенному пункту.
+
+![](https://www.todotest.com/tests/imgs/man_s500.jpg)
+
+**S-510**. **Конец населенного пункта (Fin de poblado)**. Указывает место, с которого перестают применяться правила поведения в дорожном движении, относящиеся к населенному пункту.
+
+![](https://www.todotest.com/tests/imgs/man_s510.jpg)
+
+**S-520**. **Расположение характерной точки дороги (Situación de punto característico de la vía)**. Указывает место общего интереса на дороге.
+
+![](https://www.todotest.com/tests/imgs/man_s520.jpg)
+
+**S-540**. **Расположение границы провинции (Situación de límite de provincia)**. Указывает место, с которого дорога входит в провинцию.
+
+![](https://www.todotest.com/tests/imgs/man_s540.jpg)
+
+**S-550**. **Расположение границы Автономного Сообщества (Situación de límite de Comunidad Autónoma)**. Указывает место, с которого дорога входит в Автономное Сообщество.
+
+![](https://www.todotest.com/tests/imgs/man_s550.jpg)
+
+**S-560**. **Расположение границы Автономного Сообщества и провинции (Situación de límite de Comunidad Autónoma y provincia)**. Указывает место, с которого дорога входит в Автономное Сообщество и провинцию.
+
+![](https://www.todotest.com/tests/imgs/man_s560.jpg)
+
+**S-570**. **Километровый столб на автомагистрали и автостраде (Hito kilométrico en autopista y autovía)**. Указывает километровую точку автомагистрали или автострады, идентификация которой отображается в верхней части.
+
+![](https://www.todotest.com/tests/imgs/man_s570.jpg)
+
+**S-570a**. **Километровый столб на платной автомагистрали (Hito kilométrico en autopista de peaje)**. Указывает километровую точку платной автомагистрали, идентификация которой отображается в верхней части.
+
+![](https://www.todotest.com/tests/imgs/man_s570a.jpg)
+
+**S-571**. **Километровый столб на автомагистрали и автостраде, которая также является частью европейского маршрута (Hito kilométrico en autopista y autovía que, además, forma parte de un itinerario europeo)**. Указывает километровую точку автомагистрали или автострады, которая также является частью европейского маршрута, идентификация которого отображается в верхней части знака.
+
+![](https://www.todotest.com/tests/imgs/man_s571.jpg)
+
+**S-572**. **Километровый столб на обычной дороге (Hito kilométrico en carretera convencional)**. Указывает километровую точку обычной дороги, идентификация которой отображается в верхней части на фоне цвета, соответствующего дорожной сети, к которой она принадлежит.
+
+![](https://www.todotest.com/tests/imgs/man_s572.jpg)
+
+**S-573**. **Километровый столб на европейском маршруте (Hito kilométrico en itinerario europeo)**. Указывает километровую точку обычной дороги, которая является частью европейского маршрута, буквы и цифры которого отображаются в верхней части знака.
+
+![](https://www.todotest.com/tests/imgs/man_s573.jpg)
+
+**S-574**. **Десятикилометровый столб на автомагистрали или автостраде (Hito miriamétrico en autopista o autovía)**. Указывает километровую точку автомагистрали или автострады, когда она кратна 10.
+
+![](https://www.todotest.com/tests/imgs/man_s574.jpg)
+
+**S-574a**. **Десятикилометровый столб на обычной дороге (Hito miriamétrico en carretera convencional)**. Указывает километровую точку обычной дороги, когда она кратна 10.
+
+![](https://www.todotest.com/tests/imgs/man_s574a.jpg)
+
+**S-574b**. **Десятикилометровый столб на платных автомагистралях (Hito miriamétrico en autopistas de peaje)**. Указывает километровую точку платной автомагистрали, когда она кратна 10.
+
+![](https://www.todotest.com/tests/imgs/man_s574b.jpg)
+
+**S-575**. **Десятикилометровый столб (Hito miriamétrico)**. Указывает километровую точку дороги, которая не является автострадой, когда она кратна 10. Его цвет соответствует сети, к которой принадлежит данная дорога.
+
+![](https://www.todotest.com/tests/imgs/man_s575.jpg)
+
+#### 9.4.5 Знаки подтверждения (Señales de confirmación)
+
+Знаки подтверждения предназначены для напоминания, когда компетентные органы сочтут это необходимым, например, при выезде из крупных населенных пунктов, о направлении дороги. Когда указываются расстояния, цифры, выражающие их, размещаются после названия населенного пункта.
+
+**S-600**. **Подтверждение населенных пунктов на маршруте по обычной дороге (Confirmación de poblaciones en un itinerario por carretera convencional)**. Указывает на обычной дороге названия и расстояния в километрах до указанных населенных пунктов.
+
+![](https://www.todotest.com/tests/imgs/man_s600.jpg)
+
+**S-602**. **Подтверждение населенных пунктов на маршруте по автомагистрали или автостраде (Confirmación de poblaciones en un itinerario por autopista o autovía)**. Указывает на автомагистрали или автостраде названия и расстояния в километрах до указанных населенных пунктов.
+
+![](https://www.todotest.com/tests/imgs/man_s602.jpg)
+
+#### 9.4.6 Знаки специального использования в населенных пунктах (Señales de uso específico en poblado)
+
+Они состоят из модулей, используемых совместно или отдельно, общая цель которых - сообщить, что места, к которым они относятся, достигаются, следуя в направлении, указанном стрелкой.
+
+**S-700**. **Места городской дорожной сети (Lugares de la red viaria urbana)**. Указывает названия улиц, проспектов, площадей, кольцевых развязок или любых других точек дорожной сети.
+
+![](https://www.todotest.com/tests/imgs/man_s700.jpg)
+
+**S-710**. **Места, представляющие интерес для путешественников (Lugares de interés para viajeros)**. Указывает места, представляющие интерес для путешественников, такие как вокзалы, аэропорты, зоны посадки в портах, отели, кемпинги, туристические офисы и автомобильные клубы.
+
+![](https://www.todotest.com/tests/imgs/man_s710.jpg)
+
+**S-720**. **Места спортивного или развлекательного интереса (Lugares de interés deportivo o recreativo)**. Указывает места, где преобладает спортивный или развлекательный интерес.
+
+![](https://www.todotest.com/tests/imgs/man_s720.jpg)
+
+**S-730**. **Места географического или экологического характера (Lugares de carácter geográfico o ecológico)**. Указывает места географического типа или экологического интереса.
+
+![](https://www.todotest.com/tests/imgs/man_s730.jpg)
+
+**S-740**. **Места монументального или культурного интереса (Lugares de interés monumental o cultural)**. Указывает места монументального, исторического, художественного или, в общем, культурного интереса.
+
+![](https://www.todotest.com/tests/imgs/man_s740.jpg)
+
+**S-750**. **Промышленные зоны (Zonas de uso industrial)**. Указывает зоны значительного притяжения грузовиков, товаров и, в общем, тяжелого промышленного транспорта.
+
+![](https://www.todotest.com/tests/imgs/man_s750.jpg)
+
+**S-760**. **Автомагистрали и автострады (Autopistas y autovías)**. Указывает автомагистрали и автострады, а также места, к которым можно получить доступ по ним.
+
+![](https://www.todotest.com/tests/imgs/man_s760.jpg)
+
+**S-770**. **Другие места и дороги (Otros lugares y vías)**. Указывает дороги, которые не являются автомагистралями или автострадами, населенные пункты, к которым можно получить доступ по ним, а также другие места общественного интереса, не включенные в знаки S-700 - S-760.
+
+![](https://www.todotest.com/tests/imgs/man_s770.jpg)
+
+### 9.5 Дополнительные панели (Paneles complementarios)
+
+Уточняют значение знака, который они дополняют.
+
+
+S-800. Расстояние до начала опасности или предписания (Distancia al comienzo del peligro o prescripción). Указывает расстояние от места, где находится знак, до того места, где начинается опасность или начинает действовать предписание этого знака. В случае, если он размещен под знаком предупреждения об опасности [<сужение проезжей части>](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=6&sp=7), он может указывать свободную ширину указанного сужения.
+![](https://www.todotest.com/tests/imgs/man_s800.jpg)
+
+
+S-810. Длина опасного участка или участка, подлежащего предписанию (Longitud del tramo peligroso o sujeto a prescripción). Указывает длину, на которой существует опасность или применяется предписание.
+![](https://www.todotest.com/tests/imgs/man_s810.jpg)
+
+Протяженность запрета с одной стороны (Extensión de la prohibición, a un lado). Размещенная под знаком запрета, указывает расстояние, на котором применяется этот запрет в направлении стрелки.
+
+
+S-820
+![](https://www.todotest.com/tests/imgs/man_s820.jpg)
+
+
+S-821
+![](https://www.todotest.com/tests/imgs/man_s821.jpg)
+
+
+S-830. Протяженность запрета с обеих сторон (Extensión de la prohibición, a ambos lados). Размещенная под знаком запрета, указывает расстояния, на которых применяется этот запрет в каждом направлении, указанном стрелками.
+![](https://www.todotest.com/tests/imgs/man_s830.jpg)
+
+
+S-840. Предварительное оповещение об обязательной остановке (Preseñalización de detención obligatoria). Размещенная под знаком [<уступите дорогу>](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=8&sp=8.1), указывает расстояние, на котором находится знак <[обязательная остановка](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=8&sp=8.1)> или <[стоп](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=8&sp=8.1)> на следующем перекрестке.
+![](https://www.todotest.com/tests/imgs/man_s840.jpg)
+
+Маршрут с приоритетом (Itinerario con prioridad). Дополнительная панель знака [R-3](https://www.todotest.com/manual/manual_autoescuela.asp?t=9&p=8&sp=8.1), которая указывает маршрут с приоритетом.
+
+
+S-850
+![](https://www.todotest.com/tests/imgs/man_s850.jpg)
+
+
+S-851
+![](https://www.todotest.com/tests/imgs/man_s851.jpg)
+
+
+S-852
+![](https://www.todotest.com/tests/imgs/man_s852.jpg)
+
+
+S-853
+![](https://www.todotest.com/tests/imgs/man_s853.jpg)
+
+
+S-860. Общая (Genérico). Панель для любого другого пояснения или ограничения знака или светофора, под которым она размещена.
+![](https://www.todotest.com/tests/imgs/man_s860.jpg)
+
+
+S-870. Применение сигнализации (Aplicación de la señalización). Указывает, под знаком запрета или предписания, что он относится исключительно к съезду, направление которого примерно совпадает с направлением стрелки.
+![](https://www.todotest.com/tests/imgs/man_s870.jpg)
+
+
+S-880. Применение сигнализации к определенным транспортным средствам (Aplicación de señalización a determinados vehículos). Указывает, под соответствующим вертикальным знаком, что знак относится исключительно к транспортным средствам, изображенным на панели, которыми могут быть грузовики, транспортные средства с прицепом, автобусы или велосипеды.
+![](https://www.todotest.com/tests/imgs/man_s880.jpg)
+
+
+S-890. Дополнительная панель вертикального знака (Panel complementario de una señal vertical). Указывает, под другим вертикальным знаком, что он относится к обстоятельствам, указанным на панели, таким как снег, дождь или туман.
+![](https://www.todotest.com/tests/imgs/man_s890.jpg)
+
+### 9.6 Другие знаки (Otras señales)
+
+
+S-900. Опасность пожара (Peligro de incendio). Предупреждает об опасности, которую представляет разведение огня.
+![](https://www.todotest.com/tests/imgs/man_s900.jpg)
+
+
+S-910. Огнетушитель (Extintor). Указывает местоположение огнетушителя.
+![](https://www.todotest.com/tests/imgs/man_s910.jpg)
+
+
+S-920. Въезд в Испанию (Entrada a España). Указывает, что вы въехали на испанскую территорию по дороге из другой страны.
+![](https://www.todotest.com/tests/imgs/man_s920.jpg)
+
+
+S-930. Подтверждение страны (Confirmación del país). Указывает название страны, к которой ведет дорога. Цифра в нижней части указывает расстояние до границы.
+![](https://www.todotest.com/tests/imgs/man_s930.jpg)
+
+
+S-940. Ограничения скорости в Испании (Limitaciones de velocidad en España). Указывает общие ограничения скорости на различных типах дорог и в городской зоне в Испании.
+![](https://www.todotest.com/tests/imgs/man_s940.jpg)
+
+
+S-950. Радиочастота специальных станций информации о дорогах (Radiofrecuencia de emisoras específicas de información sobre carreteras). Указывает частоту, на которую необходимо настроить радиоприемник для получения информации.
+![](https://www.todotest.com/tests/imgs/man_s950.jpg)
+
+
+S-960. Телефон экстренной связи (Teléfono de emergencia). Указывает местоположение телефона экстренной связи.
+![](https://www.todotest.com/tests/imgs/man_s960.jpg)
+
+
+S-970. Площадка для остановки (Apartadero). Указывает местоположение огнетушителя и телефона экстренной связи на площадке для остановки.
+![](https://www.todotest.com/tests/imgs/man_s970.jpg)
+
+
+S-980. Аварийные выходы (Salidas de emergencias). Указывает местоположение аварийного выхода.
+![](https://www.todotest.com/tests/imgs/man_s980.jpg)
+
+
+S-990. Указательная стрелка аварийного знака в туннелях (Cartel flecha indicativa señal de emergencia en túneles). Указывает направление и расстояние до аварийного выхода.
+![](https://www.todotest.com/tests/imgs/man_s990.jpg)
+
+## 10. Дорожная разметка (Marcas viales)
+
+![](https://www.todotest.com/tests/imgs/man0268.jpg)
+
+Разметка на дорожном покрытии, или дорожная разметка, предназначена для регулирования движения и предупреждения или направления участников дорожного движения и может использоваться самостоятельно или с другими средствами сигнализации для усиления или уточнения их указаний.
+
+### 10.1 Белая продольная разметка (Marcas blancas longitudinales)
+
+**Сплошная продольная линия (Marca longitudinal continua)**. Сплошная линия на проезжей части означает, что ни один водитель со своим транспортным средством или животным не должен пересекать ее или двигаться по ней, а когда линия разделяет два направления движения, не должен двигаться по левой стороне от нее.
+![](https://www.todotest.com/tests/imgs/man_25.jpg)
+
+Продольная разметка, состоящая из двух сплошных линий, имеет то же значение.
+
+**Прерывистая продольная линия (Marca longitudinal discontinua)**. Прерывистая продольная линия на проезжей части предназначена для разграничения полос с целью направления движения и означает, что ни один водитель не должен двигаться со своим транспортным средством или животным по ней, за исключением случаев, когда это необходимо и безопасность движения позволяет, на проезжей части с узкими полосами, которые имеют ширину менее 3 метров. Эта разметка может также предназначаться для:
+![](https://www.todotest.com/tests/imgs/man_26.jpg)
+
+- Предупреждения водителя о приближении к сплошной продольной линии, о запрете, который эта линия подразумевает, или о приближении к участку дороги, представляющему особый риск; в этих случаях расстояние между штрихами линии заметно короче, чем в общем случае.
+    ![](https://www.todotest.com/tests/imgs/man_27.jpg)
+- Указания на наличие специальной полосы (для определенного класса транспортных средств, для въезда или выезда, или другой); в этом случае линия заметно шире, чем в общем случае.
+    ![](https://www.todotest.com/tests/imgs/man_24.jpg)
+
+**Двойная прерывистая продольная линия (Marcas longitudinales discontinuas dobles)**. Как особый случай прерывистой линии, двойные линии, ограничивающие полосу с обеих сторон, означают, что эта полоса реверсивная, то есть движение по ней может регулироваться в одном или другом направлении с помощью светофоров для полосы.
+
+![](https://www.todotest.com/tests/imgs/man0269.jpg)
+
+**Сплошные продольные линии, примыкающие к прерывистым (Marcas longitudinales continuas adosadas a discontinuas)**. Когда разметка состоит из сплошной линии, примыкающей к прерывистой, водители должны учитывать только линию, расположенную на стороне, по которой они движутся. Это правило не препятствует водителям, совершившим разрешенный обгон, вернуться на свое нормальное место на проезжей части.
+
+![](https://www.todotest.com/tests/imgs/man_23.jpg)
+
+Линии, обозначающие края проезжей части и стоянки, не считаются продольной разметкой.
+
+### 10.2 Белая поперечная разметка (Marcas blancas transversales)
+
+**Сплошная поперечная линия (Marca transversal continua)**. Сплошная линия, расположенная поперек одной или нескольких полос, указывает, что ни одно транспортное средство или животное, ни их груз не должны пересекать ее при выполнении обязательства, налагаемого знаком обязательной остановки, разметкой <стоп>, знаком запрета проезда без остановки, пешеходным переходом, обозначенным разметкой или вертикальным знаком, знаком железнодорожного переезда, светофором или сигналом остановки, поданным сотрудником дорожного движения.
+
+![](https://www.todotest.com/tests/imgs/man0270.jpg)
+
+**Прерывистая поперечная линия (Marca transversal discontinua)**. Прерывистая линия поперек одной или нескольких полос указывает, что, за исключением аномальных обстоятельств, снижающих видимость, ни одно транспортное средство или животное, ни их груз не должны пересекать ее, когда они должны уступить дорогу в соответствии с обязательством, налагаемым знаком или разметкой <уступите дорогу>, зеленой стрелкой поворота светофора, или, когда нет знака приоритета, в соответствии с правилами, регулирующими приоритет.
+
+![](https://www.todotest.com/tests/imgs/man_28.jpg)
+
+**Разметка пешеходного перехода (Marca de paso para peatones)**. Серия широких линий, расположенных параллельно оси проезжей части и образующих поперечную группу, указывает на пешеходный переход, где водители транспортных средств или животных должны уступить дорогу пешеходам.
+![](https://www.todotest.com/tests/imgs/0763.jpg)
+
+**Разметка велосипедного перехода (Marca de paso para ciclistas)**. Разметка, состоящая из двух прерывистых и параллельных поперечных линий на проезжей части, указывает на велосипедный переход.
+
+![](https://www.todotest.com/tests/imgs/0466.jpg)
+
+### 10.3 Горизонтальные сигналы движения (Señales horizontales de circulación)
+
+**Уступите дорогу (Ceda el paso)**. Треугольник, нанесенный на проезжую часть, указывает водителю на обязанность уступить дорогу другим транспортным средствам на следующем перекрестке. Если упомянутый треугольник расположен на полосе, ограниченной продольными линиями, обязательство относится исключительно к транспортным средствам, движущимся по этой полосе.
+
+![](https://www.todotest.com/tests/imgs/man_29.jpg)
+
+**Стоп (Stop)**. Символ <стоп>, нанесенный на проезжую часть, указывает водителю на обязанность остановить свое транспортное средство перед ближайшей линией остановки или, если таковой нет, непосредственно перед проезжей частью, к которой он приближается, и уступить дорогу транспортным средствам, движущимся по этой проезжей части. Если указанный символ расположен на полосе, ограниченной продольными линиями, вышеуказанное обязательство относится исключительно к транспортным средствам, движущимся по этой полосе.
+
+![](https://www.todotest.com/tests/imgs/man_30.jpg)
+
+**Знак ограничения скорости (Señal de limitación de velocidad)**. Указывает, что ни одно транспортное средство не должно превышать скорость, выраженную в километрах в час. Если цифра расположена на полосе, ограниченной продольными линиями, вышеуказанный запрет относится исключительно к транспортным средствам, движущимся по этой полосе.
+
+![](https://www.todotest.com/tests/imgs/man_31.jpg)
+
+**Знак разветвления (Señal de bifurcación)**. Знак выезда с автомагистрали или автострады. Указывает на автомагистрали или автостраде направление ответвления следующего выезда с нее и собственное направление этого выезда.
+
+### 10.4 Другая разметка белого цвета (Otras marcas de color blanco)
+
+**Стрелка выбора полосы (Flecha de selección de carriles)**. Стрелка, расположенная на полосе, ограниченной продольными линиями, указывает, что каждый водитель должен следовать направлению или одному из направлений, указанных стрелкой на полосе, в которой он находится, или, если сигнализация позволяет, перестроиться на другую полосу.
+
+![](https://www.todotest.com/tests/imgs/0450.jpg)
+
+**Стрелка выезда (Flecha de salida)**. Указывает водителям место, где они могут начать смену полосы для использования полосы выезда.
+
+![](https://www.todotest.com/tests/imgs/man_32.jpg)
+
+**Стрелка окончания полосы (Flecha de fin de carril)**. Сигнализирует о том, что полоса, на которой она расположена, скоро заканчивается, и необходимо следовать ее указанию.
+
+![](https://www.todotest.com/tests/imgs/man_33.jpg)
+
+**Стрелка возврата (Flecha de retorno)**. Стрелка, расположенная примерно по оси проезжей части с двусторонним движением и указывающая вправо, объявляет о приближении сплошной линии, которая подразумевает запрет движения по ее левой стороне, и указывает, следовательно, что каждый водитель должен как можно скорее двигаться со своим транспортным средством по полосе справа от стрелки.
+
+![](https://www.todotest.com/tests/imgs/man_34.jpg)
+
+**Разметка железнодорожного переезда (Marca de paso a nivel)**. Буквы P и N, по одной с каждой стороны креста, указывают на приближение к железнодорожному переезду.
+
+![](https://www.todotest.com/tests/imgs/0609.jpg)
+
+**Надпись полосы или зоны с ограниченным доступом (Inscripción de carril o zona reservada)**. Дорожная разметка BUS и TAXI указывает, что полоса или зона дороги зарезервированы, временно или постоянно, для движения, остановки или стоянки определенных транспортных средств, таких как автобусы и такси.
+
+Разметка начала зарезервированной полосы
+![](https://www.todotest.com/tests/imgs/0328.jpg)
+
+Полоса, зарезервированная для автобусов и такси
+![](https://www.todotest.com/tests/imgs/0261.jpg)
+
+**Разметка стоянки (Marcas de estacionamiento)**. Указывает места или зоны стоянки, а также способ, которым транспортные средства должны их занимать.
+
+**Зебра (Cebreado)**. Зона, обозначенная параллельными наклонными полосами, обрамленными сплошной линией, означает, что ни один водитель не должен въезжать со своим транспортным средством или животным в указанную зону, за исключением тех, кто обязан двигаться по обочине.
+
+![](https://www.todotest.com/tests/imgs/man_35.jpg)
+
+Зона, обозначенная параллельными наклонными полосами, обрамленными прерывистой линией, означает, что ни один водитель не должен въезжать со своим транспортным средством или животным в указанную зону, за исключением случаев, когда маневр не представляет никакой опасности и имеет целью направиться к поперечному выезду, расположенному на другой стороне проезжей части.
+
+**Шевроны для безопасной дистанции (Galones para distancia de seguridad)**. Углы, нарисованные в центре полосы, для информирования водителей о минимальном расстоянии между транспортными средствами для предотвращения аварий из-за наезда сзади.
+
+![](https://www.todotest.com/tests/imgs/1032.jpg)
+
+### 10.5 Разметка других цветов (Marcas de otros colores)
+
+**Желтая зигзагообразная разметка (Marca amarilla zigzag)**. Указывает место на проезжей части, где стоянка транспортных средств в целом запрещена, так как оно зарезервировано для какого-либо специального использования, не предполагающего длительного пребывания какого-либо транспортного средства. Обычно используется в зонах остановки (не стоянки) автобусов или предназначенных для погрузки и разгрузки транспортных средств.
+
+![](https://www.todotest.com/tests/imgs/0082.jpg)
+
+**Желтая продольная сплошная линия (Marca amarilla longitudinal continua)**. Сплошная линия желтого цвета на бордюре или вдоль края проезжей части означает, что остановка и стоянка запрещены или подлежат некоторым временным ограничениям, указанным знаками, по всей длине линии и на той стороне, где она расположена.
+
+![](https://www.todotest.com/tests/imgs/0698.jpg)
+
+**Желтая продольная прерывистая линия (Marca amarilla longitudinal discontinua)**. Прерывистая линия желтого цвета на бордюре или вдоль края проезжей части означает, что стоянка запрещена или подлежит некоторым временным ограничениям, указанным знаками, по всей длине линии и на той стороне, где она расположена.
+![](https://www.todotest.com/tests/imgs/man0272.jpg)
+
+**Сетка из желтых линий (Cuadrícula de marcas amarillas)**. Набор пересекающихся желтых линий напоминает водителям о запрете останавливаться таким образом, чтобы препятствовать или затруднять поперечное движение.
+
+![](https://www.todotest.com/tests/imgs/0426.jpg)
+
+**Синяя разметка (Marcas azules)**. Это разметка, которая обозначает места, где разрешена стоянка, и указывает, что в определенные периоды дня продолжительность стоянки ограничена.
+
+![](https://www.todotest.com/tests/imgs/man0273.jpg)
+
+**Бело-красная шахматная разметка (Damero blanco y rojo)**. Сетка из белых и красных отметок указывает место, где начинается зона аварийного торможения, и запрещает остановку, стоянку или использование этой части проезжей части для других целей.
+
+![](https://www.todotest.com/tests/imgs/man0391.jpg)

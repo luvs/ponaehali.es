@@ -152,6 +152,10 @@ export default defineConfig({
                     { label: 'Тема 7. Манёвры', link: '/guides/transport/pdd/todotest/tema-07' },
                     { label: 'Тема 8. Освещение', link: '/guides/transport/pdd/todotest/tema-08' },
                     { label: 'Тема 9. Сигналы', link: '/guides/transport/pdd/todotest/tema-09' },
+                    { label: 'Тема 10. Документы, элементы управления и настройки автомобиля', link: '/guides/transport/pdd/todotest/tema-10' },
+                    { label: 'Тема 11. Несчастные случаи', link: '/guides/transport/pdd/todotest/tema-11' },
+                    { label: 'Тема 12. Механика и техническое обслуживание', link: '/guides/transport/pdd/todotest/tema-12' },
+                    { label: 'Тема 13. Техника вождения', link: '/guides/transport/pdd/todotest/tema-13' },
                   ]
                 },
               ]
