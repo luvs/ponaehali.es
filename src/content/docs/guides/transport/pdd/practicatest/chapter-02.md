@@ -41,84 +41,74 @@ description: Глава 2. Использование дорог общего п
    ![](https://practicatest.com/views/layout/default/img/temario/B_EN/unico_sentido.png)
 * **Городские дороги (Urban roads):** Расположены в населенных пунктах (включая транзитные дороги), движение осуществляется по полосе, которая лучше всего подходит для пункта назначения.
 
-* Throwing objects on the road
-* Driving with unapproved tinted glass
-* Using the phone without hands-free
-* Wearing headphones while driving
-* Using DVD, internet or monitors except the GPS system
-* Driving with noise levels above those permitted
-* Releasing more exhaust through the exhaust pipe (UK) / tail pipe (USA) than allowed
-* Driving without an exhaust silencer(UK) / muffler(USA)
-* When refuelling: stop the engine, disconnect the electrical systems and switch off mobile phones
+## 2.2 Движение транспортных средств (Vehicle traffic)
 
-## 2.2 Vehicle traffic
-
-* **Interurban roads:** Located outside built-up areas, drive in the right lane as a general rule.
-   * **3-lane two-way interurban road:** Travel is in the right lane, to overtake and change directions to the left, the centre lane may be used.
+* **Междугородние дороги (Interurban roads):** Расположены за пределами населенных пунктов, движение по правой полосе как общее правило.
+   * **3-полосная двусторонняя междугородняя дорога (3-lane two-way interurban road):** Движение осуществляется по правой полосе, для обгона и изменения направления влево может использоваться центральная полоса.
    ![](https://practicatest.com/views/layout/default/img/temario/B_EN/doble_sentido.png)
-   * **3-lane one-way interurban road:** Travel is on the right and you can use the other lanes when needed, except for vehicles with trailers longer than 7m and trucks over 3500kg, which may not use the lane farthest to the left.
+   * **3-полосная односторонняя междугородняя дорога (3-lane one-way interurban road):** Движение осуществляется справа, и вы можете использовать другие полосы при необходимости, за исключением транспортных средств с прицепами длиной более 7 м и грузовиков массой более 3500 кг, которые не могут использовать крайнюю левую полосу.
    ![](https://practicatest.com/views/layout/default/img/temario/B_EN/unico_sentido.png)
-* **Urban roads:** Located in a built-up-areas (including cross-town roads), travel is in the lane that best suits the destination.
+* **Городские дороги (Urban roads):** Расположены в населенных пунктах (включая транзитные дороги), движение осуществляется по полосе, которая лучше всего подходит для пункта назначения.
 
-| Motorway (autopista)                                                                                            | Dual Carriageway (autovía)                                                                                                             |
-| --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| No hitchhiking Mopeds, pedestrians, animals, and cyclists may not enter In case of emergency, use the next exit | No hitchhiking Mopeds, pedestrians and animals may not enter Cyclists may enter if over age 14 In case of emergency, use the next exit |
+| Автомагистраль (Motorway, autopista)                                                                                                | Скоростная дорога (Dual Carriageway, autovía)                                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Автостоп запрещен. Мопеды, пешеходы, животные и велосипедисты не могут въезжать. В случае чрезвычайной ситуации используйте следующий выезд | Автостоп запрещен. Мопеды, пешеходы и животные не могут въезжать. Велосипедисты могут въезжать, если им больше 14 лет. В случае чрезвычайной ситуации используйте следующий выезд |
 
-## 2.3 Special lanes:
+## 2.3 Специальные полосы (Special lanes):
 
-| RAS                                                                                 | ![reversible lanes](https://practicatest.com/views/layout/default/img/temario/B_EN/carril-reversible.jpg) | ![additional lane](https://practicatest.com/views/layout/default/img/temario/B_EN/carril-adicional.jpg) | ![opposite-direction lane](https://practicatest.com/views/layout/default/img/temario/B_EN/carril-sentido-contrario.jpg) |
+| РДП                                                                                 | ![реверсивные полосы](https://practicatest.com/views/layout/default/img/temario/B_EN/carril-reversible.jpg) | ![дополнительная полоса](https://practicatest.com/views/layout/default/img/temario/B_EN/carril-adicional.jpg) | ![полоса противоположного направления](https://practicatest.com/views/layout/default/img/temario/B_EN/carril-sentido-contrario.jpg) |
 | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Obligations                                                                         | **R**eversible                                                                                            | **A**dditional                                                                                          | **O**pposite-Direction                                                                                                  |
-| Headlights day and night                                                            | YES                                                                                                       | YES                                                                                                     | YES                                                                                                                     |
-| Speed between 60-80 km/h                                                            | NO                                                                                                        | YES                                                                                                     | YES                                                                                                                     |
-| All cars may enter except cars with trailers. ALL may enter because of construction | NO                                                                                                        | NO                                                                                                      | YES                                                                                                                     |
+| Обязательства                                                                         | **Р**еверсивная (Reversible)                                                                                            | **Д**ополнительная (Additional)                                                                                          | **П**ротивоположного направления (Opposite-Direction)                                                                                                  |
+| Фары днем и ночью                                                                            | ДА                                                                                                       | ДА                                                                                                     | ДА                                                                                                                     |
+| Скорость между 60-80 км/ч                                                            | НЕТ                                                                                                        | ДА                                                                                                     | ДА                                                                                                                     |
+| Все автомобили могут въезжать, кроме автомобилей с прицепами. ВСЕ могут въезжать из-за строительства | НЕТ                                                                                                        | НЕТ                                                                                                      | ДА                                                                                                                     |
 
-The initials of each special lane form the **word RAO**. The first obligation is lighting, the second is speed, and the third is access restriction.
+Инициалы каждой специальной полосы образуют **слово РДП**. Первое обязательство - освещение, второе - скорость, а третье - ограничение доступа.
 
-![reversible lane](https://practicatest.com/views/layout/default/img/temario/B_EN/carril_reversible.jpg) 
+![реверсивная полоса](https://practicatest.com/views/layout/default/img/temario/B_EN/carril_reversible.jpg) 
 
-**Reversible:** Usually located in a built-up area, they are marked by lane traffic lights and double dashed road markings.
-
----
-
-![additional lane](https://practicatest.com/views/layout/default/img/temario/B_EN/carril_adicional.jpg) 
-
-**Additional:** This lane can be used by all vehicles except those required to travel on the hard shoulder. The speed and lighting rules apply to all vehicles travelling on the carriageway/roadway.
+**Реверсивная (Reversible):** Обычно расположена в населенном пункте, обозначается светофорами для полос движения и двойной прерывистой дорожной разметкой.
 
 ---
 
-![opposite-direction lane](https://practicatest.com/views/layout/default/img/temario/B_EN/carril_sentido_contrario.jpg) 
+![дополнительная полоса](https://practicatest.com/views/layout/default/img/temario/B_EN/carril_adicional.jpg) 
 
-**Opposite direction:** This lane does not allow: overtaking, moving to the side or crossing the imaginary line formed by cones
-
----
-
-![VAO Lane](https://practicatest.com/views/layout/default/img/temario/B_EN/carril_vao.jpg) 
-
-**VAO Lane:** High occupancy vehicle lane:
-
-* Can be used by:
-   * Cars, adaptable mixed vehicles, and motorcycles up to 3500kg and carrying the number of occupants indicated by the signage
-   * Priority emergency service vehicles
-   * Vehicles for people with reduced mobility
-* They cannot be used by:
-   * Lorries/Trucks or vehicles with trailers
+**Дополнительная (Additional):** Эта полоса может использоваться всеми транспортными средствами, кроме тех, которые обязаны двигаться по обочине. Правила скорости и освещения применяются ко всем транспортным средствам, движущимся по проезжей части.
 
 ---
 
-![Bus lane](https://practicatest.com/views/layout/default/img/temario/B_EN/carril_bus.jpg) 
+![полоса противоположного направления](https://practicatest.com/views/layout/default/img/temario/B_EN/carril_sentido_contrario.jpg) 
 
-**Bus lane:** Used exclusively for public transport vehicles. If taxis are also indicated, they may also use the lane.
-
----
-
-![Deceleration lane](https://practicatest.com/views/layout/default/img/temario/B_EN/carril_deceleracion.jpg) 
-
-**Deceleration lane:** For exiting a high-speed road. Drivers should access this lane as soon as possible.
+**Противоположного направления (Opposite direction):** Эта полоса не позволяет: обгонять, перемещаться в сторону или пересекать воображаемую линию, образованную конусами.
 
 ---
 
-![Acceleration lane](https://practicatest.com/views/layout/default/img/temario/B_EN/carril_aceleracion.jpg) 
+![Полоса VAO](https://practicatest.com/views/layout/default/img/temario/B_EN/carril_vao.jpg) 
 
-**Acceleration lane:** For entering a high-speed road. Drivers must give way, even stopping if necessary.
+**Полоса VAO (VAO Lane):** Полоса для транспортных средств с высокой заполняемостью:
+
+* Может использоваться:
+   * Легковыми автомобилями, адаптируемыми смешанными транспортными средствами и мотоциклами до 3500 кг, перевозящими количество пассажиров, указанное на знаках
+   * Приоритетными транспортными средствами экстренных служб
+   * Транспортными средствами для людей с ограниченной подвижностью
+* Не может использоваться:
+   * Грузовиками или транспортными средствами с прицепами
+
+---
+
+![Полоса для автобусов](https://practicatest.com/views/layout/default/img/temario/B_EN/carril_bus.jpg) 
+
+**Полоса для автобусов (Bus lane):** Используется исключительно для транспортных средств общественного транспорта. Если также указаны такси, они также могут использовать эту полосу.
+
+---
+
+![Полоса замедления](https://practicatest.com/views/layout/default/img/temario/B_EN/carril_deceleracion.jpg) 
+
+**Полоса замедления (Deceleration lane):** Для выезда с высокоскоростной дороги. Водители должны выезжать на эту полосу как можно скорее.
+
+---
+
+![Полоса разгона](https://practicatest.com/views/layout/default/img/temario/B_EN/carril_aceleracion.jpg) 
+
+**Полоса разгона (Acceleration lane):** Для въезда на высокоскоростную дорогу. Водители должны уступать дорогу, при необходимости даже останавливаясь.
 
