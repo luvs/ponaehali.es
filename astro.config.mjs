@@ -139,6 +139,29 @@ export default defineConfig({
               items: [
                 { label: 'Общая информация', link: '/guides/transport/pdd' },
                 {
+                  label: "Учебник от PracticaTest",
+                  items: [
+                    { label: 'Учебник от PracticaTest', link: '/guides/transport/pdd/practicatest' },
+                    { label: 'Дорожные знаки', link: '/guides/transport/pdd/practicatest/signs' },
+                    { label: 'Глава 1. Типы транспортных средств (Vehicle Types)', link: '/guides/transport/pdd/practicatest/chapter-01' },
+                    { label: 'Глава 2. Использование дорог общего пользования (Use of Public Roads)', link: '/guides/transport/pdd/practicatest/chapter-02' },
+                    { label: 'Глава 3. Скорость (Speed)', link: '/guides/transport/pdd/practicatest/chapter-03' },
+                    { label: 'Глава 4. Маневры (Maneuvers)', link: '/guides/transport/pdd/practicatest/chapter-04' },
+                    { label: 'Глава 5. Преимущественное право проезда (Right of Way)', link: '/guides/transport/pdd/practicatest/chapter-05' },
+                    { label: 'Глава 6. Перевозка людей и грузов (Transport of People and Goods)', link: '/guides/transport/pdd/practicatest/chapter-06' },
+                    { label: 'Глава 7. Освещение и оптические сигналы (Lighting and Optical Signals)', link: '/guides/transport/pdd/practicatest/chapter-07' },
+                    { label: 'Глава 8. Дорожные сигналы (Traffic Signals)', link: '/guides/transport/pdd/practicatest/chapter-08' },
+                    { label: 'Глава 9. Водительское удостоверение (Driver licence)', link: '/guides/transport/pdd/practicatest/chapter-09' },
+                    { label: 'Глава 10. Физическое состояние водителя (Physical Condition of the Driver)', link: '/guides/transport/pdd/practicatest/chapter-10' },
+                    { label: 'Глава 11. Другие участники дорожного движения (Other Users)', link: '/guides/transport/pdd/practicatest/chapter-11' },
+                    { label: 'Глава 12. Видимость и опасности на дороге (Visibility and Road Hazards)', link: '/guides/transport/pdd/practicatest/chapter-12' },
+                    { label: 'Глава 13. Сцепление, Шины и Тормоза (Traction, Tires and Brakes)', link: '/guides/transport/pdd/practicatest/chapter-13' },
+                    { label: 'Глава 14. Безопасное и экономичное вождение (Safety and Economical Driving)', link: '/guides/transport/pdd/practicatest/chapter-14' },
+                    { label: 'Глава 15. Аварии и Первая Помощь (Accidents and First Aid)', link: '/guides/transport/pdd/practicatest/chapter-15' },
+                    { label: 'Глава 16. Техническое обслуживание автомобиля (Automobile Maintenance)', link: '/guides/transport/pdd/practicatest/chapter-16' },
+                  ]
+                },
+                {
                   label: "Учебник от Todotest",
                   items: [
                     { label: 'Об учебнике', link: '/guides/transport/pdd/todotest' },
