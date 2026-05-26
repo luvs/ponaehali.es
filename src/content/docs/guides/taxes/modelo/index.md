@@ -15,6 +15,8 @@ description: Когда платить и подавать modelo
 
 - [Календарь 2024](https://sede.agenciatributaria.gob.es/Sede/en_gb/ayuda/calendario-contribuyente/calendario-contribuyente-2024/calendario-anual.html) на сайте налоговой, и [iCalendar](https://sede.agenciatributaria.gob.es/Sede/ayuda/calendario-contribuyente/icalendar.html) для добавления в календарь.
 
+- [Radar Fiscal](https://radarfiscal.es/ru/) — интерактивный календарь налоговых сроков для autónomos с учётом выходных и праздников. Есть расширение для [Chrome](https://chromewebstore.google.com/detail/radar-fiscal/jdgiqkpaaeeoimgkdicimnknoonahajo) и [Firefox](https://addons.mozilla.org/es/firefox/addon/radar-fiscal/) с уведомлениями.
+
 ## Modelo для физлица
 
 | Modelo                                                     | Описание                                                     | Срок                                                         |

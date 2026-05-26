@@ -11,3 +11,5 @@ description: Индивидуальный предприниматель в Ис
 - [Гайд как сделать электронную цифровую подпись FNMT](https://barcelona-startups-relocation.notion.site/How-to-get-a-Digital-Certificate-8ca4ec3ea31b43cd995bfdf2012e622a)
 
 - [Autonomo: полное руководство](https://nomadtax.es/guides)
+
+- [Radar Fiscal](https://radarfiscal.es/ru/) — календарь налоговых сроков для autónomos с напоминаниями (Chrome/Firefox).
